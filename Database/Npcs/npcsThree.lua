@@ -11599,7 +11599,7 @@ MultiLanguageNpcData['it'][135254] = {name = "Incursore Marferreo", subname = ni
 MultiLanguageNpcData['it'][135255] = {name = "Bersaglio Prosciugato", subname = nil}
 MultiLanguageNpcData['it'][135256] = {name = "Krag'wa l'Enorme", subname = nil}
 MultiLanguageNpcData['it'][135257] = {name = "Druido Lun'alai", subname = nil}
-MultiLanguageNpcData['it'][135258] = {name = "Predone Marferreo", subname = nil}
+MultiLanguageNpcData['it'][135258] = {name = "Lama Maledetta dei Marferreo", subname = nil}
 MultiLanguageNpcData['it'][135259] = {name = "Taelia", subname = nil}
 MultiLanguageNpcData['it'][135261] = {name = "Kiro's Buzzard - NEED NAME", subname = nil}
 MultiLanguageNpcData['it'][135262] = {name = "Jimmy Roarke", subname = nil}
@@ -14294,7 +14294,7 @@ MultiLanguageNpcData['it'][138243] = {name = "Servo Grottesco", subname = nil}
 MultiLanguageNpcData['it'][138244] = {name = "Baluardo Legnospino", subname = nil}
 MultiLanguageNpcData['it'][138245] = {name = "Balestriere Malstregato", subname = nil}
 MultiLanguageNpcData['it'][138246] = {name = "Soldato di Vimini", subname = nil}
-MultiLanguageNpcData['it'][138247] = {name = "Predone Marferreo", subname = nil}
+MultiLanguageNpcData['it'][138247] = {name = "Lama Maledetta dei Marferreo", subname = nil}
 MultiLanguageNpcData['it'][138248] = {name = "Grunt Ferito", subname = nil}
 MultiLanguageNpcData['it'][138249] = {name = "Cultista Cremisi", subname = nil}
 MultiLanguageNpcData['it'][138250] = {name = "Pozza delle Tenebre", subname = nil}
@@ -19748,7 +19748,6 @@ MultiLanguageNpcData['it'][144454] = {name = "Albero Segnato", subname = nil}
 MultiLanguageNpcData['it'][144455] = {name = "Granatiere Ferroscuro", subname = nil}
 MultiLanguageNpcData['it'][144457] = {name = "Armigero della VII Legione", subname = nil}
 MultiLanguageNpcData['it'][144458] = {name = "Saltaonde", subname = nil}
-MultiLanguageNpcData['it'][144459] = {name = "Serpente Marino", subname = nil}
 MultiLanguageNpcData['it'][144460] = {name = "Granchio Ingozzato", subname = nil}
 MultiLanguageNpcData['it'][144461] = {name = "Cucciolo di Saltaonde", subname = nil}
 MultiLanguageNpcData['it'][144462] = {name = "Granchio Guscioaguzzo", subname = nil}

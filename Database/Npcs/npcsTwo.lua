@@ -26207,7 +26207,6 @@ MultiLanguageNpcData['it'][95633] = {name = "Babagaya Ombrofaglia", subname = ni
 MultiLanguageNpcData['it'][95634] = {name = "Matero Zeshuwal", subname = nil}
 MultiLanguageNpcData['it'][95635] = {name = "Nagulon", subname = "Servitore di Matero Zeshuwal"}
 MultiLanguageNpcData['it'][95636] = {name = "Aiutante Sargerei", subname = nil}
-MultiLanguageNpcData['it'][95637] = {name = "Wrenix il Miserabile", subname = nil}
 MultiLanguageNpcData['it'][95638] = {name = "Portainsegna Sargerei", subname = nil}
 MultiLanguageNpcData['it'][95639] = {name = "Apparato Gizmotronico di Wrenix", subname = nil}
 MultiLanguageNpcData['it'][95640] = {name = "Fendianime Sargerei", subname = nil}
@@ -34630,7 +34629,7 @@ MultiLanguageNpcData['it'][105423] = {name = "Fenice", subname = nil}
 MultiLanguageNpcData['it'][105424] = {name = "Portatrice d'Asce Froijla", subname = nil}
 MultiLanguageNpcData['it'][105425] = {name = "Bunny", subname = nil}
 MultiLanguageNpcData['it'][105426] = {name = "Boost Kill Credit", subname = nil}
-MultiLanguageNpcData['it'][105427] = {name = "Totem della Furia del Cielo", subname = nil}
+MultiLanguageNpcData['it'][105427] = {name = "Totem dell'Ira", subname = nil}
 MultiLanguageNpcData['it'][105432] = {name = "Lafayla Granlama", subname = nil}
 MultiLanguageNpcData['it'][105433] = {name = "Roccia Silente", subname = nil}
 MultiLanguageNpcData['it'][105434] = {name = "Kill Credit: Rune of Portals Delivered", subname = nil}
