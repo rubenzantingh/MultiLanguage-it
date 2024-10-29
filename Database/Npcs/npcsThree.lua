@@ -19748,6 +19748,7 @@ MultiLanguageNpcData['it'][144454] = {name = "Albero Segnato", subname = nil}
 MultiLanguageNpcData['it'][144455] = {name = "Granatiere Ferroscuro", subname = nil}
 MultiLanguageNpcData['it'][144457] = {name = "Armigero della VII Legione", subname = nil}
 MultiLanguageNpcData['it'][144458] = {name = "Saltaonde", subname = nil}
+MultiLanguageNpcData['it'][144459] = {name = "Serpente Marino", subname = nil}
 MultiLanguageNpcData['it'][144460] = {name = "Granchio Ingozzato", subname = nil}
 MultiLanguageNpcData['it'][144461] = {name = "Cucciolo di Saltaonde", subname = nil}
 MultiLanguageNpcData['it'][144462] = {name = "Granchio Guscioaguzzo", subname = nil}

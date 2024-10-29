@@ -26207,6 +26207,7 @@ MultiLanguageNpcData['it'][95633] = {name = "Babagaya Ombrofaglia", subname = ni
 MultiLanguageNpcData['it'][95634] = {name = "Matero Zeshuwal", subname = nil}
 MultiLanguageNpcData['it'][95635] = {name = "Nagulon", subname = "Servitore di Matero Zeshuwal"}
 MultiLanguageNpcData['it'][95636] = {name = "Aiutante Sargerei", subname = nil}
+MultiLanguageNpcData['it'][95637] = {name = "Wrenix il Miserabile", subname = nil}
 MultiLanguageNpcData['it'][95638] = {name = "Portainsegna Sargerei", subname = nil}
 MultiLanguageNpcData['it'][95639] = {name = "Apparato Gizmotronico di Wrenix", subname = nil}
 MultiLanguageNpcData['it'][95640] = {name = "Fendianime Sargerei", subname = nil}
@@ -39217,7 +39218,6 @@ MultiLanguageNpcData['it'][110474] = {name = "Occultista Rakeeshi", subname = ni
 MultiLanguageNpcData['it'][110475] = {name = "Sorella Verdeggiante", subname = "Messaggera"}
 MultiLanguageNpcData['it'][110476] = {name = "Portale Demoniaco", subname = nil}
 MultiLanguageNpcData['it'][110477] = {name = "Maestro Mathias Shaw", subname = "Capo dell'IR:7"}
-MultiLanguageNpcData['it'][110478] = {name = "Adepto Illidari", subname = "Messaggero"}
 MultiLanguageNpcData['it'][110479] = {name = "Vilpipistrello", subname = nil}
 MultiLanguageNpcData['it'][110480] = {name = "Vilpipistrello", subname = nil}
 MultiLanguageNpcData['it'][110481] = {name = "Amber Kearnen", subname = "Tenente dell'IR:7"}
@@ -43125,7 +43125,6 @@ MultiLanguageNpcData['it'][114633] = {name = "Maschera Spettrale", subname = nil
 MultiLanguageNpcData['it'][114634] = {name = "Servitore Imperituro", subname = nil}
 MultiLanguageNpcData['it'][114636] = {name = "Armigero Fantasma", subname = nil}
 MultiLanguageNpcData['it'][114637] = {name = "Avvistatore Spettrale", subname = nil}
-MultiLanguageNpcData['it'][114638] = {name = "Gigante Putridanima", subname = nil}
 MultiLanguageNpcData['it'][114639] = {name = "Invocatore dei Coralli Kvaldir", subname = nil}
 MultiLanguageNpcData['it'][114640] = {name = "Segugio Infernale", subname = nil}
 MultiLanguageNpcData['it'][114641] = {name = "Campione di Terreno", subname = nil}
