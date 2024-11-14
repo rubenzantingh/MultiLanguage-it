@@ -2135,6 +2135,7 @@ MultiLanguageNpcData['it'][2669] = {name = "Sheri Puntocroce", subname = "Mercan
 MultiLanguageNpcData['it'][2670] = {name = "Xizk Puntaspilli", subname = "Mercante di Forniture di Sartoria"}
 MultiLanguageNpcData['it'][2672] = {name = "Crosby il Codardo", subname = "Mercante di Forniture di Sartoria"}
 MultiLanguageNpcData['it'][2673] = {name = "Manichino d'Allenamento", subname = nil}
+MultiLanguageNpcData['it'][2674] = {name = "Manichino d'Allenamento Avanzato", subname = nil}
 MultiLanguageNpcData['it'][2675] = {name = "Pecora Esplosiva", subname = nil}
 MultiLanguageNpcData['it'][2676] = {name = "Mietitore Portatile", subname = nil}
 MultiLanguageNpcData['it'][2678] = {name = "Minidrago Meccanico", subname = nil}
