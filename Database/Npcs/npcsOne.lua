@@ -2966,6 +2966,7 @@ MultiLanguageNpcData['it'][3582] = {name = "Aman", subname = nil}
 MultiLanguageNpcData['it'][3583] = {name = "Barithras Ombraluna", subname = nil}
 MultiLanguageNpcData['it'][3584] = {name = "Therylune", subname = nil}
 MultiLanguageNpcData['it'][3585] = {name = "Therysil", subname = nil}
+MultiLanguageNpcData['it'][3586] = {name = "Minatore Johnson", subname = nil}
 MultiLanguageNpcData['it'][3587] = {name = "Lyrai", subname = "Mercante di Forniture Generiche"}
 MultiLanguageNpcData['it'][3588] = {name = "Khardan Lamafiera", subname = "Fabbro d'Armi"}
 MultiLanguageNpcData['it'][3589] = {name = "Keina", subname = "Fabbricante d'Archi"}
@@ -13314,12 +13315,12 @@ MultiLanguageNpcData['it'][20073] = {name = "Ghanim", subname = nil}
 MultiLanguageNpcData['it'][20074] = {name = "Riding Talbuk (Elite)", subname = nil}
 MultiLanguageNpcData['it'][20075] = {name = "Crocolisco Acquascura", subname = nil}
 MultiLanguageNpcData['it'][20076] = {name = "Distillatore Naga", subname = nil}
-MultiLanguageNpcData['it'][20078] = {name = "Riservista Guardiasangue Evocato", subname = nil}
+MultiLanguageNpcData['it'][20078] = {name = "Riservista Guardiasangue", subname = nil}
 MultiLanguageNpcData['it'][20079] = {name = "Avvistatore Crestascura", subname = nil}
 MultiLanguageNpcData['it'][20080] = {name = "Galgrom", subname = "Approvvigionatore"}
 MultiLanguageNpcData['it'][20081] = {name = "Bortega", subname = "Mercante di Reagenti e Veleni"}
 MultiLanguageNpcData['it'][20082] = {name = "Yarley", subname = "Armaiolo"}
-MultiLanguageNpcData['it'][20083] = {name = "Guaritore Guardiasangue Evocato", subname = nil}
+MultiLanguageNpcData['it'][20083] = {name = "Guaritore Guardiasangue", subname = nil}
 MultiLanguageNpcData['it'][20084] = {name = "Immagine di Haramad il Principe del Nexus", subname = nil}
 MultiLanguageNpcData['it'][20085] = {name = "Infernal Invasion Hero Say Director", subname = nil}
 MultiLanguageNpcData['it'][20086] = {name = "Netherstorm Triangulation Point One Trigger", subname = nil}
@@ -15401,7 +15402,7 @@ MultiLanguageNpcData['it'][22923] = {name = "Simon Game Bunny", subname = nil}
 MultiLanguageNpcData['it'][22924] = {name = "Arthorn Soffiavento", subname = nil}
 MultiLanguageNpcData['it'][22925] = {name = "Rain of Fire Bunny (Alliance)", subname = nil}
 MultiLanguageNpcData['it'][22926] = {name = "Poison Cloud Bunny (Horde)", subname = nil}
-MultiLanguageNpcData['it'][22927] = {name = "Ethereum Prisoner (Dungeon Energy Ball)", subname = nil}
+MultiLanguageNpcData['it'][22927] = {name = "Prigioniero degli Etereum", subname = nil}
 MultiLanguageNpcData['it'][22928] = {name = "Ambasciatore Pax'ivi", subname = nil}
 MultiLanguageNpcData['it'][22929] = {name = "Spirito d'Ombra Superiore", subname = nil}
 MultiLanguageNpcData['it'][22930] = {name = "Yor", subname = "Segugio del Vuoto di Shaffar"}
