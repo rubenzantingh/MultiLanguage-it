@@ -2051,7 +2051,7 @@ MultiLanguageSpellData['it'][474653] = {name = "Utilità: Richiamo di Buferapium
 MultiLanguageSpellData['it'][474658] = {name = "Chiaro di Luna Oscuro", additional_info = "Portata illimitata\nIstantaneo\n[q]Il Chiaro di Luna Oscuro riduce la velocità di lancio d'incantesimi del 50%."}
 MultiLanguageSpellData['it'][474672] = {name = "Scrittura Note", additional_info = "Canalizzato\n[q]Permette di prendere appunti mentre Bargus e Angorla riparano la scheggia spezzata."}
 MultiLanguageSpellData['it'][474679] = {name = "Rianimatore Roccioso", additional_info = "Istantaneo\n[q]Scatena l'energia residua dei ciottoli e delle pietre irrequiete nelle vicinanze, permettendo loro di aiutarti in combattimento per un breve periodo."}
-MultiLanguageSpellData['it'][474688] = {name = "Sblocco Brontolino", additional_info = "[q0][Item Effect]3 s di lancio\n[q]Allows you to summon Grumplings using the Box of Puntables toy.\n [ Already known ]"}
+MultiLanguageSpellData['it'][474688] = {name = "Sblocco Brontolino", additional_info = "[q0][Item Effect]3 s di lancio\n[q]Permette di evocare i Brontolini usando il giocattolo Scatola di Lanciabili.\n [ Già appreso ]"}
 MultiLanguageSpellData['it'][474690] = {name = "Evocazione: Brontolino", additional_info = "Istantaneo\n[q]Evoca dei Brontolini."}
 MultiLanguageSpellData['it'][474691] = {name = "Evocazione: Brontolini", additional_info = "Canalizzato (5 s di lancio)\n[q]Evoca un'Anatra Infuriata che aiuta l'incantatore in combattimento."}
 MultiLanguageSpellData['it'][474698] = {name = "Riforgiatura", additional_info = "Canalizzato (0 s di lancio)\n[q]Sfrutta le energie della forgia per ripristinare la parte esterna spezzata della scheggia."}
@@ -2225,3 +2225,5 @@ MultiLanguageSpellData['it'][1218030] = {name = "Scrigno del Mozzo", additional_
 MultiLanguageSpellData['it'][1218099] = {name = "Blocco", additional_info = nil}
 MultiLanguageSpellData['it'][1218100] = {name = "Blocco", additional_info = nil}
 MultiLanguageSpellData['it'][1218101] = {name = "Blocco", additional_info = nil}
+MultiLanguageSpellData['it'][1218981] = {name = "Carica di Scudo", additional_info = "Portata di 10 - 40 m\n{Istantaneo} {5 s di recupero}\n[q]Riduce i danni subiti del 240%.\n\n Aumenta la velocità di movimento del 240% per until canceled e respinge indietro tutti i nemici vicini che vengono travolti."}
+MultiLanguageSpellData['it'][1221338] = {name = "Calcio al Pallone", additional_info = "[q0][Item Effect]Portata di 40 m\n{Istantaneo} {5 s di recupero}\n[q]Calci il pallone verso un bersaglio alleato. Se potrà, te lo calcerà indietro subito."}

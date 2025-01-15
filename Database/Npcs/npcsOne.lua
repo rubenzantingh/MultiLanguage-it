@@ -6638,8 +6638,8 @@ MultiLanguageNpcData['it'][10264] = {name = "Solakar Aurardente", subname = nil}
 MultiLanguageNpcData['it'][10266] = {name = "Ug'thok", subname = "Apprendista Fabbro"}
 MultiLanguageNpcData['it'][10267] = {name = "Tinkee Vapormarcio", subname = nil}
 MultiLanguageNpcData['it'][10268] = {name = "Gizrul il Capobranco", subname = nil}
-MultiLanguageNpcData['it'][10276] = {name = "Rotgath Barbapietra", subname = "Apprendista Fabbro"}
-MultiLanguageNpcData['it'][10277] = {name = "Groum Barbapietra", subname = "Apprendista Fabbro"}
+MultiLanguageNpcData['it'][10276] = {name = "Rotgath Barbapietra", subname = "Mastro Fabbro"}
+MultiLanguageNpcData['it'][10277] = {name = "Groum Barbapietra", subname = "Fabbro"}
 MultiLanguageNpcData['it'][10278] = {name = "Thrag Zoccolo Granitico", subname = "Apprendista Fabbro"}
 MultiLanguageNpcData['it'][10290] = {name = "Melma di Vilbosco Catturata", subname = nil}
 MultiLanguageNpcData['it'][10291] = {name = "Krysteea", subname = "Istruttrice dei Guerrieri"}
@@ -7109,7 +7109,7 @@ MultiLanguageNpcData['it'][11141] = {name = "Spirito di Trey Forgialuce", subnam
 MultiLanguageNpcData['it'][11142] = {name = "Postino Non Morto", subname = nil}
 MultiLanguageNpcData['it'][11143] = {name = "Postino Malown", subname = nil}
 MultiLanguageNpcData['it'][11144] = {name = "Sfera Oracolo", subname = nil}
-MultiLanguageNpcData['it'][11145] = {name = "Mastro Mondo Fendifuria", subname = nil}
+MultiLanguageNpcData['it'][11145] = {name = "Mastro Mondo Fendifuria", subname = "Custode della Grande Forgia"}
 MultiLanguageNpcData['it'][11146] = {name = "Ferrus Gelacciaio", subname = "Istruttore di Forgiatura"}
 MultiLanguageNpcData['it'][11147] = {name = "Tecnostruzzo Verde", subname = nil}
 MultiLanguageNpcData['it'][11148] = {name = "Tecnostruzzo Viola", subname = nil}
