@@ -1,3 +1,4 @@
+MultiLanguageSpellData['it'][464582] = {name = "Tagliaonde Inaffidabile dei Goblin", additional_info = "Portata di 5 m\nIstantaneo\n[q]Evoca e congeda un Tagliaonde dei Goblin temporaneamente cavalcabile."}
 MultiLanguageSpellData['it'][464587] = {name = "Ricarica", additional_info = "Portata di 100 m\n1 s di lancio\n[q]Ricarica un'arma a distanza."}
 MultiLanguageSpellData['it'][464590] = {name = "Borsone di Lunacupa", additional_info = "0.1 s di lancio\n[q]Trascrivere una Carta di Lunacupa di Khaz Algar fornisce una probabilità del 0% di crearne un'altra.\n\n [ L'effetto all'equipaggiamento richiede la Runografia di Khaz Algar 1 ][ L'effetto all'equipaggiamento richiede la Runografia di Khaz Algar 1 ]"}
 MultiLanguageSpellData['it'][464593] = {name = "Seta Ghermitrice", additional_info = nil}
@@ -891,8 +892,10 @@ MultiLanguageSpellData['it'][468159] = {name = "Acqua Scura", additional_info = 
 MultiLanguageSpellData['it'][468162] = {name = "Ascia del Leviatano", additional_info = "Portata di mischia\n2 s di lancio\n[q]L'incantatore potenzia la propria arma così che affligga il bersaglio con Acqua Scura quando colpisce in mischia per 6 sec."}
 MultiLanguageSpellData['it'][468179] = {name = "Calcio dei Venti Impetuosi", additional_info = "Istantaneo\n[q]Solleva una potente folata di vento, infliggendo (359.5% of Attack power) danni da natura ai nemici frontali in un cono di 25 m, suddivisi equamente tra di loro. Aumenta i danni inflitti del 6% per ogni bersaglio colpito, fino al 30%.\n\n Fornisce Venti Impetuosi per 4 sec, aumentando le cure fornite da Nebbia Curativa del 100%."}
 MultiLanguageSpellData['it'][468186] = {name = "Reven", additional_info = "Istantaneo\n[q]Clicca col pulsante destro per evocare e congedare Reven."}
+MultiLanguageSpellData['it'][468205] = {name = "Serpente Celeste Ligneo", additional_info = "1.5 s di lancio\n[q]Evoca e congeda questa cavalcatura.\n[q]\"Un'opera d'arte vivente e volante.\"\nNegozio di gioco"}
 MultiLanguageSpellData['it'][468219] = {name = "Preda del Cacciatore", additional_info = "Istantaneo\n[q]Tiro Mortale colpisce 1 bersaglio aggiuntivo e infligge il 10% di danni aggiuntivi per ciascuno dei tuoi famigli attivi. Si accumula fino a 5 volte."}
 MultiLanguageSpellData['it'][468226] = {name = "Condotto Elettrico", additional_info = "Istantaneo\n[q]Fornisce una probabilità di essere colpiti dal fulmine, aumentando la velocità di movimento del 50% per 5 sec. Aumenta l'efficacia al 100% nelle zone esterne.\n\n Reincarnazione evoca un'Esplosione Tonante."}
+MultiLanguageSpellData['it'][468228] = {name = "Serpentello Celeste Ligneo", additional_info = "Istantaneo\n[q]Clicca col pulsante destro per evocare e congedare questa mascotte."}
 MultiLanguageSpellData['it'][468231] = {name = "Impeto Sommerso", additional_info = "Portata di 100 m\nIstantaneo\n[q]Un vortice orbita intorno alla posizione dell'incantatore, affliggendo i nemici con cui entra in contatto con Acqua Scura."}
 MultiLanguageSpellData['it'][468232] = {name = "Impeto Sommerso", additional_info = "2 s di lancio\n[q]Un vortice orbita intorno alla posizione dell'incantatore, affliggendo i nemici con cui entra in contatto con Acqua Scura."}
 MultiLanguageSpellData['it'][468246] = {name = "Velocizzazione", additional_info = "Portata di 200 m\nIstantaneo\n[q]Quando un Golem viene distrutto, i Golem restanti infliggono il 25% di danni aggiuntivi fino alla fine dello scontro. Si accumula."}
@@ -1695,7 +1698,7 @@ MultiLanguageSpellData['it'][471683] = {name = "Raffica Celestiale", additional_
 MultiLanguageSpellData['it'][471696] = {name = "Zampa d'Uncino", additional_info = "1.5 s di lancio\n[q]Evoca e congeda questa cavalcatura.\n\n Questa cavalcatura può usare Viaggio in Compagnia.\n[q]\"Un tempo Zampa d'Uncino navigava con i Bucanieri Velerosse, poi ha salpato con gli Incursori di Acquanera, ma se n'è andato per vedere che bottino si poteva trovare oltre il mare aperto.\"\nEvento speciale:\nPlunderstorm"}
 MultiLanguageSpellData['it'][471697] = {name = "Apprendimento Incantesimo: Zampa d'Uncino", additional_info = nil}
 MultiLanguageSpellData['it'][471706] = {name = "Invocazione Tempestosa", additional_info = "Portata di 30 m\n5 s di lancio\n[q]L'incantatore richiama un potente fulmine, che infligge 100 danni da natura ai nemici entro 30 m."}
-MultiLanguageSpellData['it'][471717] = {name = "Raffica Celestiale", additional_info = "{Canalizzato (2 s di lancio} {) 18 s di recupero}\n[q]- Attacco lineare\n- Tenere premuto per caricare\n- Portata estrema\n\nTempo di recupero: 18 s\n Richiama una raffica di raggi lunari che infliggono danni ai nemici.\n\n Tenere premuto per aumentare la portata."}
+MultiLanguageSpellData['it'][471717] = {name = "Raffica Celestiale", additional_info = "Canalizzato (2 s di lancio)\n[q]- Attacco lineare\n- Tenere premuto per caricare\n- Portata estrema\n\nTempo di recupero: 18 s\n Richiama una raffica di raggi lunari che infliggono danni ai nemici.\n\n Tenere premuto per aumentare la portata."}
 MultiLanguageSpellData['it'][471722] = {name = "Teletrasporto", additional_info = nil}
 MultiLanguageSpellData['it'][471726] = {name = "Teletrasporto", additional_info = nil}
 MultiLanguageSpellData['it'][471727] = {name = "Teletrasporto", additional_info = nil}
@@ -1785,7 +1788,7 @@ MultiLanguageSpellData['it'][472337] = {name = "Globo del Piegaonde Foscamarea",
 MultiLanguageSpellData['it'][472353] = {name = "Raffica Celestiale", additional_info = nil}
 MultiLanguageSpellData['it'][472360] = {name = "Lanterna del Vrykul Ribelle", additional_info = "[q0][Item Effect]Istantaneo\n[q]Lanciare un'abilità principale di classe con tempo di recupero infonde con la ferocia degli spiriti dei Vrykul, aumentando l'indice di critico di 171 per 8 sec.\n\n La durata dell'effetto aumenta fino a un massimo di 40 s in base a quando si è stati infusi l'ultima volta."}
 MultiLanguageSpellData['it'][472370] = {name = "Esplosione Macigno", additional_info = nil}
-MultiLanguageSpellData['it'][472390] = {name = "Raffica Celestiale", additional_info = "{Canalizzato (2 s di lancio} {) 16 s di recupero}\n[q]- Attacco lineare\n- Tenere premuto per caricare\n- Portata estrema\n\nTempo di recupero: 16 s\n Richiama una raffica di raggi lunari che infliggono danni ai nemici.\n\n Tenere premuto per aumentare la portata."}
+MultiLanguageSpellData['it'][472390] = {name = "Raffica Celestiale", additional_info = "Canalizzato (2 s di lancio)\n[q]- Attacco lineare\n- Tenere premuto per caricare\n- Portata estrema\n\nTempo di recupero: 16 s\n Richiama una raffica di raggi lunari che infliggono danni ai nemici.\n\n Tenere premuto per aumentare la portata."}
 MultiLanguageSpellData['it'][472391] = {name = "Raffica Celestiale", additional_info = nil}
 MultiLanguageSpellData['it'][472392] = {name = "Raffica Celestiale", additional_info = nil}
 MultiLanguageSpellData['it'][472393] = {name = "Raffica Celestiale", additional_info = nil}
@@ -1798,8 +1801,8 @@ MultiLanguageSpellData['it'][472399] = {name = "Raffica Celestiale", additional_
 MultiLanguageSpellData['it'][472400] = {name = "Raffica Celestiale", additional_info = nil}
 MultiLanguageSpellData['it'][472401] = {name = "Raffica Celestiale", additional_info = nil}
 MultiLanguageSpellData['it'][472402] = {name = "Raffica Celestiale", additional_info = nil}
-MultiLanguageSpellData['it'][472403] = {name = "Raffica Celestiale", additional_info = "{Canalizzato (2 s di lancio} {) 14 s di recupero}\n[q]- Attacco lineare\n- Tenere premuto per caricare\n- Portata estrema\n\nTempo di recupero: 14 s\n Richiama una raffica di raggi lunari che infliggono danni ai nemici.\n\n Tenere premuto per aumentare la portata."}
-MultiLanguageSpellData['it'][472406] = {name = "Raffica Celestiale", additional_info = "{Canalizzato (2 s di lancio} {) 12 s di recupero}\n[q]- Attacco lineare\n- Tenere premuto per caricare\n- Portata estrema\n\nTempo di recupero: 12 s\n Richiama una raffica di raggi lunari che infliggono danni ai nemici.\n\n Tenere premuto per aumentare la portata."}
+MultiLanguageSpellData['it'][472403] = {name = "Raffica Celestiale", additional_info = "Canalizzato (2 s di lancio)\n[q]- Attacco lineare\n- Tenere premuto per caricare\n- Portata estrema\n\nTempo di recupero: 14 s\n Richiama una raffica di raggi lunari che infliggono danni ai nemici.\n\n Tenere premuto per aumentare la portata."}
+MultiLanguageSpellData['it'][472406] = {name = "Raffica Celestiale", additional_info = "Canalizzato (2 s di lancio)\n[q]- Attacco lineare\n- Tenere premuto per caricare\n- Portata estrema\n\nTempo di recupero: 12 s\n Richiama una raffica di raggi lunari che infliggono danni ai nemici.\n\n Tenere premuto per aumentare la portata."}
 MultiLanguageSpellData['it'][472407] = {name = "Raffica Celestiale", additional_info = nil}
 MultiLanguageSpellData['it'][472408] = {name = "Raffica Celestiale", additional_info = nil}
 MultiLanguageSpellData['it'][472409] = {name = "Raffica Celestiale", additional_info = nil}
@@ -1835,7 +1838,7 @@ MultiLanguageSpellData['it'][472651] = {name = "Rogo Rovente", additional_info =
 MultiLanguageSpellData['it'][472696] = {name = "Squarcio del Vuoto", additional_info = "{Istantaneo} {18 s di recupero}\n[q]- Riposizionamento\n- Azioni di rilancio\n- Rallentamento\n\nTempo di recupero: 18 s\n Apre uno squarcio nel vuoto, piazzandovi un marchio. Rilanciare Squarcio del Vuoto riporta istantaneamente sul marchio, infliggendo danni ai nemici e riducendone la velocità di movimento.\n\n Può essere lanciato durante il lancio di altri incantesimi."}
 MultiLanguageSpellData['it'][472701] = {name = "Aiutante", additional_info = nil}
 MultiLanguageSpellData['it'][472704] = {name = "Realtà Strappata", additional_info = "{Istantaneo} {1 s di recupero}\n[q]- Riposizionamento\n- Azioni di rilancio\n- Rallentamento\n\nTempo di recupero: 18 s\n Apre uno squarcio nel vuoto, piazzandovi un marchio. Rilanciare Squarcio del Vuoto riporta istantaneamente sul marchio, infliggendo danni ai nemici e riducendone la velocità di movimento.\n\n Può essere lanciato durante il lancio di altri incantesimi."}
-MultiLanguageSpellData['it'][472725] = {name = "Tubo", additional_info = "[q0][Item Effect]Istantaneo\n[q]Find someone to help pull open the cracker. One participant will receive a surprise."}
+MultiLanguageSpellData['it'][472725] = {name = "Tubo", additional_info = "[q0][Item Effect]Istantaneo\n[q]Trova qualcuno che ti aiuti ad aprire il tubo. Un partecipante riceverà una sorpresa."}
 MultiLanguageSpellData['it'][472726] = {name = "Squarcio del Vuoto", additional_info = nil}
 MultiLanguageSpellData['it'][472730] = {name = "Interazione", additional_info = nil}
 MultiLanguageSpellData['it'][472738] = {name = "Tiro Tubo", additional_info = nil}
@@ -2201,6 +2204,7 @@ MultiLanguageSpellData['it'][1216089] = {name = "Imbobinamento", additional_info
 MultiLanguageSpellData['it'][1216189] = {name = "Apertura", additional_info = nil}
 MultiLanguageSpellData['it'][1216229] = {name = "Partenza da Tol Dagor", additional_info = nil}
 MultiLanguageSpellData['it'][1216418] = {name = "Zaino Razzo Sperimentale", additional_info = "Portata di 100 m\nIstantaneo\n[q]Scende in picchiata sulla posizione bersaglio."}
+MultiLanguageSpellData['it'][1216542] = {name = "Falco di Fuoco Regale Ardente", additional_info = "1.5 s di lancio\n[q]Evoca e congeda un Falco di Fuoco Regale Ardente cavalcabile, una cavalcatura volante.\n[q]\"Solo le anime più appassionate e i cuori più caldi possono rivendicare il Falco di Fuoco Regale Ardente come cavalcatura.\"\nPromozione"}
 MultiLanguageSpellData['it'][1216696] = {name = "Portale: Gala dei Regali...?", additional_info = "Istantaneo\n[q]Teletrasporta l'incantatore a Roccavento."}
 MultiLanguageSpellData['it'][1216697] = {name = "Portale: Gala dei Regali...?", additional_info = "Istantaneo\n[q]Teletrasporta l'incantatore al Gala dei Regali."}
 MultiLanguageSpellData['it'][1216746] = {name = "Scatola del Bottino a Sorpresa di Landro", additional_info = nil}
@@ -2225,5 +2229,9 @@ MultiLanguageSpellData['it'][1218030] = {name = "Scrigno del Mozzo", additional_
 MultiLanguageSpellData['it'][1218099] = {name = "Blocco", additional_info = nil}
 MultiLanguageSpellData['it'][1218100] = {name = "Blocco", additional_info = nil}
 MultiLanguageSpellData['it'][1218101] = {name = "Blocco", additional_info = nil}
+MultiLanguageSpellData['it'][1218374] = {name = "Monitor", additional_info = nil}
+MultiLanguageSpellData['it'][1218980] = {name = "Espelli Passeggero 1", additional_info = nil}
 MultiLanguageSpellData['it'][1218981] = {name = "Carica di Scudo", additional_info = "Portata di 10 - 40 m\n{Istantaneo} {5 s di recupero}\n[q]Riduce i danni subiti del 240%.\n\n Aumenta la velocità di movimento del 240% per until canceled e respinge indietro tutti i nemici vicini che vengono travolti."}
+MultiLanguageSpellData['it'][1220498] = {name = "Teletrasporto con Errore", additional_info = "5 s di lancio\n[q]Ti teletrasporta esattamente dove tu vuoi... Se non sei troppo esigente."}
 MultiLanguageSpellData['it'][1221338] = {name = "Calcio al Pallone", additional_info = "[q0][Item Effect]Portata di 40 m\n{Istantaneo} {5 s di recupero}\n[q]Calci il pallone verso un bersaglio alleato. Se potrà, te lo calcerà indietro subito."}
+MultiLanguageSpellData['it'][1221476] = {name = "Tracking Quest", additional_info = nil}

@@ -26754,7 +26754,6 @@ MultiLanguageNpcData['it'][96267] = {name = "Cervo Corno Saldo", subname = nil}
 MultiLanguageNpcData['it'][96268] = {name = "Predatore di Montagna", subname = nil}
 MultiLanguageNpcData['it'][96270] = {name = "Ebissian", subname = nil}
 MultiLanguageNpcData['it'][96271] = {name = "Castoro Codaspinosa", subname = nil}
-MultiLanguageNpcData['it'][96273] = {name = "Irathion", subname = "Principe Nero"}
 MultiLanguageNpcData['it'][96274] = {name = "Cerbiatta Maculata", subname = nil}
 MultiLanguageNpcData['it'][96275] = {name = "Irathion", subname = "Principe Nero"}
 MultiLanguageNpcData['it'][96276] = {name = "Alafina della Legione", subname = nil}
