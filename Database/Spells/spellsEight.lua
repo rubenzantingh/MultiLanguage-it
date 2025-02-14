@@ -2235,3 +2235,7 @@ MultiLanguageSpellData['it'][1218981] = {name = "Carica di Scudo", additional_in
 MultiLanguageSpellData['it'][1220498] = {name = "Teletrasporto con Errore", additional_info = "5 s di lancio\n[q]Ti teletrasporta esattamente dove tu vuoi... Se non sei troppo esigente."}
 MultiLanguageSpellData['it'][1221338] = {name = "Calcio al Pallone", additional_info = "[q0][Item Effect]Portata di 40 m\n{Istantaneo} {5 s di recupero}\n[q]Calci il pallone verso un bersaglio alleato. Se potrà, te lo calcerà indietro subito."}
 MultiLanguageSpellData['it'][1221476] = {name = "Tracking Quest", additional_info = nil}
+MultiLanguageSpellData['it'][1223890] = {name = "Aura del Fanatismo", additional_info = nil}
+MultiLanguageSpellData['it'][1223891] = {name = "Aura del Fanatismo", additional_info = nil}
+MultiLanguageSpellData['it'][1223893] = {name = "Aura del Fanatismo", additional_info = nil}
+MultiLanguageSpellData['it'][1223894] = {name = "Aura del Fanatismo", additional_info = nil}

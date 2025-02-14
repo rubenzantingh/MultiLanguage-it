@@ -39547,7 +39547,7 @@ MultiLanguageNpcData['it'][52934] = {name = "Custode dell'Ombra", subname = nil}
 MultiLanguageNpcData['it'][52935] = {name = "Marin Alatagliente", subname = nil}
 MultiLanguageNpcData['it'][52936] = {name = "Druido delle Fiamme", subname = nil}
 MultiLanguageNpcData['it'][52937] = {name = "Attendente Druidico", subname = nil}
-MultiLanguageNpcData['it'][52938] = {name = "Siame-Quashi", subname = "Élite Lanciascura"}
+MultiLanguageNpcData['it'][52938] = {name = "Atal-Mhuto", subname = "Élite Lanciascura"}
 MultiLanguageNpcData['it'][52939] = {name = "Hazlek", subname = nil}
 MultiLanguageNpcData['it'][52940] = {name = "Cadavere di Hazlek", subname = nil}
 MultiLanguageNpcData['it'][52941] = {name = "Bakkalzu", subname = nil}
