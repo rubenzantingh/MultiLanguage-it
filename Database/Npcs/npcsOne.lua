@@ -24386,7 +24386,7 @@ MultiLanguageNpcData['it'][33695] = {name = "Bombarolo Cultista", subname = nil}
 MultiLanguageNpcData['it'][33696] = {name = "Arcimaga Rhydian", subname = nil}
 MultiLanguageNpcData['it'][33697] = {name = "Ancient Target Furente", subname = nil}
 MultiLanguageNpcData['it'][33698] = {name = "Pacificatore d'Argento", subname = nil}
-MultiLanguageNpcData['it'][33699] = {name = "Protettore Temprato della Tempesta", subname = nil}
+MultiLanguageNpcData['it'][33699] = {name = "Custode Temprato dalla Tempesta", subname = nil}
 MultiLanguageNpcData['it'][33701] = {name = "Gran Esploratrice Dellorah", subname = "Lega degli Esploratori"}
 MultiLanguageNpcData['it'][33704] = {name = "Abominio Gelido", subname = nil}
 MultiLanguageNpcData['it'][33705] = {name = "Runa del Potere", subname = nil}
@@ -24405,7 +24405,7 @@ MultiLanguageNpcData['it'][33718] = {name = "Consorte di Bronzo", subname = nil}
 MultiLanguageNpcData['it'][33719] = {name = "Consorte di Smeraldo", subname = nil}
 MultiLanguageNpcData['it'][33720] = {name = "Consorte d'Ossidiana", subname = nil}
 MultiLanguageNpcData['it'][33721] = {name = "Unità di Proiezione dello Storico", subname = nil}
-MultiLanguageNpcData['it'][33722] = {name = "Protettore Temprato della Tempesta", subname = nil}
+MultiLanguageNpcData['it'][33722] = {name = "Custode Temprato dalla Tempesta", subname = nil}
 MultiLanguageNpcData['it'][33725] = {name = "Thorim Trap Bunny", subname = nil}
 MultiLanguageNpcData['it'][33726] = {name = "Demolitore di Troncorotto", subname = nil}
 MultiLanguageNpcData['it'][33727] = {name = "Anacoreta Buurq", subname = nil}
