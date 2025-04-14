@@ -7722,7 +7722,7 @@ MultiLanguageSpellData['it'][290245] = {name = "Viaggio nel Tempo", additional_i
 MultiLanguageSpellData['it'][290246] = {name = "Viaggio nel Tempo", additional_info = "Portata illimitata\nIstantaneo\n[q]Un viaggio nel tempo."}
 MultiLanguageSpellData['it'][290247] = {name = "Rotazione", additional_info = "1.5 s di lancio"}
 MultiLanguageSpellData['it'][290249] = {name = "Luce del Mare", additional_info = "[q0][Item Effect][q]Diminuisce gli effetti di Venti Ululanti mentre si combatte contro Dama Jaina Marefiero."}
-MultiLanguageSpellData['it'][290250] = {name = "Danza della Pioggia", additional_info = "[q0]Specializzazione de Tank – Riga 1 talento di PvP\n[q]Rende Pioggia Curativa istantanea, più efficace del 30% e con un costo in mana ridotto del 45%."}
+MultiLanguageSpellData['it'][290250] = {name = "Danza della Pioggia", additional_info = "[q0]Specializzazione de Tank – Riga 1 talento di PvP\n[q]Rende Pioggia Curativa istantanea, più efficace del 50% e con un costo in mana ridotto del 60%."}
 MultiLanguageSpellData['it'][290251] = {name = "Gira!", additional_info = "{Istantaneo} {1 s di recupero}\n[q]Fai girare la lama!"}
 MultiLanguageSpellData['it'][290252] = {name = "Rp Credit", additional_info = "Istantaneo\n[q]Ascolta il discorso di Re Wrynn."}
 MultiLanguageSpellData['it'][290253] = {name = "Fronte di Guerra: Battaglia per Rivafosca", additional_info = "Istantaneo\n[q]Sblocca il Fronte di Guerra: Battaglia per Rivafosca."}
