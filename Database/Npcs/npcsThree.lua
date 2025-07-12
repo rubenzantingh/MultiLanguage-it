@@ -38109,7 +38109,7 @@ MultiLanguageNpcData['it'][166019] = {name = "Falena Brillante", subname = nil}
 MultiLanguageNpcData['it'][166020] = {name = "Inseguitore Invisibile", subname = nil}
 MultiLanguageNpcData['it'][166021] = {name = "Indicatore di Percorso", subname = nil}
 MultiLanguageNpcData['it'][166022] = {name = "Volpino Sospettoso", subname = nil}
-MultiLanguageNpcData['it'][166023] = {name = "Maze Monkey Guide", subname = nil}
+MultiLanguageNpcData['it'][166023] = {name = "Maze Monkey Guide", subname = "I will be removed"}
 MultiLanguageNpcData['it'][166024] = {name = "Cerbiatto Runico Vivace", subname = nil}
 MultiLanguageNpcData['it'][166025] = {name = "Operatore di Palcoscenico", subname = "Compagnia Teatrale Luce Stellare"}
 MultiLanguageNpcData['it'][166026] = {name = "Servo di Mueh'zala", subname = nil}
@@ -38157,7 +38157,7 @@ MultiLanguageNpcData['it'][166069] = {name = "Riserva del Tributiere", subname =
 MultiLanguageNpcData['it'][166070] = {name = "Rotello", subname = "Locandiere"}
 MultiLanguageNpcData['it'][166071] = {name = "Boggart", subname = nil}
 MultiLanguageNpcData['it'][166073] = {name = "Falenarden Superiore", subname = nil}
-MultiLanguageNpcData['it'][166074] = {name = "Psuedo Trash", subname = nil}
+MultiLanguageNpcData['it'][166074] = {name = "Psuedo Trash", subname = "I will be replaced with Trash"}
 MultiLanguageNpcData['it'][166075] = {name = "Falenarden Alamaestosa", subname = nil}
 MultiLanguageNpcData['it'][166076] = {name = "Risors", subname = "Beni Recuperati e Riparazioni"}
 MultiLanguageNpcData['it'][166077] = {name = "Reliquia delle Anime", subname = nil}

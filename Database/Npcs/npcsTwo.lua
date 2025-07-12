@@ -41085,7 +41085,6 @@ MultiLanguageNpcData['it'][112441] = {name = "Robert Nuovonido", subname = "Capo
 MultiLanguageNpcData['it'][112442] = {name = "Cacciatore di Volpi Nobile Oscuro", subname = nil}
 MultiLanguageNpcData['it'][112443] = {name = "Volpin", subname = "Volpe"}
 MultiLanguageNpcData['it'][112444] = {name = "Rapace Volante delle Alture", subname = nil}
-MultiLanguageNpcData['it'][112445] = {name = "Johnny Meraviglia", subname = "Supergilda"}
 MultiLanguageNpcData['it'][112446] = {name = "1% Credit", subname = nil}
 MultiLanguageNpcData['it'][112447] = {name = "3% Credit", subname = nil}
 MultiLanguageNpcData['it'][112448] = {name = "5% Credit", subname = nil}
