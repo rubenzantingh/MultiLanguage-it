@@ -40603,7 +40603,7 @@ MultiLanguageNpcData['it'][54439] = {name = "Avatar di Rhyolith", subname = nil}
 MultiLanguageNpcData['it'][54440] = {name = "Avatar di Shannox", subname = nil}
 MultiLanguageNpcData['it'][54441] = {name = "Taumaturgo Vashreen", subname = "Riforgiatore Arcano"}
 MultiLanguageNpcData['it'][54442] = {name = "Mistico Distorcente Hashom", subname = "Trasmogrificatore"}
-MultiLanguageNpcData['it'][54443] = {name = "Banchiere Etereo Razhid", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][54443] = {name = "Banchiere Etereo Razhid", subname = nil}
 MultiLanguageNpcData['it'][54444] = {name = "Gnoll di Lunacupa", subname = nil}
 MultiLanguageNpcData['it'][54445] = {name = "Eco di Jaina", subname = nil}
 MultiLanguageNpcData['it'][54446] = {name = "Brace del Nucleo Infuocato", subname = nil}
@@ -40614,7 +40614,7 @@ MultiLanguageNpcData['it'][54466] = {name = "Darkmoon Faire Gnoll - Baby", subna
 MultiLanguageNpcData['it'][54467] = {name = "Tromba d'Aria", subname = nil}
 MultiLanguageNpcData['it'][54470] = {name = "Allucinazione del Desiderio", subname = nil}
 MultiLanguageNpcData['it'][54471] = {name = "Taumaturgo Zajir", subname = "Riforgiatore Arcano"}
-MultiLanguageNpcData['it'][54472] = {name = "Banchiere Etereo Jazra", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][54472] = {name = "Banchiere Etereo Jazra", subname = nil}
 MultiLanguageNpcData['it'][54473] = {name = "Mistico Distorcente Dushar", subname = "Trasmogrificatore"}
 MultiLanguageNpcData['it'][54474] = {name = "Nebbia del Tempo", subname = nil}
 MultiLanguageNpcData['it'][54475] = {name = "Granchio", subname = nil}

@@ -17395,7 +17395,7 @@ MultiLanguageNpcData['it'][85286] = {name = "Segugio del Nucleo", subname = nil}
 MultiLanguageNpcData['it'][85287] = {name = "Ranea Passo Lungo", subname = "Banchiera di Gilda"}
 MultiLanguageNpcData['it'][85288] = {name = "Banchiere Maeelthas", subname = "Banca Eterea"}
 MultiLanguageNpcData['it'][85289] = {name = "Mistico Distorcente Farshlah", subname = "Trasmogrificatore"}
-MultiLanguageNpcData['it'][85290] = {name = "Banchiere Sarniv", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][85290] = {name = "Banchiere Sarniv", subname = nil}
 MultiLanguageNpcData['it'][85291] = {name = "Mistico Distorcente Tuviss", subname = "Trasmogrificatore"}
 MultiLanguageNpcData['it'][85292] = {name = "Murgtar", subname = nil}
 MultiLanguageNpcData['it'][85293] = {name = "Stigander Laccioferreo", subname = nil}
@@ -23747,7 +23747,7 @@ MultiLanguageNpcData['it'][92865] = {name = "Araldo dell'Alba d'Argento", subnam
 MultiLanguageNpcData['it'][92866] = {name = "Araldo dell'Alba d'Argento", subname = nil}
 MultiLanguageNpcData['it'][92867] = {name = "Resti di Zannafuriosa Marcescente", subname = nil}
 MultiLanguageNpcData['it'][92868] = {name = "Arboscello di Treant", subname = nil}
-MultiLanguageNpcData['it'][92870] = {name = "Furia di Sindragosa", subname = nil}
+MultiLanguageNpcData['it'][92870] = {name = "Furia del Dragone del Gelo", subname = nil}
 MultiLanguageNpcData['it'][92871] = {name = "Ysera Taxi Mouthpiece", subname = nil}
 MultiLanguageNpcData['it'][92872] = {name = "Spirito", subname = nil}
 MultiLanguageNpcData['it'][92873] = {name = "Torcianime Vilfedele", subname = nil}
@@ -48465,7 +48465,7 @@ MultiLanguageNpcData['it'][120841] = {name = "Cacciatrice Assassina", subname = 
 MultiLanguageNpcData['it'][120842] = {name = "Aelthalyste", subname = nil}
 MultiLanguageNpcData['it'][120843] = {name = "Teppista Amani", subname = nil}
 MultiLanguageNpcData['it'][120844] = {name = "Alleria Ventolesto", subname = nil}
-MultiLanguageNpcData['it'][120845] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][120845] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][120846] = {name = "Mercante Zandalari", subname = "Commerciante"}
 MultiLanguageNpcData['it'][120847] = {name = "Maestro Bu", subname = nil}
 MultiLanguageNpcData['it'][120849] = {name = "Sacerdote da Guerra", subname = nil}

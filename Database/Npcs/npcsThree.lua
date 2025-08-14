@@ -7097,7 +7097,7 @@ MultiLanguageNpcData['it'][129867] = {name = "Zeppelin Bombardatore", subname = 
 MultiLanguageNpcData['it'][129868] = {name = "Avvoltoio del Canyon", subname = nil}
 MultiLanguageNpcData['it'][129869] = {name = "Radicatore Affamato", subname = nil}
 MultiLanguageNpcData['it'][129870] = {name = "Maestro dei Cinghiali Spinomanto", subname = nil}
-MultiLanguageNpcData['it'][129871] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][129871] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][129872] = {name = "Vereesa Ventolesto", subname = "Generale dei Guardaboschi del Patto d'Argento"}
 MultiLanguageNpcData['it'][129873] = {name = "Sentinella delle Rovine", subname = nil}
 MultiLanguageNpcData['it'][129874] = {name = "Bracconiere Senzafede", subname = nil}
@@ -29869,7 +29869,7 @@ MultiLanguageNpcData['it'][156660] = {name = "Capitano Garrick", subname = nil}
 MultiLanguageNpcData['it'][156661] = {name = "Varlasen", subname = nil}
 MultiLanguageNpcData['it'][156662] = {name = "Capitano Garrick", subname = nil}
 MultiLanguageNpcData['it'][156663] = {name = "Mistico Distorcente Ta'oren", subname = "Trasmogrificatore"}
-MultiLanguageNpcData['it'][156664] = {name = "Banchiere Ta'khis", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][156664] = {name = "Banchiere Ta'khis", subname = nil}
 MultiLanguageNpcData['it'][156665] = {name = "Cacciatore d'Anime Onorato", subname = nil}
 MultiLanguageNpcData['it'][156666] = {name = "Fabbro Au'berk", subname = "Istruttore di Forgiatura"}
 MultiLanguageNpcData['it'][156667] = {name = "Scuoiatore Au'khem", subname = "Istruttore di Scuoiatura"}
@@ -29981,7 +29981,7 @@ MultiLanguageNpcData['it'][156796] = {name = "Etereolino Selvaggio", subname = n
 MultiLanguageNpcData['it'][156797] = {name = "Kill Credit - Control Point", subname = nil}
 MultiLanguageNpcData['it'][156798] = {name = "Kill Credit - Control Point Three", subname = nil}
 MultiLanguageNpcData['it'][156799] = {name = "Henry Garrick", subname = nil}
-MultiLanguageNpcData['it'][156800] = {name = "Quartiermastro Richter", subname = "Rifornimenti"}
+MultiLanguageNpcData['it'][156800] = {name = "Quartiermastro Richter", subname = "Forniture e Riparazioni"}
 MultiLanguageNpcData['it'][156801] = {name = "Soldato Cole", subname = nil}
 MultiLanguageNpcData['it'][156802] = {name = "Bomba Runica", subname = nil}
 MultiLanguageNpcData['it'][156803] = {name = "Alaria", subname = nil}
