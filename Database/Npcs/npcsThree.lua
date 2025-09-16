@@ -26740,7 +26740,7 @@ MultiLanguageNpcData['it'][153080] = {name = "Voce della Regina", subname = "Gua
 MultiLanguageNpcData['it'][153081] = {name = "Festaiolo della Festa della Birra", subname = nil}
 MultiLanguageNpcData['it'][153082] = {name = "Festaiolo della Festa della Birra", subname = nil}
 MultiLanguageNpcData['it'][153083] = {name = "Vethan del Cuore Gelido", subname = nil}
-MultiLanguageNpcData['it'][153084] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][153084] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][153085] = {name = "Paladino Forgialuce", subname = nil}
 MultiLanguageNpcData['it'][153086] = {name = "Sacerdote da Guerra Forgialuce", subname = nil}
 MultiLanguageNpcData['it'][153087] = {name = "Baluardo Forgialuce", subname = nil}
@@ -39239,7 +39239,7 @@ MultiLanguageNpcData['it'][167209] = {name = "Niall Kugal", subname = nil}
 MultiLanguageNpcData['it'][167210] = {name = "Tabulatore Killham", subname = "Calcolatore di Perdite"}
 MultiLanguageNpcData['it'][167211] = {name = "Estrattore di Ricordi", subname = nil}
 MultiLanguageNpcData['it'][167212] = {name = "Signora della Guerra Breka Asciatetra", subname = nil}
-MultiLanguageNpcData['it'][167213] = {name = "Approvvigionatore Jin'hake", subname = nil}
+MultiLanguageNpcData['it'][167213] = {name = "Approvvigionatore Jin'hake", subname = "Riparazioni e Forniture"}
 MultiLanguageNpcData['it'][167214] = {name = "Difensore di Agthia", subname = nil}
 MultiLanguageNpcData['it'][167215] = {name = "Mithdran Braccaurora", subname = "Stalliere"}
 MultiLanguageNpcData['it'][167216] = {name = "Grunt Throg", subname = nil}

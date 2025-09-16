@@ -17393,7 +17393,7 @@ MultiLanguageNpcData['it'][85282] = {name = "Cucciolo di Mantosolare", subname =
 MultiLanguageNpcData['it'][85285] = {name = "Feezzel Strappazenzero", subname = "Lega degli Esploratori"}
 MultiLanguageNpcData['it'][85286] = {name = "Segugio del Nucleo", subname = nil}
 MultiLanguageNpcData['it'][85287] = {name = "Ranea Passo Lungo", subname = "Banchiera di Gilda"}
-MultiLanguageNpcData['it'][85288] = {name = "Banchiere Maeelthas", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][85288] = {name = "Banchiere Maeelthas", subname = nil}
 MultiLanguageNpcData['it'][85289] = {name = "Mistico Distorcente Farshlah", subname = "Trasmogrificatore"}
 MultiLanguageNpcData['it'][85290] = {name = "Banchiere Sarniv", subname = nil}
 MultiLanguageNpcData['it'][85291] = {name = "Mistico Distorcente Tuviss", subname = "Trasmogrificatore"}
@@ -17990,7 +17990,7 @@ MultiLanguageNpcData['it'][85958] = {name = "Bert Segamonete", subname = "Banchi
 MultiLanguageNpcData['it'][85959] = {name = "Ernst ten Bosch", subname = "Maestro di Volo"}
 MultiLanguageNpcData['it'][85960] = {name = "Melma Sulfurea", subname = nil}
 MultiLanguageNpcData['it'][85961] = {name = "Mistico Distorcente Shal", subname = "Trasmogrificatore"}
-MultiLanguageNpcData['it'][85962] = {name = "Banchiere Nizsham", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][85962] = {name = "Banchiere Nizsham", subname = nil}
 MultiLanguageNpcData['it'][85963] = {name = "Orville Manfred", subname = "Stalliere"}
 MultiLanguageNpcData['it'][85964] = {name = "Georgitte Tyron", subname = "Banditrice d'Asta"}
 MultiLanguageNpcData['it'][85965] = {name = "Marion Vosel", subname = "Istruttrice di Mascotte"}
@@ -18398,7 +18398,7 @@ MultiLanguageNpcData['it'][86392] = {name = "Vendicatore Nobundo", subname = nil
 MultiLanguageNpcData['it'][86393] = {name = "Drek'thar il Chiaroveggente", subname = nil}
 MultiLanguageNpcData['it'][86394] = {name = "Lupo Cavalcabile", subname = nil}
 MultiLanguageNpcData['it'][86395] = {name = "Mistico Distorcente Dasor", subname = "Trasmogrificatore"}
-MultiLanguageNpcData['it'][86396] = {name = "Banchiere Vohra", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][86396] = {name = "Banchiere Vohra", subname = nil}
 MultiLanguageNpcData['it'][86397] = {name = "Infestazione Sovversiva", subname = nil}
 MultiLanguageNpcData['it'][86398] = {name = "Schermagliatore di Nagrand", subname = nil}
 MultiLanguageNpcData['it'][86399] = {name = "Orco Manomozza", subname = nil}
@@ -43074,7 +43074,7 @@ MultiLanguageNpcData['it'][114596] = {name = "Millhouse Manalampo", subname = "K
 MultiLanguageNpcData['it'][114597] = {name = "Chen Triplo Malto", subname = nil}
 MultiLanguageNpcData['it'][114598] = {name = "Signore delle Scimmie", subname = nil}
 MultiLanguageNpcData['it'][114599] = {name = "Vendicatore Boros", subname = nil}
-MultiLanguageNpcData['it'][114600] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][114600] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][114601] = {name = "Zabra Hexx", subname = nil}
 MultiLanguageNpcData['it'][114602] = {name = "Sol", subname = nil}
 MultiLanguageNpcData['it'][114603] = {name = "Vanessa VanCleef", subname = "Senza Corona"}

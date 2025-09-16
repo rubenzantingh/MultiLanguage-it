@@ -10415,7 +10415,7 @@ MultiLanguageNpcData['it'][16882] = {name = "Console Numerica", subname = nil}
 MultiLanguageNpcData['it'][16883] = {name = "Cavalcatura di Silas", subname = nil}
 MultiLanguageNpcData['it'][16884] = {name = "Cavallo da Guerra", subname = nil}
 MultiLanguageNpcData['it'][16885] = {name = "Amythiel Calcanebbia", subname = nil}
-MultiLanguageNpcData['it'][16886] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][16886] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][16887] = {name = "Occhio della Rocca dell'Onore", subname = nil}
 MultiLanguageNpcData['it'][16888] = {name = "Mahuram Zoccolo Robusto", subname = nil}
 MultiLanguageNpcData['it'][16889] = {name = "Celebrante di Roccavento", subname = nil}
