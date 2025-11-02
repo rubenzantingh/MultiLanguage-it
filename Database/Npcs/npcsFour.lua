@@ -1,3 +1,4 @@
+MultiLanguageNpcData['it'][175417] = {name = "Sulana", subname = "Fabbro d'Armi Mitiche di Nathria"}
 MultiLanguageNpcData['it'][175418] = {name = "Mar'lan", subname = "Commerciante di Armature dei Silfi della Notte"}
 MultiLanguageNpcData['it'][175419] = {name = "Maestra Artigiana Lamda", subname = "Potenziamenti Oggetti"}
 MultiLanguageNpcData['it'][175420] = {name = "Zampabianca", subname = nil}
@@ -8487,7 +8488,7 @@ MultiLanguageNpcData['it'][185685] = {name = "Reliquia Urh", subname = nil}
 MultiLanguageNpcData['it'][185686] = {name = "Contenitore di Esemplari", subname = nil}
 MultiLanguageNpcData['it'][185687] = {name = "Al'ara", subname = nil}
 MultiLanguageNpcData['it'][185688] = {name = "Pellegrino Illuminato", subname = nil}
-MultiLanguageNpcData['it'][185689] = {name = "Banchiere Aleer", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][185689] = {name = "Banchiere Aleer", subname = nil}
 MultiLanguageNpcData['it'][185690] = {name = "Esemplare di Ricerca", subname = nil}
 MultiLanguageNpcData['it'][185691] = {name = "Iena Malvagia", subname = nil}
 MultiLanguageNpcData['it'][185692] = {name = "Esemplare di Ricerca", subname = nil}
@@ -24213,7 +24214,7 @@ MultiLanguageNpcData['it'][204832] = {name = "Visitatore della Fiera Vile", subn
 MultiLanguageNpcData['it'][204833] = {name = "Fondopasso Elusivo", subname = nil}
 MultiLanguageNpcData['it'][204834] = {name = "Fondopasso Colossale Elusivo", subname = nil}
 MultiLanguageNpcData['it'][204835] = {name = "Zenata", subname = "Tecnoarcheologa"}
-MultiLanguageNpcData['it'][204836] = {name = "Stalker", subname = nil}
+MultiLanguageNpcData['it'][204836] = {name = "Inseguitore", subname = nil}
 MultiLanguageNpcData['it'][204837] = {name = "Vipera Elusiva", subname = nil}
 MultiLanguageNpcData['it'][204838] = {name = "Invisible Bunny", subname = nil}
 MultiLanguageNpcData['it'][204839] = {name = "Zannascisto Elusivo", subname = nil}
@@ -27524,7 +27525,7 @@ MultiLanguageNpcData['it'][209382] = {name = "Blue Whelp", subname = nil}
 MultiLanguageNpcData['it'][209383] = {name = "Green Whelp", subname = nil}
 MultiLanguageNpcData['it'][209384] = {name = "Red Whelp", subname = nil}
 MultiLanguageNpcData['it'][209385] = {name = "Kill Credit: Approach Eternus", subname = nil}
-MultiLanguageNpcData['it'][209386] = {name = "Great Gnomeregan Race Gate Marker", subname = nil}
+MultiLanguageNpcData['it'][209386] = {name = "Segnalatore della Grande Gara di Gnomeregan", subname = nil}
 MultiLanguageNpcData['it'][209387] = {name = "Zinzula", subname = nil}
 MultiLanguageNpcData['it'][209390] = {name = "Ammiraglia Pepper", subname = nil}
 MultiLanguageNpcData['it'][209391] = {name = "Image of Blix Swiftwing", subname = nil}
@@ -43642,7 +43643,7 @@ MultiLanguageNpcData['it'][230314] = {name = "Discount Goblin Security", subname
 MultiLanguageNpcData['it'][230316] = {name = "Elettrofolgoratore v2", subname = nil}
 MultiLanguageNpcData['it'][230318] = {name = "Thimble", subname = nil}
 MultiLanguageNpcData['it'][230320] = {name = "Resti Scheletrici", subname = nil}
-MultiLanguageNpcData['it'][230321] = {name = "Xithixxin", subname = "[General of Ny'alotha]"}
+MultiLanguageNpcData['it'][230321] = {name = "Xithixxin", subname = "Generale di Ny'alotha"}
 MultiLanguageNpcData['it'][230322] = {name = "Stix Tritabrande", subname = nil}
 MultiLanguageNpcData['it'][230323] = {name = "Barrelbottom Resident", subname = nil}
 MultiLanguageNpcData['it'][230330] = {name = "N'zoth il Corruttore", subname = nil}
@@ -43732,7 +43733,7 @@ MultiLanguageNpcData['it'][230460] = {name = "Renzik \"Stiletto\"", subname = "A
 MultiLanguageNpcData['it'][230461] = {name = "Monte Sparachiodi", subname = "Principe del Commercio degli Acqualorda"}
 MultiLanguageNpcData['it'][230462] = {name = "K'aresh Flyer", subname = nil}
 MultiLanguageNpcData['it'][230463] = {name = "Dead Grunt", subname = nil}
-MultiLanguageNpcData['it'][230464] = {name = "Domineering K'arroc", subname = nil}
+MultiLanguageNpcData['it'][230464] = {name = "K'arroc Autoritario", subname = nil}
 MultiLanguageNpcData['it'][230466] = {name = "Saltatore Lappino", subname = nil}
 MultiLanguageNpcData['it'][230467] = {name = "AOE Invis Bunny", subname = nil}
 MultiLanguageNpcData['it'][230470] = {name = "Void Creeper", subname = "[T1 (1/1)]"}
@@ -43822,17 +43823,17 @@ MultiLanguageNpcData['it'][230564] = {name = "Deposito di Armi", subname = nil}
 MultiLanguageNpcData['it'][230567] = {name = "Destriero Fidato", subname = nil}
 MultiLanguageNpcData['it'][230568] = {name = "Goccia Schizzata", subname = nil}
 MultiLanguageNpcData['it'][230569] = {name = "Coagulante per Elisir", subname = nil}
-MultiLanguageNpcData['it'][230570] = {name = "Aqir Shadowcaster", subname = nil}
+MultiLanguageNpcData['it'][230570] = {name = "Mago d'Ombra Aqir", subname = nil}
 MultiLanguageNpcData['it'][230571] = {name = "Distruttore Aqir", subname = nil}
 MultiLanguageNpcData['it'][230572] = {name = "Winged Ruin", subname = nil}
 MultiLanguageNpcData['it'][230573] = {name = "Veggente Ombrale", subname = nil}
 MultiLanguageNpcData['it'][230574] = {name = "Destriero Fidato", subname = nil}
 MultiLanguageNpcData['it'][230575] = {name = "Resti di Desertico", subname = nil}
 MultiLanguageNpcData['it'][230576] = {name = "Campione Prescelto", subname = nil}
-MultiLanguageNpcData['it'][230577] = {name = "Shadowlasher", subname = nil}
-MultiLanguageNpcData['it'][230578] = {name = "Shadowshaper", subname = nil}
-MultiLanguageNpcData['it'][230579] = {name = "Screaming Shadow", subname = nil}
-MultiLanguageNpcData['it'][230580] = {name = "Waking Darkness", subname = nil}
+MultiLanguageNpcData['it'][230577] = {name = "Sferzaombre", subname = nil}
+MultiLanguageNpcData['it'][230578] = {name = "Plasmaombre", subname = nil}
+MultiLanguageNpcData['it'][230579] = {name = "Ombra Urlante", subname = nil}
+MultiLanguageNpcData['it'][230580] = {name = "Oscurità Vigile", subname = nil}
 MultiLanguageNpcData['it'][230583] = {name = "Ingraniere Lockenstock", subname = nil}
 MultiLanguageNpcData['it'][230584] = {name = "Void Shard", subname = "[Critter]"}
 MultiLanguageNpcData['it'][230585] = {name = "Voidwiggler", subname = "[Critter]"}
@@ -44665,7 +44666,7 @@ MultiLanguageNpcData['it'][231698] = {name = "Onderiva Adulto", subname = nil}
 MultiLanguageNpcData['it'][231699] = {name = "Hizfran l'Esiliato", subname = nil}
 MultiLanguageNpcData['it'][231700] = {name = "Kill Credit - Ritual 1", subname = nil}
 MultiLanguageNpcData['it'][231701] = {name = "Kill Credit - Ritual 2", subname = nil}
-MultiLanguageNpcData['it'][231702] = {name = "Lorewalker Cho", subname = nil}
+MultiLanguageNpcData['it'][231702] = {name = "Ramingo della Sapienza Cho", subname = nil}
 MultiLanguageNpcData['it'][231703] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
 MultiLanguageNpcData['it'][231704] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
 MultiLanguageNpcData['it'][231706] = {name = "Ramingo del Locus", subname = nil}
@@ -44690,16 +44691,16 @@ MultiLanguageNpcData['it'][231734] = {name = "Vuoto del Dubbio", subname = nil}
 MultiLanguageNpcData['it'][231735] = {name = "Vuoto della Vergogna", subname = nil}
 MultiLanguageNpcData['it'][231736] = {name = "Vuoto dell'Esitazione", subname = nil}
 MultiLanguageNpcData['it'][231737] = {name = "Crystal Watcher Memory", subname = nil}
-MultiLanguageNpcData['it'][231742] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
-MultiLanguageNpcData['it'][231743] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
+MultiLanguageNpcData['it'][231742] = {name = "Mishi", subname = "Famiglio del Ramingo della Sapienza Cho"}
+MultiLanguageNpcData['it'][231743] = {name = "Mishi", subname = "Famiglio del Ramingo della Sapienza Cho"}
 MultiLanguageNpcData['it'][231744] = {name = "Crystal Guardian", subname = nil}
 MultiLanguageNpcData['it'][231745] = {name = "Darkfuse Hobgoblin Caster", subname = "[T2 (2/1.2)]"}
 MultiLanguageNpcData['it'][231746] = {name = "Marshall Wiltshire", subname = nil}
 MultiLanguageNpcData['it'][231747] = {name = "Sharon Wiltshire", subname = nil}
 MultiLanguageNpcData['it'][231748] = {name = "Maggie Wiltshire", subname = nil}
 MultiLanguageNpcData['it'][231749] = {name = "Goblin Flyer", subname = "[T2 (2/1.2)]"}
-MultiLanguageNpcData['it'][231750] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
-MultiLanguageNpcData['it'][231751] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
+MultiLanguageNpcData['it'][231750] = {name = "Mishi", subname = "Famiglio del Ramingo della Sapienza Cho"}
+MultiLanguageNpcData['it'][231751] = {name = "Mishi", subname = "Famiglio del Ramingo della Sapienza Cho"}
 MultiLanguageNpcData['it'][231752] = {name = "Dead Farmhand", subname = nil}
 MultiLanguageNpcData['it'][231753] = {name = "Darkfuse Flying Mech", subname = "[T2 (2/1.2)]"}
 MultiLanguageNpcData['it'][231754] = {name = "Portal", subname = nil}
@@ -44724,7 +44725,7 @@ MultiLanguageNpcData['it'][231781] = {name = "Faerin Lothar", subname = nil}
 MultiLanguageNpcData['it'][231783] = {name = "Macchinista Kromleg", subname = nil}
 MultiLanguageNpcData['it'][231784] = {name = "Protettore Dimenticato", subname = nil}
 MultiLanguageNpcData['it'][231785] = {name = "Panca", subname = nil}
-MultiLanguageNpcData['it'][231786] = {name = "Bench", subname = nil}
+MultiLanguageNpcData['it'][231786] = {name = "Panca", subname = nil}
 MultiLanguageNpcData['it'][231787] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['it'][231788] = {name = "Mina Strisciante Instabile", subname = nil}
 MultiLanguageNpcData['it'][231789] = {name = "Kill Credit [DNT]", subname = nil}
@@ -44747,8 +44748,8 @@ MultiLanguageNpcData['it'][231812] = {name = "Marty Sfrecciacarro", subname = "D
 MultiLanguageNpcData['it'][231814] = {name = "Razzo Instabile", subname = nil}
 MultiLanguageNpcData['it'][231815] = {name = "Bomb Bot", subname = nil}
 MultiLanguageNpcData['it'][231816] = {name = "Effimero Tremolante", subname = "T1 (1.0/1.0)"}
-MultiLanguageNpcData['it'][231817] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
-MultiLanguageNpcData['it'][231818] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
+MultiLanguageNpcData['it'][231817] = {name = "Mishi", subname = "Famiglio del Ramingo della Sapienza Cho"}
+MultiLanguageNpcData['it'][231818] = {name = "Mishi", subname = "Famiglio del Ramingo della Sapienza Cho"}
 MultiLanguageNpcData['it'][231819] = {name = "Visitatore Portuale", subname = nil}
 MultiLanguageNpcData['it'][231820] = {name = "Ve'nari", subname = "Fondatrice del Concordato"}
 MultiLanguageNpcData['it'][231821] = {name = "Il Padrino Goblin", subname = "Campione del Demolitorium"}
@@ -44784,7 +44785,7 @@ MultiLanguageNpcData['it'][231856] = {name = "Overlord Geya'rah", subname = nil}
 MultiLanguageNpcData['it'][231859] = {name = "KC: Portal to Highlands Spawned [DNT]", subname = nil}
 MultiLanguageNpcData['it'][231860] = {name = "KC: Use Portal to Arathi Highlands", subname = nil}
 MultiLanguageNpcData['it'][231879] = {name = "Custode del Tempo Sporca", subname = nil}
-MultiLanguageNpcData['it'][231891] = {name = "Lorewalker Cho", subname = nil}
+MultiLanguageNpcData['it'][231891] = {name = "Ramingo della Sapienza Cho", subname = nil}
 MultiLanguageNpcData['it'][231893] = {name = "Custode del Tempo Sporca", subname = nil}
 MultiLanguageNpcData['it'][231898] = {name = "Chelone Portuale", subname = nil}
 MultiLanguageNpcData['it'][231899] = {name = "Effimero Tremolante", subname = "T1 (1.0/1.0)"}
@@ -45110,7 +45111,7 @@ MultiLanguageNpcData['it'][232437] = {name = "Popolano di Forgiascura", subname 
 MultiLanguageNpcData['it'][232438] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['it'][232439] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['it'][232440] = {name = "Emissario del Crepuscolo", subname = nil}
-MultiLanguageNpcData['it'][232441] = {name = "Lorewalker Cho", subname = nil}
+MultiLanguageNpcData['it'][232441] = {name = "Ramingo della Sapienza Cho", subname = nil}
 MultiLanguageNpcData['it'][232443] = {name = "Guardia del Corpo del Crepuscolo", subname = nil}
 MultiLanguageNpcData['it'][232444] = {name = "Cliente Torvo", subname = nil}
 MultiLanguageNpcData['it'][232445] = {name = "Scheletro Sfregiato dall'Acqua", subname = nil}
@@ -45546,4 +45547,3 @@ MultiLanguageNpcData['it'][233139] = {name = "Macchinista Kromleg", subname = ni
 MultiLanguageNpcData['it'][233142] = {name = "Cliente Torvo", subname = nil}
 MultiLanguageNpcData['it'][233143] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['it'][233144] = {name = "Stendardo degli Algari Temprato", subname = nil}
-MultiLanguageNpcData['it'][233145] = {name = "Stendardo degli Algari Stimato", subname = nil}

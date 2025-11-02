@@ -1,3 +1,4 @@
+MultiLanguageNpcData['it'][120958] = {name = "Vilcavaliere Xorotiano", subname = nil}
 MultiLanguageNpcData['it'][120959] = {name = "Nuovo Incarico di Lavoro", subname = nil}
 MultiLanguageNpcData['it'][120961] = {name = "Impatto Infernale", subname = nil}
 MultiLanguageNpcData['it'][120962] = {name = "Vilchelicera Cantamaree", subname = nil}
@@ -46833,4 +46834,3 @@ MultiLanguageNpcData['it'][175413] = {name = "Scintilbrezza", subname = "Fabbro 
 MultiLanguageNpcData['it'][175414] = {name = "Adera", subname = "Fabbro d'Armi Normali di Nathria"}
 MultiLanguageNpcData['it'][175415] = {name = "Harkoth", subname = "Fabbro d'Armi Eroiche di Nathria"}
 MultiLanguageNpcData['it'][175416] = {name = "Miggi", subname = nil}
-MultiLanguageNpcData['it'][175417] = {name = "Sulana", subname = "Fabbro d'Armi Mitiche di Nathria"}

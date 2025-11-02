@@ -1,3 +1,4 @@
+MultiLanguageNpcData['it'][64753] = {name = "Sofi Nautica", subname = "Allenatrice di Mascotte"}
 MultiLanguageNpcData['it'][64754] = {name = "Jaynewind Patel", subname = "Allenatrice di Mascotte"}
 MultiLanguageNpcData['it'][64755] = {name = "Sharyn Fogliargenta", subname = "Allenatrice di Mascotte"}
 MultiLanguageNpcData['it'][64757] = {name = "Shonuf", subname = "Il Plasmafuoco"}
@@ -27002,7 +27003,7 @@ MultiLanguageNpcData['it'][96602] = {name = "Vendicatrice Corin", subname = nil}
 MultiLanguageNpcData['it'][96603] = {name = "Giustiziera Julia Celeste", subname = nil}
 MultiLanguageNpcData['it'][96604] = {name = "Jorad Mace", subname = nil}
 MultiLanguageNpcData['it'][96605] = {name = "Leoric Von Zeldig", subname = nil}
-MultiLanguageNpcData['it'][96606] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][96606] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][96608] = {name = "Worg Cupartiglio", subname = nil}
 MultiLanguageNpcData['it'][96609] = {name = "Cervo Peldorato", subname = nil}
 MultiLanguageNpcData['it'][96611] = {name = "Zoccolofurioso Adulto", subname = nil}
@@ -29257,13 +29258,13 @@ MultiLanguageNpcData['it'][99228] = {name = "Kayn Furiasolare", subname = "Illid
 MultiLanguageNpcData['it'][99229] = {name = "Altruis il Sofferente", subname = "Illidari"}
 MultiLanguageNpcData['it'][99230] = {name = "Vilpipistrello Illidari", subname = nil}
 MultiLanguageNpcData['it'][99232] = {name = "Difensore di Talrendis", subname = nil}
-MultiLanguageNpcData['it'][99233] = {name = "Brace", subname = nil}
+MultiLanguageNpcData['it'][99233] = {name = "Brace Vivente", subname = nil}
 MultiLanguageNpcData['it'][99234] = {name = "Storica di Talrendis", subname = nil}
 MultiLanguageNpcData['it'][99235] = {name = "Kill Credit: Bad Intentions", subname = nil}
 MultiLanguageNpcData['it'][99236] = {name = "Sentinella di Talrendis", subname = nil}
 MultiLanguageNpcData['it'][99237] = {name = "Mago Guardiano del Patto d'Argento", subname = nil}
 MultiLanguageNpcData['it'][99238] = {name = "Lancialame di Talrendis", subname = nil}
-MultiLanguageNpcData['it'][99240] = {name = "Contromisure", subname = nil}
+MultiLanguageNpcData['it'][99240] = {name = "Contenimento del Gelo Profondo", subname = nil}
 MultiLanguageNpcData['it'][99241] = {name = "Comandante Jarrodenus", subname = nil}
 MultiLanguageNpcData['it'][99242] = {name = "Sunken City BO - 5 Points", subname = nil}
 MultiLanguageNpcData['it'][99244] = {name = "Ippogrifo Preda Cielo", subname = nil}
@@ -29955,7 +29956,7 @@ MultiLanguageNpcData['it'][99993] = {name = "Xaxion Drak'eem", subname = nil}
 MultiLanguageNpcData['it'][99994] = {name = "Jorad Mace", subname = nil}
 MultiLanguageNpcData['it'][99995] = {name = "Giustiziera Julia Celeste", subname = nil}
 MultiLanguageNpcData['it'][99996] = {name = "Leoric Von Zeldig", subname = nil}
-MultiLanguageNpcData['it'][99997] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][99997] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][99998] = {name = "Ser Cavaliere Sangueprode", subname = nil}
 MultiLanguageNpcData['it'][99999] = {name = "Ser Solanar Furiasangue", subname = nil}
 MultiLanguageNpcData['it'][100000] = {name = "Johnny Awesomer", subname = nil}
@@ -48557,4 +48558,3 @@ MultiLanguageNpcData['it'][120954] = {name = "Stendardo dell'Alleanza", subname 
 MultiLanguageNpcData['it'][120955] = {name = "Stendardo dell'Orda", subname = nil}
 MultiLanguageNpcData['it'][120956] = {name = "Idolo di Aviana Purificato", subname = nil}
 MultiLanguageNpcData['it'][120957] = {name = "Desolation of the Moon Stalker", subname = nil}
-MultiLanguageNpcData['it'][120958] = {name = "Vilcavaliere Xorotiano", subname = nil}

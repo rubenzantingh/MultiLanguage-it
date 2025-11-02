@@ -47861,7 +47861,7 @@ MultiLanguageNpcData['it'][64570] = {name = "Tan Asta Forte", subname = "Mercant
 MultiLanguageNpcData['it'][64571] = {name = "Pozzo di Luce", subname = nil}
 MultiLanguageNpcData['it'][64572] = {name = "Sara Cambialeva", subname = "Istruttrice di Mascotte"}
 MultiLanguageNpcData['it'][64573] = {name = "Mistico Distorcente Ramahesh", subname = "Trasmogrificatore"}
-MultiLanguageNpcData['it'][64574] = {name = "Banchiere Etereo Edouin", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][64574] = {name = "Banchiere Etereo Edouin", subname = nil}
 MultiLanguageNpcData['it'][64575] = {name = "Chan Hoi-San", subname = "Rifugiata del Kun-Lai"}
 MultiLanguageNpcData['it'][64576] = {name = "Zorro", subname = "Mascotte da Combattimento"}
 MultiLanguageNpcData['it'][64577] = {name = "Violino", subname = "Mascotte da Combattimento"}
@@ -48021,4 +48021,3 @@ MultiLanguageNpcData['it'][64749] = {name = "Kur Zampa Lesta", subname = "Allena
 MultiLanguageNpcData['it'][64750] = {name = "Rob Jackson", subname = "Allenatrice di Mascotte"}
 MultiLanguageNpcData['it'][64751] = {name = "Signora Jackson", subname = "Allenatrice di Mascotte"}
 MultiLanguageNpcData['it'][64752] = {name = "Taner Halicioglu", subname = "Allenatrice di Mascotte"}
-MultiLanguageNpcData['it'][64753] = {name = "Sofi Nautica", subname = "Allenatrice di Mascotte"}
