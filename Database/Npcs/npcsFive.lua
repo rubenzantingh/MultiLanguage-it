@@ -4667,6 +4667,7 @@ MultiLanguageNpcData['it'][254092] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['it'][254093] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['it'][254164] = {name = "Manifestazione d'Acqua", subname = nil}
 MultiLanguageNpcData['it'][254369] = {name = "Controllore", subname = nil}
+MultiLanguageNpcData['it'][256938] = {name = "Servo Potenziato di Khadgar", subname = nil}
 MultiLanguageNpcData['it'][257023] = {name = "Iena", subname = nil}
 MultiLanguageNpcData['it'][257026] = {name = "Clefthoof", subname = nil}
 MultiLanguageNpcData['it'][257031] = {name = "Vilsegugio", subname = nil}
