@@ -1831,7 +1831,7 @@ MultiLanguageNpcData['it'][67009] = {name = "Allievo Monaco", subname = nil}
 MultiLanguageNpcData['it'][67010] = {name = "Psycho Mantid: Tik vs Kree'zot Bunny", subname = nil}
 MultiLanguageNpcData['it'][67011] = {name = "Grunt di Garrosh'ar", subname = nil}
 MultiLanguageNpcData['it'][67012] = {name = "Taran Zhu", subname = "Signore degli Shandaren"}
-MultiLanguageNpcData['it'][67013] = {name = "Banchiere Etereo Meelad", subname = "Banca Eterea"}
+MultiLanguageNpcData['it'][67013] = {name = "Banchiere Etereo Meelad", subname = nil}
 MultiLanguageNpcData['it'][67014] = {name = "Mistico Distorcente Shafiee", subname = "Trasmogrificatore"}
 MultiLanguageNpcData['it'][67015] = {name = "Allievo Monaco", subname = nil}
 MultiLanguageNpcData['it'][67016] = {name = "Torso della Statua Antica", subname = nil}

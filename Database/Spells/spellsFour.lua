@@ -1,5 +1,3 @@
-MultiLanguageSpellData['it'][222377] = {name = "Lothraxion: Vilcatena", additional_info = nil}
-MultiLanguageSpellData['it'][222378] = {name = "Frantumazione Macigni", additional_info = nil}
 MultiLanguageSpellData['it'][222380] = {name = "Aumento Valuta - Alimentare Shal'aran", additional_info = "Istantaneo 1 giorno di recupero\n[q]Aumenta la quantità massima di Mana Antico che puoi trasportare di 200."}
 MultiLanguageSpellData['it'][222381] = {name = "Aumento Valuta - Il fardello del Calcavalli", additional_info = "Istantaneo\n[q]Aumenta la quantità massima di Mana Antico che puoi trasportare di 300."}
 MultiLanguageSpellData['it'][222382] = {name = "Camola", additional_info = nil}
@@ -1879,11 +1877,11 @@ MultiLanguageSpellData['it'][224431] = {name = "Canale Arcano", additional_info 
 MultiLanguageSpellData['it'][224433] = {name = "Riduzione", additional_info = nil}
 MultiLanguageSpellData['it'][224434] = {name = "Canale Arcano", additional_info = nil}
 MultiLanguageSpellData['it'][224435] = {name = "Squarcio di Grigiomanto", additional_info = "Portata di 100 m\nIstantaneo\nRichiede Forma Felina\n[q]Le abilità che forniscono punti combo lanciate contro bersagli che sanguinano per un tuo Squarcio hanno una probabilità del 10% di risvegliare lo Spirito di Grigiomanto, infliggendo danni da ombra al bersaglio pari a quelli inflitti da Squarcio."}
-MultiLanguageSpellData['it'][224436] = {name = "Arcascarica", additional_info = "Istantaneo\n[q]Esplode di energia magica, infliggendo 136 danni da arcano a tutti i nemici entro 60 m."}
+MultiLanguageSpellData['it'][224436] = {name = "Arcascarica", additional_info = "Istantaneo\n[q]Esplode di energia magica, infliggendo 19132 danni da arcano a tutti i nemici entro 60 m."}
 MultiLanguageSpellData['it'][224437] = {name = "Rigurgito Fetido", additional_info = "[q0][Item Effect]Portata di 8 m\nIstantaneo\n[q]Consuma tutta la Poltiglia Coagulante per vomitare sui nemici frontali per 3 s, infliggendo [ 390 * (1 + Versatilità)] danni da natura per ogni poltiglia consumata."}
 MultiLanguageSpellData['it'][224438] = {name = "Aspirazione Spirito", additional_info = nil}
 MultiLanguageSpellData['it'][224439] = {name = "Cosmetic Use Standing Loop", additional_info = nil}
-MultiLanguageSpellData['it'][224440] = {name = "Urto Devastante", additional_info = "Portata di 12 m\n4 s di lancio\n[q]Infligge il 300% dei danni dell'arma e aumenta i danni fisici subiti dal bersaglio del 150% per 20 s."}
+MultiLanguageSpellData['it'][224440] = {name = "Urto Devastante", additional_info = "Portata di 12 m\n4 s di lancio\n[q]Infligge il 300% dei danni dell'arma e aumenta i danni fisici subiti dal bersaglio del 200% per 20 s."}
 MultiLanguageSpellData['it'][224443] = {name = "Cambio Fazione", additional_info = nil}
 MultiLanguageSpellData['it'][224444] = {name = "Potere Arcano", additional_info = nil}
 MultiLanguageSpellData['it'][224445] = {name = "Evocazione: Progenie", additional_info = nil}
@@ -3213,9 +3211,9 @@ MultiLanguageSpellData['it'][225922] = {name = "Cosmetic - Chef's Hat visual for
 MultiLanguageSpellData['it'][225923] = {name = "Face StringID - Facing Bunny", additional_info = nil}
 MultiLanguageSpellData['it'][225925] = {name = "Teletrasporto: Dalaran", additional_info = nil}
 MultiLanguageSpellData['it'][225926] = {name = "Fiamme", additional_info = nil}
-MultiLanguageSpellData['it'][225927] = {name = "Pozzo Gravitazionale", additional_info = "Portata di 60 m\n{3 s di lancio} {5 s di recupero}\n[q]L'incantatore trascina a sé i nemici vicini, infliggendo 90 danni da arcano e stordendoli."}
+MultiLanguageSpellData['it'][225927] = {name = "Pozzo Gravitazionale", additional_info = "Portata di 60 m\n{3 s di lancio} {5 s di recupero}\n[q]L'incantatore trascina a sé i nemici vicini, infliggendo 17085 danni da arcano e stordendoli."}
 MultiLanguageSpellData['it'][225928] = {name = "Postura della Montagna", additional_info = nil}
-MultiLanguageSpellData['it'][225929] = {name = "Pozzo Gravitazionale", additional_info = "Portata di 60 m\nIstantaneo\n[q]L'incantatore trascina a sé i nemici vicini, infliggendo 90 danni da arcano e stordendoli."}
+MultiLanguageSpellData['it'][225929] = {name = "Pozzo Gravitazionale", additional_info = "Portata di 60 m\nIstantaneo\n[q]L'incantatore trascina a sé i nemici vicini, infliggendo 17085 danni da arcano e stordendoli."}
 MultiLanguageSpellData['it'][225930] = {name = "Arru - Level 3", additional_info = nil}
 MultiLanguageSpellData['it'][225931] = {name = "Bristlemaul - Level 3", additional_info = nil}
 MultiLanguageSpellData['it'][225932] = {name = "Crawshuk the Hungry - Level 3", additional_info = nil}
@@ -3223,7 +3221,7 @@ MultiLanguageSpellData['it'][225934] = {name = "Infusione Spirituale", additiona
 MultiLanguageSpellData['it'][225935] = {name = "Sekhan - Level 3", additional_info = nil}
 MultiLanguageSpellData['it'][225936] = {name = "Slumber - Level 3", additional_info = nil}
 MultiLanguageSpellData['it'][225937] = {name = "Iris Cosmetic", additional_info = nil}
-MultiLanguageSpellData['it'][225938] = {name = "Pozzo Gravitazionale", additional_info = "Portata di 60 m\nIstantaneo\n[q]L'incantatore trascina a sé i nemici vicini, infliggendo 90 danni da arcano e stordendoli."}
+MultiLanguageSpellData['it'][225938] = {name = "Pozzo Gravitazionale", additional_info = "Portata di 60 m\nIstantaneo\n[q]L'incantatore trascina a sé i nemici vicini, infliggendo 17085 danni da arcano e stordendoli."}
 MultiLanguageSpellData['it'][225939] = {name = "Pioggia di Stelle", additional_info = "Portata di 100 m\nIstantaneo\n[q]Richiama le stelle."}
 MultiLanguageSpellData['it'][225940] = {name = "Pioggia di Stelle", additional_info = "Portata di 100 m\nIstantaneo\n[q]Richiama le stelle."}
 MultiLanguageSpellData['it'][225941] = {name = "Majestic Elderhorn - Level 3", additional_info = nil}
@@ -3396,7 +3394,7 @@ MultiLanguageSpellData['it'][226120] = {name = "[q2]Spalline di Scaglie di Folle
 MultiLanguageSpellData['it'][226121] = {name = "[q2]Paraspalle Inanellati", additional_info = "2 s di lancio\nReagenti:\nCuoio Medio (12), Elisir dell'Agilità Inferiore , Tintura Grigia , Filo Pregiato (2)\nReagenti Facoltativi:\n[] (#47)\nIstruttore delle Professioni:\nConciatura Classica (130)\nCosto:\n30\n\n[q2]Paraspalle Inanellati\nSi vincola all'equipaggiamento\nSpalle Maglia\n5 Armatura\n+4 [Agilità o Intelletto]Integrità 65 / 65\n11"}
 MultiLanguageSpellData['it'][226122] = {name = "[q2]Paramani dell'Elemento", additional_info = "2 s di lancio\nReagenti:\nCuoio Medio (12), Terra Elementale (2), Rotolo di Lana (2), Filo Pregiato (2)\nReagenti Facoltativi:\n[] (#47)\nIstruttore delle Professioni:\nConciatura Classica (135)\nCosto:\n35\n\n[q2]Paramani dell'Elemento\nSi vincola all'equipaggiamento\nMani Maglia\n4 Armatura\n+3 [Agilità o Intelletto]+3 Tempra\nIntegrità 40 / 40\n11"}
 MultiLanguageSpellData['it'][226123] = {name = "[q2]Guanti Lunghi di Scaglie Pesanti", additional_info = "2 s di lancio\nReagenti:\nCuoio Pesante (6), Zanna Grande (2), Filo Pregiato\nReagenti Facoltativi:\n[] (#48)\nIstruttore delle Professioni:\nConciatura Classica (140)\nCosto:\n40\n\n[q2]Guanti Lunghi di Scaglie Pesanti\nSi vincola all'equipaggiamento\nMani Maglia\n4 Armatura\n+3 [Agilità o Intelletto]+3 Tempra\nIntegrità 40 / 40\n11"}
-MultiLanguageSpellData['it'][226124] = {name = "[q3]Bracciali di Scaglie Pesanti", additional_info = "2 s di lancio\nReagenti:\nCuoio Pesante (8), Pelle Pesante Trattata (2), Piccola Perla Lucida (4), Pelle di Raptor , Zanna Grande (4)\nReagenti Facoltativi:\n[] (#48)\nIstruttore delle Professioni:\nConciatura Classica (150)\nCosto:\n65\n\n[q3]Bracciali di Scaglie Pesanti\nSi vincola all'equipaggiamento\nPolsi Maglia\n4 Armatura\n+1 [Agilità o Intelletto]+2 Tempra\nIntegrità 35 / 35\n12"}
+MultiLanguageSpellData['it'][226124] = {name = "[q3]Bracciali di Scaglie Pesanti", additional_info = "2 s di lancio\nReagenti:\nCuoio Pesante (8), Pelle Pesante Trattata (2), Piccola Perla Lucida (4), Pelle di Raptor , Zanna Grande (4)\nReagenti Facoltativi:\n[] (#48)\nIstruttore delle Professioni:\nConciatura Classica (150)\nCosto:\n65\n\n[q3]Bracciali di Scaglie Pesanti\nSi vincola all'equipaggiamento\nPolsi Maglia\n4 Armatura\n+1 [Agilità o Intelletto]+2 Tempra\nIntegrità 50 / 50\n12"}
 MultiLanguageSpellData['it'][226125] = {name = "[q2]Calzoni di Scaglie di Folletto", additional_info = "2 s di lancio\nReagenti:\nCuoio Pesante (12), Rotolo di Seta (2), Filo Pregiato (2)\nReagenti Facoltativi:\n[] (#48)\nIstruttore delle Professioni:\nConciatura Classica (150)\nCosto:\n65\n\n[q2]Calzoni di Scaglie di Folletto\nSi vincola all'equipaggiamento\nGambe Maglia\n7 Armatura\n+4 [Agilità o Intelletto]+4 Tempra\nIntegrità 85 / 85\n12"}
 MultiLanguageSpellData['it'][226126] = {name = "[q2]Pantaloni di Scaglie Pesanti", additional_info = "2 s di lancio\nReagenti:\nCuoio Pesante (10), Tintura Nera , Filo Pregiato (2)\nReagenti Facoltativi:\n[] (#48)\nIstruttore delle Professioni:\nConciatura Classica (155)\nCosto:\n10\n\n[q2]Pantaloni di Scaglie Pesanti\nSi vincola all'equipaggiamento\nGambe Maglia\n7 Armatura\n+6 [Agilità o Intelletto]Integrità 85 / 85\n12"}
 MultiLanguageSpellData['it'][226127] = {name = "[q2]Cinta di Scaglie di Folletto", additional_info = "2 s di lancio\nReagenti:\nPelle Pesante Trattata (2), Cuoio Pesante (4), Filo Pregiato , Fibbia di Ferro\nReagenti Facoltativi:\n[] (#48)\nIstruttore delle Professioni:\nConciatura Classica (160)\nCosto:\n90\n\n[q2]Cinta di Scaglie di Folletto\nSi vincola all'equipaggiamento\nFianchi Maglia\n5 Armatura\n+3 [Agilità o Intelletto]+3 Tempra\nIntegrità 40 / 40\n13"}
@@ -5067,7 +5065,7 @@ MultiLanguageSpellData['it'][228124] = {name = "Warm Up Seamless Scenario", addi
 MultiLanguageSpellData['it'][228125] = {name = "Lancianebbie", additional_info = nil}
 MultiLanguageSpellData['it'][228126] = {name = "Warm Up Seamless Scenario", additional_info = nil}
 MultiLanguageSpellData['it'][228127] = {name = "Decadenza", additional_info = "Portata illimitata\nIstantaneo\n[q]Infligge 4741 danni da natura ogni secondo ai nemici vicini. Si accumula."}
-MultiLanguageSpellData['it'][228128] = {name = "Preparazione alla Spedizione", additional_info = nil}
+MultiLanguageSpellData['it'][228128] = {name = "Preparazione alla Spedizione", additional_info = "Istantaneo\n[q]Permette di modificare i talenti."}
 MultiLanguageSpellData['it'][228129] = {name = "Warm Up Seamless Scenario", additional_info = nil}
 MultiLanguageSpellData['it'][228132] = {name = "[q6]Ammazzadraghi", additional_info = "[q0][Item Effect]3 s di lancio\nReagenti:\nImpugnatura del Dio-Sovrano , Teschio di Shar'thos , Teschio di Nithogg\n[q]Combina l'Impugnatura del Dio-Sovrano con il Teschio di Nithogg per creare le Ammazzadraghi."}
 MultiLanguageSpellData['it'][228134] = {name = "Start Boss 2 Intro Conversation", additional_info = nil}
@@ -5873,17 +5871,17 @@ MultiLanguageSpellData['it'][229120] = {name = "Tiro Meraviglioso", additional_i
 MultiLanguageSpellData['it'][229121] = {name = "Vilfulmine", additional_info = "Portata di 40 m\nIstantaneo\n[q]Infligge 8 danni da fuoco ai nemici entro 5 m dal punto di destinazione."}
 MultiLanguageSpellData['it'][229122] = {name = "Vilfulmine", additional_info = "Istantaneo\n[q]Colpisce posizioni vicine con il vilfulmine."}
 MultiLanguageSpellData['it'][229123] = {name = "Tiro Meraviglioso", additional_info = nil}
-MultiLanguageSpellData['it'][229124] = {name = "Tiro Meraviglioso", additional_info = "Portata di 100 m\n5 s di lancio\n[q]Spara un colpo travolgente, infliggendo 336 danni fisici e 28 danni fisici aggiuntivi da sanguinamento ogni 1 s per 15 s."}
+MultiLanguageSpellData['it'][229124] = {name = "Tiro Meraviglioso", additional_info = "Portata di 100 m\n5 s di lancio\n[q]Spara un colpo travolgente, infliggendo 90 danni fisici e 5 danni fisici aggiuntivi da sanguinamento ogni 1 s per 20 s."}
 MultiLanguageSpellData['it'][229125] = {name = "Tiro Meraviglioso", additional_info = nil}
 MultiLanguageSpellData['it'][229126] = {name = "Beccata", additional_info = "{Portata di mischi}a}\n1.1 s di lancio\n[q]Si ciba di un nemico, infliggendo danni fisici."}
-MultiLanguageSpellData['it'][229127] = {name = "Tiro Meraviglioso", additional_info = "Portata di 200 m\nIstantaneo\n[q]Spara un colpo travolgente, infliggendo 336 danni fisici e 28 danni fisici aggiuntivi da sanguinamento ogni 1 s per 15 s."}
+MultiLanguageSpellData['it'][229127] = {name = "Tiro Meraviglioso", additional_info = "Portata di 200 m\nIstantaneo\n[q]Spara un colpo travolgente, infliggendo 90 danni fisici e 5 danni fisici aggiuntivi da sanguinamento ogni 1 s per 20 s."}
 MultiLanguageSpellData['it'][229128] = {name = "Gate Siege - Aftermath Scene", additional_info = nil}
 MultiLanguageSpellData['it'][229130] = {name = "Uccisione Scivolosa", additional_info = nil}
 MultiLanguageSpellData['it'][229131] = {name = "Evocazione: Sgusciolo", additional_info = nil}
 MultiLanguageSpellData['it'][229132] = {name = "Interazione con Medivh", additional_info = nil}
 MultiLanguageSpellData['it'][229135] = {name = "Bersaglio Recente", additional_info = nil}
 MultiLanguageSpellData['it'][229136] = {name = "Portale", additional_info = nil}
-MultiLanguageSpellData['it'][229137] = {name = "Raffica", additional_info = "Portata di 200 m\nIstantaneo\n[q]Scaglia una raffica di frecce, infliggendo danni fisici a tutti i nemici."}
+MultiLanguageSpellData['it'][229137] = {name = "Raffica", additional_info = "Portata di 200 m\n1 s di lancio\n[q]Scaglia una raffica di frecce, infliggendo danni fisici a tutti i nemici."}
 MultiLanguageSpellData['it'][229139] = {name = "Raffica", additional_info = "Portata di 100 m\nIstantaneo\n[q]Scaglia una raffica di frecce, infliggendo danni fisici a tutti i nemici."}
 MultiLanguageSpellData['it'][229141] = {name = "Scivoloso", additional_info = "Istantaneo\n[q]Molto scivoloso."}
 MultiLanguageSpellData['it'][229142] = {name = "Scivolata", additional_info = nil}
@@ -5896,7 +5894,7 @@ MultiLanguageSpellData['it'][229150] = {name = "Prigione Arcana", additional_inf
 MultiLanguageSpellData['it'][229151] = {name = "Disintegrazione", additional_info = "Portata di 200 m\n2.5 s di lancio\n[q]Infligge 9697798 danni da fuoco a tutti i nemici frontali, respingendoli indietro."}
 MultiLanguageSpellData['it'][229152] = {name = "Seduta", additional_info = "Portata di 120 m\n3 s di lancio\n[q]Wes ti fa sedere, immobilizzandoti sul posto per 3 s."}
 MultiLanguageSpellData['it'][229153] = {name = "Disintegrazione", additional_info = nil}
-MultiLanguageSpellData['it'][229154] = {name = "Mezzogiorno di Fuoco", additional_info = "Portata di 100 m\n1.333 min di lancio\n[q]Concentrazione, scelta del bersaglio, estrazione dell'arma. A Dupree bastano pochi, preziosi istanti per prendere la mira: quando è pronto a far fuoco, centra tutti i nemici nel suo campo visivo, infliggendo 3359 danni fisici."}
+MultiLanguageSpellData['it'][229154] = {name = "Mezzogiorno di Fuoco", additional_info = "Portata di 100 m\n1.333 min di lancio\n[q]Concentrazione, scelta del bersaglio, estrazione dell'arma. A Dole Dolory bastano pochi, preziosi istanti per prendere la mira: quando è pronto a far fuoco, centra tutti i nemici nel suo campo visivo, infliggendo 200 danni fisici."}
 MultiLanguageSpellData['it'][229155] = {name = "Send Jailer Event", additional_info = nil}
 MultiLanguageSpellData['it'][229156] = {name = "Campo Barriera", additional_info = "Canalizzato (1.5 min di lancio)"}
 MultiLanguageSpellData['it'][229157] = {name = "Incatenato", additional_info = nil}
@@ -5904,7 +5902,7 @@ MultiLanguageSpellData['it'][229158] = {name = "Evocazione: Avvizzito Furioso", 
 MultiLanguageSpellData['it'][229159] = {name = "Ombre Caotiche", additional_info = "Portata di 1000 m\nIstantaneo\n[q]Infligge 2666894 danni da ombra ogni 2 s per 10 s. Quando l'effetto termina o viene dissolto, crea dei globi di Ombre Esplosive nelle vicinanze che si allontanano dal bersaglio."}
 MultiLanguageSpellData['it'][229160] = {name = "Ombre Esplosive", additional_info = nil}
 MultiLanguageSpellData['it'][229161] = {name = "Ombre Esplosive", additional_info = "Portata di 1000 m\nIstantaneo\n[q]Infligge 8485573 danni da ombra ai nemici entro 10 m dal globo di Ombre Caotiche attivatosi."}
-MultiLanguageSpellData['it'][229162] = {name = "Oscurità Devastante", additional_info = "2 s di lancio\n[q]Provoca una serie di esplosioni, infliggendo 34 danni da ombra a tutti i nemici entro 4 m dal punto d'impatto."}
+MultiLanguageSpellData['it'][229162] = {name = "Oscurità Devastante", additional_info = "Portata di 100 m\n2 s di lancio\n[q]Provoca una serie di esplosioni, infliggendo 34 danni da ombra a tutti i nemici entro 4 m dal punto d'impatto."}
 MultiLanguageSpellData['it'][229163] = {name = "Oscurità Devastante", additional_info = nil}
 MultiLanguageSpellData['it'][229164] = {name = "Oscurità Devastante", additional_info = "Portata di 300 m\nIstantaneo\n[q]Provoca una serie di esplosioni, infliggendo 34 danni da ombra a tutti i nemici entro 4 m dal punto d'impatto."}
 MultiLanguageSpellData['it'][229165] = {name = "Vilcristallo", additional_info = "Portata di 100 m\n2 s di lancio\n[q]Un Vilcristallo erutta ai piedi del bersaglio, infliggendo 0 danni da fuoco ogni 5.2 s."}
@@ -6109,13 +6107,13 @@ MultiLanguageSpellData['it'][229392] = {name = "Mossa della Regina", additional_
 MultiLanguageSpellData['it'][229393] = {name = "Getto di Lava", additional_info = "Portata di 50 m\n3 s di lancio\n[q]Spara un globo di lava contro il nemico, infliggendo danni da fuoco."}
 MultiLanguageSpellData['it'][229394] = {name = "Scorie Fuse", additional_info = "Portata di 50 m\nIstantaneo\n[q]Crea una pozza di Scorie Fuse ai piedi del bersaglio, infliggendo danni da fuoco a tutti i nemici vicini."}
 MultiLanguageSpellData['it'][229395] = {name = "Scorie Fuse", additional_info = "Portata illimitata\nIstantaneo\n[q]Crea una pozza di Scorie Fuse ai piedi del bersaglio, infliggendo danni da fuoco a tutti i nemici vicini."}
-MultiLanguageSpellData['it'][229396] = {name = "Ondata di Lava", additional_info = "Istantaneo\n[q]Richiama un'ondata di lava che infligge 179 danni da fuoco ogni 1 s."}
+MultiLanguageSpellData['it'][229396] = {name = "Ondata di Lava", additional_info = "Portata di 100 m\nIstantaneo\n[q]Richiama un'ondata di lava che infligge 75 danni da fuoco ogni 1 s."}
 MultiLanguageSpellData['it'][229397] = {name = "Cosmetic - Teleport", additional_info = nil}
-MultiLanguageSpellData['it'][229398] = {name = "Sputo di Lava", additional_info = "Portata di 60 m\n{Istantaneo} {1.5 s di recupero}\n[q]Uno sputo di lava che infligge 2 danni da fuoco."}
+MultiLanguageSpellData['it'][229398] = {name = "Sputo di Lava", additional_info = "Portata di 60 m\n{Istantaneo} {1.5 s di recupero}\n[q]Uno sputo di lava che infligge 1 danni da fuoco."}
 MultiLanguageSpellData['it'][229399] = {name = "7.X - Fix boosted characters who abandon Broken Shore", additional_info = nil}
 MultiLanguageSpellData['it'][229400] = {name = "Attivazione Segnalatore", additional_info = nil}
 MultiLanguageSpellData['it'][229401] = {name = "Scudo di Forza di Andaris", additional_info = nil}
-MultiLanguageSpellData['it'][229402] = {name = "Pozza di Lava", additional_info = "Istantaneo\n[q]Crea della lava."}
+MultiLanguageSpellData['it'][229402] = {name = "Pozza di Lava", additional_info = "Portata di 100 m\nIstantaneo\n[q]Crea della lava."}
 MultiLanguageSpellData['it'][229403] = {name = "Lancio Seme della Rovina", additional_info = nil}
 MultiLanguageSpellData['it'][229405] = {name = "Balla a Ritmo", additional_info = nil}
 MultiLanguageSpellData['it'][229406] = {name = "Lancio Seme della Rovina", additional_info = "Portata di20\n-[q2]40\nm\nIstantaneo\n[q]Il germogliare di un Seme della Rovina distrugge una Spira del Terrore vicina."}
@@ -6615,7 +6613,7 @@ MultiLanguageSpellData['it'][229994] = {name = "Lanciagranate", additional_info 
 MultiLanguageSpellData['it'][229995] = {name = "Controllo Vilmortaio", additional_info = nil}
 MultiLanguageSpellData['it'][229996] = {name = "Trasporto Cassa", additional_info = nil}
 MultiLanguageSpellData['it'][229997] = {name = "Proiettili del Fuoco Infernale", additional_info = "Portata di 100 m\n{Istantaneo} {1 s di recupero}\n[q]Spara un potente colpo di vilfuoco, in grado di distruggere le strutture rinforzate della Legione."}
-MultiLanguageSpellData['it'][229998] = {name = "Risata Isterica", additional_info = "Portata di 6 m\n2 s di lancio\n[q]L'incantatore attiva una grossa bomba e la tiene sospesa. Quando la bomba esplode, tutti i nemici entro 6 m vengono respinti indietro e subiscono 112 danni da fuoco."}
+MultiLanguageSpellData['it'][229998] = {name = "Risata Isterica", additional_info = "Portata di 6 m\n2 s di lancio\n[q]L'incantatore attiva una grossa bomba e la tiene sospesa. Quando la bomba esplode, tutti i nemici entro 6 m vengono respinti indietro e subiscono 50 danni da fuoco."}
 MultiLanguageSpellData['it'][229999] = {name = "Nebbie del Richiamo", additional_info = nil}
 MultiLanguageSpellData['it'][230000] = {name = "Richiamo Prigionieri", additional_info = nil}
 MultiLanguageSpellData['it'][230001] = {name = "Vilcanalizzazione", additional_info = nil}
@@ -6657,7 +6655,6 @@ MultiLanguageSpellData['it'][230043] = {name = "Scivolata", additional_info = "P
 MultiLanguageSpellData['it'][230044] = {name = "Fendente", additional_info = "{Portata di mischi}a}\nIstantaneo\n[q]Gli attacchi con la mano secondaria colpiscono tutti i nemici in un cono frontale."}
 MultiLanguageSpellData['it'][230045] = {name = "Disabilitazione Mischia", additional_info = "{Portata di mischi}a}\nIstantaneo\n[q]Gli attacchi con la mano secondaria colpiscono tutti i nemici in un cono frontale."}
 MultiLanguageSpellData['it'][230046] = {name = "Frittata Speziata di Falcosauro", additional_info = "2 s di lancio\nReagenti:\nUovo di Falcosauro (2)\n[q]Crea una Frittata Speziata di Falcosauro.\nMercante:\nMarin Alatagliente\nZona:\nAzsuna\nFazione:\nCustodi - Riverito\nCosto:\n1.000\n\n[q2]Usa: Rigenera 28846 salute e 14423 mana in 20 s. Devi sederti per mangiare. Se mangi per almeno 10 s diventi Ben Nutrito e ottieni un aumento di velocità di movimento e d'attacco per alcuni istanti dopo aver ucciso un nemico. Funziona solo sulle Isole Disperse.\n40"}
-MultiLanguageSpellData['it'][230047] = {name = "Luffa Piumata", additional_info = "2 s di lancio\nReagenti:\nPiuma Intatta di Falcosauro (10)\n[q]Crea una Luffa Piumata.\nMercante:\nAMarin Alatagliente\nZona:\nAzsuna\nFazione:\nCustodi - Onorato\nCosto:\n600\n\n[q2]Usa: Rigenera 1575 salute e rimuove gli effetti di sanguinamento. Utilizzabile solo sulle Isole Disperse.\n10 Carici\n40"}
 MultiLanguageSpellData['it'][230048] = {name = "Strofinamento Luffa", additional_info = "Strofinamento Luffa Livello 80\n[q0][Item Effect]Istantaneo\n[q]Rigenera 1575 salute e rimuove gli effetti di sanguinamento. Utilizzabile solo sulle Isole Disperse."}
 MultiLanguageSpellData['it'][230050] = {name = "Lama della Forza", additional_info = "Portata di 10 m\n{1.5 s di lancio} {3 s di recupero}\n[q]L'incantatore colpisce il nemico con una spada di pura energia arcana, infliggendo danni da arcano istantaneamente e danni da arcano aggiuntivi ogni secondo per 10 s."}
 MultiLanguageSpellData['it'][230051] = {name = "Dummy Ping Silgryn and Kal", additional_info = nil}
@@ -6906,13 +6903,13 @@ MultiLanguageSpellData['it'][230369] = {name = "Proiettore Barriera", additional
 MultiLanguageSpellData['it'][230370] = {name = "Travestimento", additional_info = "Istantaneo\n[q]Ti ammanta in una magia ingannatrice per farti apparire come un membro dell'Orda."}
 MultiLanguageSpellData['it'][230371] = {name = "Recinzione Arcana", additional_info = nil}
 MultiLanguageSpellData['it'][230372] = {name = "Cannone Tesla", additional_info = "Portata di 20 m\n3 s di lancio\n[q]Fintanto che viene premuto il grilletto, l'arma di Hudson emette una scarica elettrica a corto raggio che infligge danni da natura ogni 0.5 s."}
-MultiLanguageSpellData['it'][230373] = {name = "Ipersalto", additional_info = "Portata di 100 m\n1.3 s di lancio\n[q]Con l'aiuto del suo zaino energetico, Hudson si lancia in aria, infliggendo 34% danni fisici ai nemici quando atterra."}
-MultiLanguageSpellData['it'][230374] = {name = "Ipersalto", additional_info = "Istantaneo\n[q]Infligge 34 danni fisici e stordisce tutti i nemici entro 5 m."}
+MultiLanguageSpellData['it'][230373] = {name = "Ipersalto", additional_info = "Portata di 100 m\n1.3 s di lancio\n[q]Con l'aiuto del suo zaino energetico, Hudson si lancia in aria, infliggendo 30% danni fisici ai nemici quando atterra."}
+MultiLanguageSpellData['it'][230374] = {name = "Ipersalto", additional_info = "Istantaneo\n[q]Infligge 30 danni fisici e stordisce tutti i nemici entro 5 m."}
 MultiLanguageSpellData['it'][230375] = {name = "Salvataggio", additional_info = nil}
 MultiLanguageSpellData['it'][230376] = {name = "Piattaforma", additional_info = nil}
-MultiLanguageSpellData['it'][230377] = {name = "Dardo Lamentoso", additional_info = "2 s di lancio\n[q]Scaglia dardi di puro terrore, infliggendo 53 danni da ombra ai nemici vicini e costringendoli a scappare terrorizzati."}
+MultiLanguageSpellData['it'][230377] = {name = "Dardo Lamentoso", additional_info = "2 s di lancio\n[q]Scaglia dardi di puro terrore, infliggendo 7476 danni da ombra ai nemici vicini e costringendoli a scappare terrorizzati."}
 MultiLanguageSpellData['it'][230378] = {name = "Tabellone di Mago Minato", additional_info = nil}
-MultiLanguageSpellData['it'][230379] = {name = "Grido", additional_info = "Istantaneo\n[q]Emette un urlo terrificante, infliggendo 76 danni da ombra a tutti i nemici vicini."}
+MultiLanguageSpellData['it'][230379] = {name = "Grido", additional_info = "Istantaneo\n[q]Emette un urlo terrificante, infliggendo 10668 danni da ombra a tutti i nemici vicini."}
 MultiLanguageSpellData['it'][230380] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['it'][230381] = {name = "Marchio della Preda", additional_info = "[q0][Item Effect]Istantaneo\n[q]Aumenta la reputazione con la Vendetta dell'Artiglio di 100."}
 MultiLanguageSpellData['it'][230382] = {name = "Caccia Fruttuosa", additional_info = "Istantaneo"}
@@ -6968,7 +6965,7 @@ MultiLanguageSpellData['it'][230434] = {name = "Cucciolo di Beccotruce", additio
 MultiLanguageSpellData['it'][230435] = {name = "Cucciolo di Grinfiafina", additional_info = nil}
 MultiLanguageSpellData['it'][230436] = {name = "Amante Geloso", additional_info = "Portata di 25 m\n2.5 s di lancio\n[q]La succube ammalia il bersaglio attuale, aumentandone la velocità d'attacco del 75% per 10 s."}
 MultiLanguageSpellData['it'][230437] = {name = "Cucciolo di Scrutasangue", additional_info = nil}
-MultiLanguageSpellData['it'][230438] = {name = "Assalto Devastante", additional_info = "Portata di 14 m\n{2 s di lancio} {5 s di recupero}\n[q]Fa oscillare l'arma con grande forza, infliggendo 1814 danni fisici suddivisi tra tutti i nemici frontali e respingendoli indietro."}
+MultiLanguageSpellData['it'][230438] = {name = "Assalto Devastante", additional_info = "Portata di 14 m\n{2 s di lancio} {5 s di recupero}\n[q]Fa oscillare l'arma con grande forza, infliggendo 256036 danni fisici suddivisi tra tutti i nemici frontali e respingendoli indietro."}
 MultiLanguageSpellData['it'][230439] = {name = "Punta Infernale", additional_info = nil}
 MultiLanguageSpellData['it'][230440] = {name = "Punto di Controllo", additional_info = nil}
 MultiLanguageSpellData['it'][230441] = {name = "Ritorno", additional_info = nil}
@@ -7004,7 +7001,7 @@ MultiLanguageSpellData['it'][230478] = {name = "Tonaca di Raethas", additional_i
 MultiLanguageSpellData['it'][230479] = {name = "Barcaccia", additional_info = nil}
 MultiLanguageSpellData['it'][230480] = {name = "Barcaccia", additional_info = nil}
 MultiLanguageSpellData['it'][230481] = {name = "Barcaccia", additional_info = nil}
-MultiLanguageSpellData['it'][230482] = {name = "Colpo Roboante", additional_info = "Portata di 8 m\n{1.5 s di lancio} {5 s di recupero}\n[q]Colpisce il terreno di fronte all'incantatore, infliggendo 273 danni fisici a tutti i nemici vicini e respingendoli indietro."}
+MultiLanguageSpellData['it'][230482] = {name = "Colpo Roboante", additional_info = "Portata di 8 m\n{1.5 s di lancio} {5 s di recupero}\n[q]Colpisce il terreno di fronte all'incantatore, infliggendo 38500 danni fisici a tutti i nemici vicini e respingendoli indietro."}
 MultiLanguageSpellData['it'][230483] = {name = "Barcaccia", additional_info = nil}
 MultiLanguageSpellData['it'][230484] = {name = "Vildardo", additional_info = "3 s di lancio\n[q]Infligge danni da fuoco a tutti i bersagli in un cono frontale ogni 5.2 s per 6 s."}
 MultiLanguageSpellData['it'][230485] = {name = "Intro Conversation", additional_info = nil}
@@ -7329,9 +7326,9 @@ MultiLanguageSpellData['it'][230989] = {name = "Detonazione Infallibile", additi
 MultiLanguageSpellData['it'][230990] = {name = "Detonazione Infallibile", additional_info = "Portata illimitata\nIstantaneo\n[q]Infligge 79024 danni da sacro a tutti i personaggi.\n\n Ogni runa attiva aumenta i danni inflitti da Detonazione Infallibile del 200%."}
 MultiLanguageSpellData['it'][230991] = {name = "Credit - Xylem Escapes", additional_info = nil}
 MultiLanguageSpellData['it'][230992] = {name = "Risucchio d'Anima", additional_info = nil}
-MultiLanguageSpellData['it'][230993] = {name = "Velo d'Ombra", additional_info = "Portata di 40 m\nIstantaneo\n[q]Canalizza un fascio di ragnatela d'ombra, immobilizzando il bersaglio per 3 s. Al termine dell'effetto, il bersaglio viene avvolto dalle ragnatele, subisce 15 danni da ombra e resta stordito per 15 s. Se le ragnatele che lo bloccano vengono distrutte, il bersaglio si libera."}
-MultiLanguageSpellData['it'][230994] = {name = "Velo d'Ombra", additional_info = "Portata di 40 m\nIstantaneo\n[q]Canalizza un fascio di ragnatela d'ombra, immobilizzando il bersaglio per 3 s. Al termine dell'effetto, il bersaglio viene avvolto dalle ragnatele, subisce 15 danni da ombra e resta stordito per 15 s. Se le ragnatele che lo bloccano vengono distrutte, il bersaglio si libera."}
-MultiLanguageSpellData['it'][230995] = {name = "Velo d'Ombra", additional_info = "Portata di 100 m\n{Istantaneo} {3 s di recupero}\n[q]Canalizza un fascio di ragnatela d'ombra, immobilizzando il bersaglio per 3 s. Al termine dell'effetto, il bersaglio viene avvolto dalle ragnatele, subisce 15 danni da ombra e resta stordito per 15 s. Se le ragnatele che lo bloccano vengono distrutte, il bersaglio si libera."}
+MultiLanguageSpellData['it'][230993] = {name = "Velo d'Ombra", additional_info = "Portata di 40 m\nIstantaneo\n[q]Canalizza un fascio di ragnatela d'ombra, immobilizzando il bersaglio per 3 s. Al termine dell'effetto, il bersaglio viene avvolto dalle ragnatele, subisce 11 danni da ombra e resta stordito per . Se le ragnatele che lo bloccano vengono distrutte, il bersaglio si libera."}
+MultiLanguageSpellData['it'][230994] = {name = "Velo d'Ombra", additional_info = "Portata di 40 m\nIstantaneo\n[q]Canalizza un fascio di ragnatela d'ombra, immobilizzando il bersaglio per 3 s. Al termine dell'effetto, il bersaglio viene avvolto dalle ragnatele, subisce 2134 danni da ombra e resta stordito per 15 s. Se le ragnatele che lo bloccano vengono distrutte, il bersaglio si libera."}
+MultiLanguageSpellData['it'][230995] = {name = "Velo d'Ombra", additional_info = "Portata di 100 m\n{Istantaneo} {3 s di recupero}\n[q]Canalizza un fascio di ragnatela d'ombra, immobilizzando il bersaglio per 3 s. Al termine dell'effetto, il bersaglio viene avvolto dalle ragnatele, subisce 2134 danni da ombra e resta stordito per 15 s. Se le ragnatele che lo bloccano vengono distrutte, il bersaglio si libera."}
 MultiLanguageSpellData['it'][230996] = {name = "Velo d'Ombra", additional_info = nil}
 MultiLanguageSpellData['it'][230997] = {name = "Colpo d'Ancora", additional_info = nil}
 MultiLanguageSpellData['it'][230998] = {name = "Occhiali da Vista di Faglia", additional_info = "[q0][Item Effect]1.5 s di lancio\n[q]Vede senza guardare, individuando nemici invisibili. Funziona solo a Teloth'aran."}
@@ -7340,8 +7337,8 @@ MultiLanguageSpellData['it'][231000] = {name = "Vaso del Padrone", additional_in
 MultiLanguageSpellData['it'][231001] = {name = "Cosmetic Shadow Wrap Spawn Spell", additional_info = nil}
 MultiLanguageSpellData['it'][231002] = {name = "Strillo Penetrante", additional_info = "Portata illimitata\n3 s di lancio\n[q]Un'onda d'urto sonica che infligge 36 danni fisici e silenzia tutti i nemici nell'area per 4 s."}
 MultiLanguageSpellData['it'][231003] = {name = "Artigli Uncinati", additional_info = "{Portata di mischi}a}\nIstantaneo\n[q]Infligge 18 danni fisici a un nemico ogni 1 s per 12 s."}
-MultiLanguageSpellData['it'][231004] = {name = "Assalto del Raptor", additional_info = "Portata di 5 m\nIstantaneo\nRichiede Armi\n[q]Un assalto feroce che infligge 181 danni fisici."}
-MultiLanguageSpellData['it'][231005] = {name = "Emanazioni Arcane", additional_info = "{2 s di lancio} {2 s di recupero}\n[q]Scatena un torrente di energia arcana, infliggendo 678 danni da arcano a tutti i nemici in un cono frontale."}
+MultiLanguageSpellData['it'][231004] = {name = "Assalto del Raptor", additional_info = "Portata di 5 m\nIstantaneo\nRichiede Armi\n[q]Un assalto feroce che infligge 25572 danni fisici."}
+MultiLanguageSpellData['it'][231005] = {name = "Emanazioni Arcane", additional_info = "{2 s di lancio} {2 s di recupero}\n[q]Scatena un torrente di energia arcana, infliggendo 95777 danni da arcano a tutti i nemici in un cono frontale."}
 MultiLanguageSpellData['it'][231006] = {name = "Scorticatura", additional_info = "Portata di 8 m\nIstantaneo\nRichiede Armi\n[q]Un attacco a spazzata che colpisce tutti i nemici frontali, infliggendo 181 danni fisici."}
 MultiLanguageSpellData['it'][231007] = {name = "Trappola Esplosiva", additional_info = "Portata di 20 m\n1.5 s di lancio\n[q]Lancia una trappola esplosiva su un nemico."}
 MultiLanguageSpellData['it'][231008] = {name = "Trappola Esplosiva", additional_info = "Portata di 30 m\nIstantaneo\n[q]Infligge danni da fuoco ogni 0.5 s."}
@@ -7464,7 +7461,7 @@ MultiLanguageSpellData['it'][231166] = {name = "Salto in Cielo", additional_info
 MultiLanguageSpellData['it'][231167] = {name = "Salto in Cielo", additional_info = nil}
 MultiLanguageSpellData['it'][231168] = {name = "Salto in Cielo", additional_info = nil}
 MultiLanguageSpellData['it'][231173] = {name = "Salto in Cielo", additional_info = nil}
-MultiLanguageSpellData['it'][231174] = {name = "Languore Arcano", additional_info = "Portata di 10 m\nIstantaneo\n[q]Ferisce il bersaglio con l'energia arcana, infliggendo 11 danni da arcano ogni 2 s per 20 s. Si accumula."}
+MultiLanguageSpellData['it'][231174] = {name = "Languore Arcano", additional_info = "Portata di 10 m\nIstantaneo\n[q]Ferisce il bersaglio con l'energia arcana, infliggendo 1536 danni da arcano ogni 2 s per 20 s. Si accumula."}
 MultiLanguageSpellData['it'][231179] = {name = "Salto in Cielo", additional_info = nil}
 MultiLanguageSpellData['it'][231180] = {name = "Globo della Corruzione", additional_info = nil}
 MultiLanguageSpellData['it'][231181] = {name = "Furto dell'Anima", additional_info = nil}
@@ -7943,12 +7940,12 @@ MultiLanguageSpellData['it'][231733] = {name = "Ping Karam - Assassin Boss", add
 MultiLanguageSpellData['it'][231734] = {name = "Simulazione Vita", additional_info = nil}
 MultiLanguageSpellData['it'][231735] = {name = "Divoramento Anima", additional_info = "Portata di 45 m\n2.5 s di lancio\n[q]Risucchia periodicamente la salute del bersaglio, curandosi."}
 MultiLanguageSpellData['it'][231736] = {name = "Lancianebbie", additional_info = nil}
-MultiLanguageSpellData['it'][231737] = {name = "Scarica del Pozzo Oscuro", additional_info = "2 s di lancio\n[q]Canalizza le forze arcane, creando delle palle di energia che si dipartono dall'incantatore, infliggendo 112 danni da arcano ai personaggi vicini che vi entrano in contatto."}
+MultiLanguageSpellData['it'][231737] = {name = "Scarica del Pozzo Oscuro", additional_info = "2 s di lancio\n[q]Canalizza le forze arcane, creando delle palle di energia che si dipartono dall'incantatore, infliggendo 15805 danni da arcano ai personaggi vicini che vi entrano in contatto."}
 MultiLanguageSpellData['it'][231738] = {name = "Giudizio del Gran Signore", additional_info = "Portata di 5 m\n0.5 s di lancio\n[q]Giudica una Recluta della Mano d'Argento, determinandone il valore."}
 MultiLanguageSpellData['it'][231739] = {name = "Ping Karam - Run to Broken Shore", additional_info = nil}
 MultiLanguageSpellData['it'][231740] = {name = "Teletrasporto: Crogiolo Lunare", additional_info = nil}
 MultiLanguageSpellData['it'][231741] = {name = "Scarica del Pozzo Oscuro", additional_info = "Portata illimitata\nIstantaneo\n[q]Canalizza le forze arcane, creando delle palle di energia che si dipartono dall'incantatore, infliggendo $220922 danni da arcano ai personaggi vicini che vi entrano in contatto."}
-MultiLanguageSpellData['it'][231742] = {name = "Scarica del Pozzo Oscuro", additional_info = "Portata illimitata\nIstantaneo\n[q]Canalizza le forze arcane, creando delle palle di energia che si dipartono dall'incantatore, infliggendo 112 danni da arcano ai personaggi vicini che vi entrano in contatto."}
+MultiLanguageSpellData['it'][231742] = {name = "Scarica del Pozzo Oscuro", additional_info = "Portata illimitata\nIstantaneo\n[q]Canalizza le forze arcane, creando delle palle di energia che si dipartono dall'incantatore, infliggendo 15805 danni da arcano ai personaggi vicini che vi entrano in contatto."}
 MultiLanguageSpellData['it'][231743] = {name = "Outro Conversation", additional_info = nil}
 MultiLanguageSpellData['it'][231744] = {name = "Creazione Conversazione", additional_info = nil}
 MultiLanguageSpellData['it'][231745] = {name = "Nightborne Soulstone Fel - Imprisoned", additional_info = nil}
@@ -8386,7 +8383,7 @@ MultiLanguageSpellData['it'][232257] = {name = "Atterramento", additional_info =
 MultiLanguageSpellData['it'][232258] = {name = "Essenza Titanica", additional_info = nil}
 MultiLanguageSpellData['it'][232259] = {name = "Attacco di Vilmagia", additional_info = nil}
 MultiLanguageSpellData['it'][232260] = {name = "Evocazione: Vilimp", additional_info = "{2 s di lancio} {15 s di recupero}\n[q]Evoca un Vilimp ogni 1 s per 2 s."}
-MultiLanguageSpellData['it'][232261] = {name = "Scatto Preistorico", additional_info = "Portata illimitata\nIstantaneo\n[q]Carica in avanti, infliggendo danni."}
+MultiLanguageSpellData['it'][232261] = {name = "Scatto Preistorico", additional_info = "Portata di 100 m\nIstantaneo\n[q]Carica in avanti, infliggendo danni."}
 MultiLanguageSpellData['it'][232262] = {name = "7.1 Suramar Chapter Quests", additional_info = nil}
 MultiLanguageSpellData['it'][232263] = {name = "Find Target Behind Player", additional_info = nil}
 MultiLanguageSpellData['it'][232264] = {name = "Conversation", additional_info = nil}
@@ -8421,7 +8418,7 @@ MultiLanguageSpellData['it'][232293] = {name = "Determinazione Preistorica", add
 MultiLanguageSpellData['it'][232294] = {name = "Teletrasporto: Ingresso", additional_info = nil}
 MultiLanguageSpellData['it'][232295] = {name = "Teletrasporto: Ingresso", additional_info = nil}
 MultiLanguageSpellData['it'][232296] = {name = "Trasporto: Occhio dell'Eternità", additional_info = nil}
-MultiLanguageSpellData['it'][232297] = {name = "Colpo di Coda", additional_info = "Portata di 30 m\nIstantaneo\n[q]Un colpo di coda che colpisce i nemici alle spalle, stordendoli per 1.5 s."}
+MultiLanguageSpellData['it'][232297] = {name = "Colpo di Coda", additional_info = "Portata di 30 m\nIstantaneo\n[q]Un colpo di coda che colpisce i nemici alle spalle, stordendoli per 1.8 s."}
 MultiLanguageSpellData['it'][232298] = {name = "Speak with Kalec Credit", additional_info = nil}
 MultiLanguageSpellData['it'][232299] = {name = "Distanza Visuale", additional_info = nil}
 MultiLanguageSpellData['it'][232300] = {name = "View Distance Cancel", additional_info = nil}
@@ -9152,7 +9149,7 @@ MultiLanguageSpellData['it'][233154] = {name = "Varco Demoniaco", additional_inf
 MultiLanguageSpellData['it'][233155] = {name = "Sciame Necrofago", additional_info = "Portata di 100 m\n{3 s di lancio} {4 s di recupero}\n[q]Un'ondata di magia caotica si abbatte sui nemici frontali, infliggendo 8783 danni da ombra. Inoltre, lascia delle pozze d'ombra sull'area che infliggono 664 danni da ombra aggiuntivi ogni 1 s."}
 MultiLanguageSpellData['it'][233156] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['it'][233157] = {name = "Ping Naga Brute", additional_info = nil}
-MultiLanguageSpellData['it'][233158] = {name = "Evocazione: Scopa", additional_info = "6 s di lancio\n[q]Evoca una scopa che combatte al fianco dell'incantatore."}
+MultiLanguageSpellData['it'][233158] = {name = "Evocazione: Scopa", additional_info = "Portata di 100 m\nIstantaneo\n[q]Evoca una scopa che combatte al fianco dell'incantatore."}
 MultiLanguageSpellData['it'][233159] = {name = "Attacco", additional_info = nil}
 MultiLanguageSpellData['it'][233160] = {name = "Fuoco Infernale Fiammeggiante", additional_info = "Canalizzato (8 s di lancio)\n[q]Infligge danni da fuoco ai nemici entro 15 m ogni 1 s per 8 s."}
 MultiLanguageSpellData['it'][233161] = {name = "Fuoco Infernale Fiammeggiante", additional_info = "Istantaneo\n[q]Infligge danni da fuoco ai nemici entro 15 m."}
@@ -9173,7 +9170,7 @@ MultiLanguageSpellData['it'][233175] = {name = "Sciame Necrofago", additional_in
 MultiLanguageSpellData['it'][233176] = {name = "Sciame Necrofago", additional_info = nil}
 MultiLanguageSpellData['it'][233177] = {name = "Sciame Necrofago", additional_info = "Portata illimitata\nIstantaneo\n[q]Un'ondata di magia caotica si abbatte sui nemici frontali, infliggendo 8783 danni da ombra. Inoltre, lascia delle pozze d'ombra sull'area che infliggono 664 danni da ombra aggiuntivi ogni 1 s."}
 MultiLanguageSpellData['it'][233178] = {name = "Ping Almai - Upstairs 1", additional_info = nil}
-MultiLanguageSpellData['it'][233179] = {name = "Strigliata", additional_info = "{Portata di mischi}a}\n1 s di lancio\n[q]Infligge ($wdpa1) danni fisici e applica sul bersaglio un accumulo di Strigliata, aumentandone i danni subiti del 1%. Si accumula all'infinito."}
+MultiLanguageSpellData['it'][233179] = {name = "Strigliata", additional_info = "{Portata di mischi}a}\n1.5 s di lancio\n[q]Infligge ($wdpa1) danni fisici e applica sul bersaglio un accumulo di Strigliata, aumentandone i danni subiti del 1%. Si accumula all'infinito."}
 MultiLanguageSpellData['it'][233180] = {name = "Ping Almai - Upstairs 2", additional_info = nil}
 MultiLanguageSpellData['it'][233181] = {name = "Ping Almai - Downstairs 1", additional_info = nil}
 MultiLanguageSpellData['it'][233182] = {name = "Ping Almai - Downstairs 2", additional_info = nil}
@@ -9210,8 +9207,8 @@ MultiLanguageSpellData['it'][233221] = {name = "Evocazione: Assassino", addition
 MultiLanguageSpellData['it'][233222] = {name = "Retaggio di Skovald", additional_info = "Istantaneo\n[q]Gli assassini potrebbero essere ancora a caccia di Sigryn a Stromheim. Attenzione."}
 MultiLanguageSpellData['it'][233223] = {name = "Gossip Option 1 Aura", additional_info = nil}
 MultiLanguageSpellData['it'][233224] = {name = "Inseguimento Orrorifico", additional_info = "Portata di 100 m\n2.5 s di lancio\n[q]Ooliss pende di mira un nemico. Se lo raggiunge, lo spaventa a morte."}
-MultiLanguageSpellData['it'][233225] = {name = "Inseguimento Orrorifico", additional_info = "Portata di 50 m\n{Canalizzato (5 s di lancio} {) 8 s di recupero}\n[q]Ooliss pende di mira un nemico. Se lo raggiunge, lo spaventa a morte."}
-MultiLanguageSpellData['it'][233226] = {name = "Inseguimento Orrorifico", additional_info = "Istantaneo\n[q]Ti teletrasporta in avanti di 20 m se non ci sono ostacoli di mezzo. Libera da qualsiasi impedimento."}
+MultiLanguageSpellData['it'][233225] = {name = "Inseguimento Orrorifico", additional_info = "Portata di 50 m\nCanalizzato (5 s di lancio)\n[q]Ooliss pende di mira un nemico. Se lo raggiunge, lo spaventa a morte."}
+MultiLanguageSpellData['it'][233226] = {name = "Inseguimento Orrorifico", additional_info = "Istantaneo\n[q]Teletrasporta lontano l'incantatore. Inoltre, libera da qualsiasi impedimento."}
 MultiLanguageSpellData['it'][233227] = {name = "Inseguimento Orrorifico", additional_info = "Portata di 100 m\nIstantaneo\n[q]Ooliss pende di mira un nemico. Se lo raggiunge, lo spaventa a morte."}
 MultiLanguageSpellData['it'][233228] = {name = "Spazzata Incandescente", additional_info = "Portata di 30 m\n2 s di lancio\n[q]Infligge 1500 danni da fuoco ai nemici in un cono frontale e infligge danni da fuoco aggiuntivi in 10 s."}
 MultiLanguageSpellData['it'][233229] = {name = "Spezza Ali", additional_info = "Portata di 100 m\nIstantaneo\n[q]Immobilizza e fa cadere il bersaglio."}
@@ -9354,7 +9351,7 @@ MultiLanguageSpellData['it'][233396] = {name = "Delirio", additional_info = "[q0
 MultiLanguageSpellData['it'][233397] = {name = "Delirio", additional_info = "Portata di 100 m\nIstantaneo\n[q]Folata Gelida applica Delirio, riducendo la velocità di recupero delle abilità di potenziamento del movimento del 50% per 12 s."}
 MultiLanguageSpellData['it'][233398] = {name = "Furia di Gul'dan", additional_info = "Istantaneo\n[q]Hai fatto arrabbiare il gabbiano. Che errore.\n\n Danni inflitti aumentati del 100%. Per sempre. O almeno finché non muori."}
 MultiLanguageSpellData['it'][233399] = {name = "Rimozione Vilerba", additional_info = nil}
-MultiLanguageSpellData['it'][233400] = {name = "Beccata Accecante", additional_info = "Portata di 8 m\nIstantaneo\n[q]Becca gli occhi di un nemico, infliggendo 11 danni fisici e accecandolo per 2 s."}
+MultiLanguageSpellData['it'][233400] = {name = "Beccata Accecante", additional_info = "Portata di 8 m\n2 s di lancio\n[q]Becca gli occhi di un nemico, infliggendo 55 danni fisici e accecandolo per 2 s."}
 MultiLanguageSpellData['it'][233401] = {name = "Raffica di Colpi", additional_info = "Portata di 8 m\nIstantaneo\n[q]Esegue una serie di attacchi, infliggendo danni fisici ai nemici in un cono frontale."}
 MultiLanguageSpellData['it'][233402] = {name = "Raffica di Colpi", additional_info = "{Portata di mischi}a}\n{1.25 s di lancio} {3 s di recupero}\n[q]Esegue una serie di attacchi, infliggendo danni fisici ai nemici in un cono frontale."}
 MultiLanguageSpellData['it'][233403] = {name = "Lama del Terrore", additional_info = "Portata di 8 m\nIstantaneo\n[q]Gli attacchi infliggono danni da fuoco aggiuntivi in un cono frontale."}
@@ -9481,7 +9478,7 @@ MultiLanguageSpellData['it'][233539] = {name = "Invasione della Legione", additi
 MultiLanguageSpellData['it'][233540] = {name = "Area Trigger", additional_info = nil}
 MultiLanguageSpellData['it'][233541] = {name = "D'bynn", additional_info = "Portata di 150 m\nIstantaneo\n[q]Permette di cavalcare D'bynn."}
 MultiLanguageSpellData['it'][233542] = {name = "Vilesplosione", additional_info = nil}
-MultiLanguageSpellData['it'][233545] = {name = "Scarica del Pozzo Oscuro", additional_info = "Istantaneo\n[q]Canalizza le forze arcane, creando delle palle di energia che si dipartono dall'incantatore, infliggendo 112 danni da arcano ai personaggi vicini che vi entrano in contatto."}
+MultiLanguageSpellData['it'][233545] = {name = "Scarica del Pozzo Oscuro", additional_info = "Istantaneo\n[q]Canalizza le forze arcane, creando delle palle di energia che si dipartono dall'incantatore, infliggendo 15805 danni da arcano ai personaggi vicini che vi entrano in contatto."}
 MultiLanguageSpellData['it'][233546] = {name = "BOOM!", additional_info = nil}
 MultiLanguageSpellData['it'][233548] = {name = "Colpi Gelidi", additional_info = nil}
 MultiLanguageSpellData['it'][233549] = {name = "Canalizzazione dell'Ombra", additional_info = nil}
@@ -10224,7 +10221,7 @@ MultiLanguageSpellData['it'][234485] = {name = "Outro Conversation", additional_
 MultiLanguageSpellData['it'][234486] = {name = "Intro Conversation", additional_info = nil}
 MultiLanguageSpellData['it'][234487] = {name = "Outro Conversation", additional_info = nil}
 MultiLanguageSpellData['it'][234488] = {name = "Impeto", additional_info = "Portata di 40 m\nCanalizzato (6 s di lancio)\n[q]Richiama i tuoi alleati, che colpiscono l'area bersaglio con un branco di bestie per 6 s."}
-MultiLanguageSpellData['it'][234489] = {name = "Ruggito a Canne Mozze", additional_info = "Portata di 12 m\n3 s di lancio\n[q]Yoggy ruggisce, permettendo a Smith di sparare da dentro il suo stomaco."}
+MultiLanguageSpellData['it'][234489] = {name = "Ruggito a Canne Mozze", additional_info = "Portata di 12 m\n2.5 s di lancio\n[q]Yoggy ruggisce, permettendo a Smith di sparare da dentro il suo stomaco."}
 MultiLanguageSpellData['it'][234490] = {name = "Impeto", additional_info = nil}
 MultiLanguageSpellData['it'][234491] = {name = "Impeto", additional_info = nil}
 MultiLanguageSpellData['it'][234492] = {name = "Ruggito a Canne Mozze", additional_info = nil}
@@ -10414,7 +10411,7 @@ MultiLanguageSpellData['it'][234722] = {name = "Festa in Barca!", additional_inf
 MultiLanguageSpellData['it'][234725] = {name = "Fuochi d'Artificio", additional_info = "1 s di lancio\n[q]Tutti in barca! Si fa festa!"}
 MultiLanguageSpellData['it'][234726] = {name = "Trucchetto Navale", additional_info = "1 s di lancio\n[q]Tutti in barca! Si fa festa!"}
 MultiLanguageSpellData['it'][234727] = {name = "Avanguardia", additional_info = nil}
-MultiLanguageSpellData['it'][234728] = {name = "Annientamento Arcano", additional_info = "Portata di 1000 m\n40 s di lancio\n[q]Al termine della canalizzazione, infliggono 12876168 danni da arcano a tutti i nemici e li respingono indietro."}
+MultiLanguageSpellData['it'][234728] = {name = "Annientamento Arcano", additional_info = "Portata di 1000 m\n40 s di lancio\n[q]Al termine della canalizzazione, infliggono 369 danni da arcano a tutti i nemici e li respingono indietro."}
 MultiLanguageSpellData['it'][234729] = {name = "Set: Maglia Inanellata del Gladiatore Orgoglioso", additional_info = "[q0][Item Effect]Istantaneo\n[q]Ottieni gli aspetti dell'equipaggiamento del set Maglia Inanellata del Gladiatore Orgoglioso."}
 MultiLanguageSpellData['it'][234730] = {name = "Chiasso", additional_info = "1 s di lancio\n[q]Tutti in barca! Si fa festa!"}
 MultiLanguageSpellData['it'][234731] = {name = "Carica di Profondità Celebrativa", additional_info = "1 s di lancio\n[q]Tutti in barca! Si fa festa!"}
@@ -11023,7 +11020,7 @@ MultiLanguageSpellData['it'][235422] = {name = "Frammento d'Anima del Teatro rec
 MultiLanguageSpellData['it'][235423] = {name = "Vilmunizioni", additional_info = nil}
 MultiLanguageSpellData['it'][235424] = {name = "Vilbarriera", additional_info = nil}
 MultiLanguageSpellData['it'][235425] = {name = "Sguardo di Vilrabbia", additional_info = "Istantaneo\n[q]Marchia due bersagli con uno Sguardo di Vilrabbia. Dopo 6 s, l'incantatore salta sul bordo della piattaforma e scaglia un raggio di energia vile verso i bersagli marchiati, creando un muro di vilfuoco nella loro direzione.\n\n I personaggi che entrano in contatto col muro subiscono 140 danni da fuoco ogni 2 s."}
-MultiLanguageSpellData['it'][235426] = {name = "Drago Nascente", additional_info = "Portata di 100 m\nIstantaneo\n[q]Karam rotea la spada in aria, infliggendo 9657100 danni da fuoco a tutti i nemici entro 10 m e respingendoli indietro."}
+MultiLanguageSpellData['it'][235426] = {name = "Drago Nascente", additional_info = "Portata di 100 m\nIstantaneo\n[q]Karam rotea la spada in aria, infliggendo 185 danni da fuoco a tutti i nemici entro 10 m e respingendoli indietro."}
 MultiLanguageSpellData['it'][235427] = {name = "Anim Replacement - Idle -> Stun", additional_info = nil}
 MultiLanguageSpellData['it'][235428] = {name = "Intro Conversation", additional_info = nil}
 MultiLanguageSpellData['it'][235429] = {name = "Elementale della Terra", additional_info = "Portata di 40 m\nIstantaneo\n[q]Richiama un Elementale Superiore della Terra che protegge te e i tuoi alleati per 1 min.\n\n Mentre questo elementale è attivo, la tua salute massima aumenta del 15%."}
@@ -11370,7 +11367,7 @@ MultiLanguageSpellData['it'][235819] = {name = "Sul Vilfuoco", additional_info =
 MultiLanguageSpellData['it'][235820] = {name = "Manomissione", additional_info = nil}
 MultiLanguageSpellData['it'][235821] = {name = "Cosmetic Legion Console Screen", additional_info = nil}
 MultiLanguageSpellData['it'][235822] = {name = "Start Wave 01", additional_info = nil}
-MultiLanguageSpellData['it'][235823] = {name = "Danza del Coltello", additional_info = "2 s di lancio\n[q]Lancia una raffica di lame contro i personaggi vicini, infliggendo 1454670 danni fisici."}
+MultiLanguageSpellData['it'][235823] = {name = "Danza del Coltello", additional_info = "2 s di lancio\n[q]Lancia una raffica di lame contro i personaggi vicini, infliggendo 8 danni fisici."}
 MultiLanguageSpellData['it'][235824] = {name = "Danza del Coltello", additional_info = "Istantaneo\n[q]Lancia una raffica di lame contro i personaggi vicini, infliggendo 1454670 danni fisici."}
 MultiLanguageSpellData['it'][235825] = {name = "Aculeo Mentale", additional_info = "Portata di 40 m\n1.5 s di lancio\n[q]Infligge 1879635 danni da ombra."}
 MultiLanguageSpellData['it'][235826] = {name = "Sguardo Raggiante", additional_info = nil}
@@ -11379,7 +11376,7 @@ MultiLanguageSpellData['it'][235828] = {name = "Sguardo Raggiante", additional_i
 MultiLanguageSpellData['it'][235829] = {name = "Sguardo Raggiante", additional_info = "Portata di 100 m\nIstantaneo\n[q]Lo sguardo infligge 1 danni da ombra ai nemici colpiti."}
 MultiLanguageSpellData['it'][235831] = {name = "Sguardo Raggiante", additional_info = "1.5 s di lancio\n[q]Lo sguardo infligge 1 danni da ombra ai nemici colpiti."}
 MultiLanguageSpellData['it'][235832] = {name = "Assalto Sanguinario", additional_info = "3 s di lancio\n[q]Infligge 13 danni fisici e stordisce tutti i personaggi in un cono frontale per 4 s."}
-MultiLanguageSpellData['it'][235833] = {name = "Bombardamento Arcano", additional_info = "Portata di 100 m\n2.5 s di lancio\n[q]Infligge 13445996 danni da arcano e aumenta i danni inflitti del 40% per 4.5 s.\n\n Si accumula."}
+MultiLanguageSpellData['it'][235833] = {name = "Bombardamento Arcano", additional_info = "Portata di 100 m\n2.5 s di lancio\n[q]Infligge 55 danni da arcano e aumenta i danni inflitti del 40% per 4.5 s.\n\n Si accumula."}
 MultiLanguageSpellData['it'][235834] = {name = "Evocazione: Servitore Arcano", additional_info = "Portata di 10 m\n{2 s di lancio} {2 min di recupero}\n[q]Evoca un Servitore Arcano che difende l'incantatore."}
 MultiLanguageSpellData['it'][235835] = {name = "Conversazione", additional_info = nil}
 MultiLanguageSpellData['it'][235836] = {name = "Esplosione di Fase", additional_info = "Portata di 100 m\n5 s di lancio\n[q]L'incantatore si teletrasporta sulla posizione bersaglio in un'esplosione di energia arcana, infliggendo 0 danni da arcano ai nemici vicini."}
@@ -11522,7 +11519,7 @@ MultiLanguageSpellData['it'][235988] = {name = "Grida Tormentate", additional_in
 MultiLanguageSpellData['it'][235989] = {name = "Grida Tormentate", additional_info = "Portata di 100 m\n4 s di lancio\n[q]Marchia un personaggio e gli scatena contro un cono di magia tormentata, infliggendo 23470 danni da ombra. I danni inflitti aumentano del 300% se il bersaglio si trova già nell'area d'effetto delle Grida Tormentate .\n Se si resta nell'area d'effetto degli spiriti tormentati, si subiscono 5848 danni da ombra ogni 1 s e si resta silenziati."}
 MultiLanguageSpellData['it'][235990] = {name = "Tossina Fertile", additional_info = "Portata di 100 m\nIstantaneo\n[q]L'incantatore infetta il bersaglio con del veleno, infliggendo danni da natura ogni 3 s.\n Quando l'effetto termina, compare una Larva Vorace che segue un bersaglio vicino e lo divora."}
 MultiLanguageSpellData['it'][235991] = {name = "Desiderio Ardente di Kil'jaeden", additional_info = "Desiderio Ardente di Kil'jaeden Livello 80\n[q0][Item Effect]Portata di 80 m\n{Istantaneo} {1.25 min di recupero}\n[q]Scaglia un vortice di distruzione all'inseguimento del nemico. Quando raggiunge il bersaglio, il vortice esplode, infliggendo ( 717 * 200 / 100) danni da fuoco critici a tutti i nemici entro 10 m."}
-MultiLanguageSpellData['it'][235992] = {name = "Puntura di Mana", additional_info = "Portata di 100 m\nIstantaneo\n[q]Infligge 7273348 danni da arcano e risucchia il 1500000% del mana del nemico ogni secondo."}
+MultiLanguageSpellData['it'][235992] = {name = "Puntura di Mana", additional_info = "Portata di 100 m\nIstantaneo\n[q]Infligge 30 danni da arcano e risucchia il 60% del mana del nemico ogni secondo."}
 MultiLanguageSpellData['it'][235993] = {name = "Raffica di Veleno", additional_info = "Portata di 100 m\nIstantaneo\n[q]L'incantatore sputa veleno su tutti i nemici vicini, infliggendo danni da natura a tutti i personaggi entro 100 m.\n Le vittime del veleno continuano a subire danni da natura ogni 3 s.\n\n Alcuni nemici, invece, vengono infettati da Tossina Fertile.\n\nTossina Fertile\n Portata di 100 m\n\nIstantaneo L'incantatore infetta il bersaglio con del veleno, infliggendo danni da natura ogni 3 s.\n Quando l'effetto termina, compare una Larva Vorace che segue un bersaglio vicino e lo divora."}
 MultiLanguageSpellData['it'][235994] = {name = "Cosmetic Fel Orb", additional_info = nil}
 MultiLanguageSpellData['it'][235995] = {name = "Raffica di Veleno", additional_info = "Portata di 200 m\nIstantaneo\n[q]L'incantatore sputa veleno su tutti i nemici vicini, infliggendo danni da natura a tutti i personaggi entro 100 m.\n Le vittime del veleno continuano a subire danni da natura ogni 3 s.\n\n Alcuni nemici, invece, vengono infettati da Tossina Fertile.\n\nTossina Fertile\n Portata di 100 m\n\nIstantaneo L'incantatore infetta il bersaglio con del veleno, infliggendo danni da natura ogni 3 s.\n Quando l'effetto termina, compare una Larva Vorace che segue un bersaglio vicino e lo divora."}
@@ -11634,7 +11631,7 @@ MultiLanguageSpellData['it'][236106] = {name = "Cenere in Polvere", additional_i
 MultiLanguageSpellData['it'][236107] = {name = "Broken Shore Intro Conversation", additional_info = nil}
 MultiLanguageSpellData['it'][236108] = {name = "Viticcio di Cristallo", additional_info = nil}
 MultiLanguageSpellData['it'][236109] = {name = "Play Scene - Stormheim Legion Ship Spawn", additional_info = nil}
-MultiLanguageSpellData['it'][236110] = {name = "Inseguimento Orrorifico", additional_info = "Portata di 50 m\n{Istantaneo} {8 s di recupero}\n[q]Ooliss pende di mira un nemico. Se lo raggiunge, lo spaventa a morte."}
+MultiLanguageSpellData['it'][236110] = {name = "Inseguimento Orrorifico", additional_info = "Portata di 50 m\nIstantaneo\n[q]Ooliss pende di mira un nemico. Se lo raggiunge, lo spaventa a morte."}
 MultiLanguageSpellData['it'][236111] = {name = "Inseguimento Orrorifico", additional_info = "Portata di 50 m\nIstantaneo\n[q]Ooliss pende di mira un nemico. Se lo raggiunge, lo spaventa a morte."}
 MultiLanguageSpellData['it'][236114] = {name = "Semina e Raccogli", additional_info = "[q0][Item Effect][q]Aumenta la durata di Mietitura d'Anime di 1.5 s per ogni frammento d'anima consumato."}
 MultiLanguageSpellData['it'][236115] = {name = "Teletrasporto Incorporeo", additional_info = "Portata di 150 m\n1 s di lancio\n[q]Teletrasporta l'incantatore in una posizione vicina."}
@@ -11668,15 +11665,15 @@ MultiLanguageSpellData['it'][236142] = {name = "Frammenti d'Ossa", additional_in
 MultiLanguageSpellData['it'][236143] = {name = "Sovraccarico di Fuoco dell'Imp", additional_info = "Istantaneo\n[q]Infligge 9 danni da fuoco a tutti i nemici entro 8 m."}
 MultiLanguageSpellData['it'][236144] = {name = "Maestro Mutaforma", additional_info = "[q0]Specializzazione de Tank – Riga 1 talento di PvP\n[q]Le abilità sono amplificate in base alla forma mutata attuale, fornendo un effetto aggiuntivo.\n\n Forma da Incantatore\n Rinvigorimento fornisce il 30% di cure aggiuntive e permette di generare 25 rabbia istantanea dopo aver attivato la Forma d'Orso.\n\n Forma di Lunagufo\n Ira Silvana, Fuoco Stellare e Cometa Arcana infliggono il 30% di danni aggiuntivi e permettono di generare 25 rabbia istantanea dopo aver attivato la Forma d'Orso.\n\n Forma Felina\n Squarcio, Morso Feroce e Menomazione infliggono il 60% di danni aggiuntivi e permettono di generare 50 rabbia istantaneamente dopo aver attivato la Forma d'Orso, se lanciati con 5 punti combo."}
 MultiLanguageSpellData['it'][236145] = {name = "Agganciato", additional_info = "Portata illimitata\nIstantaneo\n[q]Riduce la velocità di movimento."}
-MultiLanguageSpellData['it'][236146] = {name = "Gancio di Tritacarne", additional_info = "Portata di 8 - 100 m\nIstantaneo\n[q]Infligge 150 danni fisici e attira il bersaglio verso l'incantatore."}
+MultiLanguageSpellData['it'][236146] = {name = "Gancio di Tritacarne", additional_info = "Portata di 100 m\nIstantaneo\n[q]Infligge 5 danni fisici e attira il bersaglio verso l'incantatore."}
 MultiLanguageSpellData['it'][236147] = {name = "Rapidità di Malorne", additional_info = "[q0]Specializzazione de Tank – Riga 1 talento di PvP\n[q]La tua velocità di movimento in Forma Celere in un campo di battaglia o uno scontro d'Arena aumenta del 20%. Inoltre, la velocità di movimento della tua Forma Celere aumenta del 100%."}
 MultiLanguageSpellData['it'][236148] = {name = "Velocità Ruggente", additional_info = "[q]Riduce il tempo di recupero di Ruggito Impetuoso di 60 s."}
 MultiLanguageSpellData['it'][236150] = {name = "Scarica di Piaga", additional_info = "Istantaneo\n[q]L'incantatore brucia per l'energia immagazzinata, infliggendo 31 danni da ombra a tutti i personaggi entro 6 m e creando ai propri piedi una Zona della Piaga, che infligge danni da ombra ai personaggi che restano nell'area d'effetto."}
 MultiLanguageSpellData['it'][236151] = {name = "Cosmetic Periodic Fel Scorch", additional_info = nil}
 MultiLanguageSpellData['it'][236152] = {name = "Aura del Marciume", additional_info = "Istantaneo\n[q]Infligge danni crescenti ai bersagli all'interno dell'aura."}
 MultiLanguageSpellData['it'][236153] = {name = "Frenesia Furente", additional_info = "[q]Rigenerazione Furiosa genera 60 rabbia in 3 s."}
-MultiLanguageSpellData['it'][236154] = {name = "Aura del Marciume", additional_info = "Portata illimitata\nIstantaneo\n[q]Infligge danni crescenti ai bersagli all'interno dell'aura."}
-MultiLanguageSpellData['it'][236155] = {name = "Aura del Marciume", additional_info = "Portata illimitata\nIstantaneo\n[q]Infligge danni crescenti ai bersagli all'interno dell'aura."}
+MultiLanguageSpellData['it'][236154] = {name = "Aura del Marciume", additional_info = "Portata di 100 m\nIstantaneo\n[q]Infligge danni crescenti ai bersagli all'interno dell'aura."}
+MultiLanguageSpellData['it'][236155] = {name = "Aura del Marciume", additional_info = "Portata di 100 m\nIstantaneo\n[q]Infligge danni crescenti ai bersagli all'interno dell'aura."}
 MultiLanguageSpellData['it'][236156] = {name = "Istinto di Sopravvivenza", additional_info = "Portata di 15 m\n{Istantaneo} {3 min di recupero}\n1 Carico\n[q]Riduce tutti i danni subiti dal bersaglio del 50% per 6 s. Massimo 2 cariche."}
 MultiLanguageSpellData['it'][236157] = {name = "Istinto di Sopravvivenza", additional_info = "Portata illimitata\nIstantaneo\n[q]Riduce tutti i danni subiti dal bersaglio del 50% per 6 s. Massimo 2 cariche."}
 MultiLanguageSpellData['it'][236158] = {name = "Esplosione d'Anima", additional_info = "Istantaneo\n[q]Quando muore, esplode, infliggendo 31610 danni da ombra a tutti i personaggi entro 5 m e respingendoli indietro."}
@@ -11940,7 +11937,7 @@ MultiLanguageSpellData['it'][236454] = {name = "Vincolo dell'Anima", additional_
 MultiLanguageSpellData['it'][236455] = {name = "Vincolo dell'Anima", additional_info = nil}
 MultiLanguageSpellData['it'][236456] = {name = "Evocazione: Minerva", additional_info = nil}
 MultiLanguageSpellData['it'][236457] = {name = "Corrente Ascensionale", additional_info = "[q]Permette di canalizzare in movimento Missili Arcani ed Evocazione ."}
-MultiLanguageSpellData['it'][236458] = {name = "Evocazione: Scopa", additional_info = "6 s di lancio\n[q]Evoca una scopa che combatte al fianco dell'incantatore."}
+MultiLanguageSpellData['it'][236458] = {name = "Evocazione: Scopa", additional_info = "Portata di 100 m\nIstantaneo\n[q]Evoca una scopa che combatte al fianco dell'incantatore."}
 MultiLanguageSpellData['it'][236459] = {name = "Vincolo dell'Anima", additional_info = "Portata di 100 m\nIstantaneo\n[q]Vincola insieme le anime di due personaggi. Ogni bersaglio infligge 16991 danni da ombra a tutti i personaggi entro 10 m ogni 2 s, finché non ci si sposta a meno di 5 m da un altro personaggio vincolato che si trovi in un reame opposto."}
 MultiLanguageSpellData['it'][236460] = {name = "Runa dell'Evocazione", additional_info = "Portata di 100 m\nIstantaneo\n[q]L'incantatore crea una Runa dell'Evocazione sulla posizione del bersaglio. Se non viene distrutta, la runa evoca una Cosa dell'Incubo."}
 MultiLanguageSpellData['it'][236461] = {name = "Runa dell'Evocazione", additional_info = "Portata di 100 m\nIstantaneo\n[q]La Runa dell'Evocazione evoca una Cosa dell'Incubo, che segue il personaggio fino alla morte."}
@@ -12984,10 +12981,10 @@ MultiLanguageSpellData['it'][237945] = {name = "Sangue del Padre", additional_in
 MultiLanguageSpellData['it'][237946] = {name = "Sangue del Padre", additional_info = "Portata di 100 m\nIstantaneo\n[q]Il vilpotere scorre nelle vene di Sigryn, infliggendo danni da fuoco a tutti i nemici ogni secondo."}
 MultiLanguageSpellData['it'][237947] = {name = "Rabbia del Berserker", additional_info = "Portata di 100 m\n1 s di lancio\n[q]Il vilpotere scorre nelle vene dello Jarl, aumentandone i danni inflitti e la velocità d'attacco. Finché è furioso, la sua velocità è ridotta del 40%."}
 MultiLanguageSpellData['it'][237948] = {name = "Folgore del Gelo", additional_info = "Portata di 100 m\nIstantaneo\n[q]Folgore del Gelo."}
-MultiLanguageSpellData['it'][237949] = {name = "Conoscenza Ancestrale", additional_info = "Portata di 100 m\nIstantaneo\n[q]Il vilpotere scorre nelle vene del Veggente delle Rune Faljar, proteggendolo da 19509831 danni subiti, dagli effetti d'interruzione e dagli effetti di controllo delle creature."}
+MultiLanguageSpellData['it'][237949] = {name = "Conoscenza Ancestrale", additional_info = "Portata di 100 m\nIstantaneo\n[q]Il vilpotere scorre nelle vene del Veggente delle Rune Faljar, proteggendolo da 235 danni subiti, dagli effetti d'interruzione e dagli effetti di controllo delle creature."}
 MultiLanguageSpellData['it'][237950] = {name = "Terremoto", additional_info = "Portata di 100 m\nCanalizzato (5 s di lancio)\n[q]L'incantatore fa tremare le montagne, facendo cadere al suolo diverse stalattiti. Ogni stalattite infligge 92 danni fisici a tutti i personaggi entro 5 m e li respinge indietro."}
 MultiLanguageSpellData['it'][237951] = {name = "Idolo dei Drogbar", additional_info = "Portata di 100 m\n1.5 s di lancio\n[q]Evoca un Idolo dei Drogbar, infliggendo danni da natura ai nemici entro 30 m ogni secondo per 6 s."}
-MultiLanguageSpellData['it'][237952] = {name = "Conoscenza Ancestrale", additional_info = "Portata di 100 m\n{20 s di lancio} {5 s di recupero}\n[q]Il Veggente delle Rune Faljar canalizza un immenso vilpotere in un'esplosione concentrata, infliggendo 74640553 danni da fuoco a tutti i nemici."}
+MultiLanguageSpellData['it'][237952] = {name = "Conoscenza Ancestrale", additional_info = "Portata di 100 m\n{20 s di lancio} {5 s di recupero}\n[q]Il Veggente delle Rune Faljar canalizza un immenso vilpotere in un'esplosione concentrata, infliggendo 308 danni da fuoco a tutti i nemici."}
 MultiLanguageSpellData['it'][237953] = {name = "Idolo dei Drogbar", additional_info = nil}
 MultiLanguageSpellData['it'][237954] = {name = "Idolo dei Drogbar", additional_info = nil}
 MultiLanguageSpellData['it'][237955] = {name = "Idolo dei Drogbar", additional_info = "Portata di 100 m\n1.5 s di lancio\n[q]Evoca un Idolo dei Drogbar, infliggendo danni da natura ai nemici entro 30 m ogni secondo per 6 s."}
@@ -13585,7 +13582,7 @@ MultiLanguageSpellData['it'][238648] = {name = "Frantumazione Abissale", additio
 MultiLanguageSpellData['it'][238649] = {name = "Frantumazione Abissale", additional_info = "Portata di 100 m\nIstantaneo\n[q]Colpisce il terreno con uno schianto violento, infliggendo danni fisici a tutti i nemici in un cono frontale e stordendoli."}
 MultiLanguageSpellData['it'][238650] = {name = "Ondata d'Ombra", additional_info = nil}
 MultiLanguageSpellData['it'][238652] = {name = "Ondata d'Ombra", additional_info = nil}
-MultiLanguageSpellData['it'][238653] = {name = "Ondata d'Ombra", additional_info = "Portata di 100 m\n{4 s di lancio} {4 s di recupero}\n[q]Un'ondata di magia caotica si abbatte sui nemici frontali, infliggendo 118 danni da ombra. Inoltre, lascia delle pozze d'ombra sull'area che infliggono 6 danni da ombra aggiuntivi ogni 1 s."}
+MultiLanguageSpellData['it'][238653] = {name = "Ondata d'Ombra", additional_info = "Portata di 100 m\n{4 s di lancio} {4 s di recupero}\n[q]Un'ondata di magia caotica si abbatte sui nemici frontali, infliggendo 16711 danni da ombra. Inoltre, lascia delle pozze d'ombra sull'area che infliggono 664 danni da ombra aggiuntivi ogni 1 s."}
 MultiLanguageSpellData['it'][238654] = {name = "Ondata d'Ombra", additional_info = nil}
 MultiLanguageSpellData['it'][238655] = {name = "Ondata d'Ombra", additional_info = nil}
 MultiLanguageSpellData['it'][238656] = {name = "Ondata d'Ombra", additional_info = "Portata illimitata\nIstantaneo\n[q]Un'ondata di magia caotica si abbatte sui nemici frontali, infliggendo 8783 danni da ombra. Inoltre, lascia delle pozze d'ombra sull'area che infliggono 664 danni da ombra aggiuntivi ogni 1 s."}
@@ -13606,7 +13603,7 @@ MultiLanguageSpellData['it'][238671] = {name = "Apparizione Selvatica", addition
 MultiLanguageSpellData['it'][238672] = {name = "Fel Arcane Beam (Cosmetic)", additional_info = nil}
 MultiLanguageSpellData['it'][238673] = {name = "Elettrocuzione Floreale", additional_info = "0.5 s di lancio\n[q]Quando è a portata di mischia, la pianta esplode, infliggendo 8754 danni da fuoco a tutti i nemici vicini."}
 MultiLanguageSpellData['it'][238674] = {name = "Ossessione", additional_info = "Portata di 100 m\nCanalizzato (33 s di lancio)\n[q]Prende di mira un bersaglio casuale."}
-MultiLanguageSpellData['it'][238675] = {name = "Tiro Lancia", additional_info = "Portata di 100 m\n{Istantaneo} {5 s di recupero}\n[q]L'incantatore scaglia la propria lancia in aria. Quando atterra, si forma una Lancia della Vendetta, che infligge 6061124 danni da fuoco a tutti i personaggi entro 5 m."}
+MultiLanguageSpellData['it'][238675] = {name = "Tiro Lancia", additional_info = "Portata di 100 m\n{Istantaneo} {5 s di recupero}\n[q]L'incantatore scaglia la propria lancia in aria. Quando atterra, si forma una Lancia della Vendetta, che infligge 25 danni da fuoco a tutti i personaggi entro 5 m."}
 MultiLanguageSpellData['it'][238676] = {name = "Venti Selvaggi", additional_info = "Portata di 50 m\n{1.5 s di lancio} {3 s di recupero}\n[q]Evoca dei Venti Selvaggi sulla posizione del nemico."}
 MultiLanguageSpellData['it'][238677] = {name = "Colonna di Fuoco Vile", additional_info = "Portata di 30 m\n3 s di lancio\n[q]Evoca una colonna di fuoco che brucia tutti i nemici in un'area bersaglio, infliggendo danni aggiuntivi ogni 2 s per 8 s."}
 MultiLanguageSpellData['it'][238678] = {name = "Satira Soffocante", additional_info = "Portata di 100 m\n3 s di lancio\n[q]Mentre il tomo si apre, tutti i suoni vengono magicamente assorbiti dalle antiche pagine, silenziando tutti i personaggi per 5 s."}
@@ -13625,7 +13622,7 @@ MultiLanguageSpellData['it'][238690] = {name = "Lancia della Vendetta", addition
 MultiLanguageSpellData['it'][238691] = {name = "Lancia della Vendetta", additional_info = "Portata di 100 m\nIstantaneo\n[q]L'incantatore scaglia la propria lancia in aria. Quando atterra, si forma una Lancia della Vendetta, che infligge 25 danni da fuoco a tutti i personaggi entro 5 m."}
 MultiLanguageSpellData['it'][238692] = {name = "Viticci Soffocanti", additional_info = nil}
 MultiLanguageSpellData['it'][238693] = {name = "Urto Vile", additional_info = "{Portata di mischi}a}\n2.25 s di lancio\n[q]Colpisce il terreno con una zoccolata potente, infliggendo danni fisici e stordendo tutti i nemici entro 5 m per 2 s."}
-MultiLanguageSpellData['it'][238694] = {name = "Tiro Lancia", additional_info = "Portata di 100 m\n1 s di lancio\n[q]L'incantatore scaglia la propria lancia in aria. Quando atterra, si forma una Lancia della Vendetta, che infligge 6061124 danni da fuoco a tutti i personaggi entro 5 m."}
+MultiLanguageSpellData['it'][238694] = {name = "Tiro Lancia", additional_info = "Portata di 100 m\n1 s di lancio\n[q]L'incantatore scaglia la propria lancia in aria. Quando atterra, si forma una Lancia della Vendetta, che infligge 25 danni da fuoco a tutti i personaggi entro 5 m."}
 MultiLanguageSpellData['it'][238698] = {name = "Aura Vampirica", additional_info = "Portata di 100 m\nIstantaneo\n[q]Consunzione fornisce il 20% di ritorno vitale aggiuntivo a te e a 4 alleati per 15 s."}
 MultiLanguageSpellData['it'][238699] = {name = "Piazzamento Esplosivo", additional_info = nil}
 MultiLanguageSpellData['it'][238700] = {name = "Evocazione: Anduin", additional_info = nil}
@@ -17417,7 +17414,7 @@ MultiLanguageSpellData['it'][243228] = {name = "Gloria di Odyn", additional_info
 MultiLanguageSpellData['it'][243229] = {name = "Soldato", additional_info = nil}
 MultiLanguageSpellData['it'][243230] = {name = "Ufficiale", additional_info = nil}
 MultiLanguageSpellData['it'][243231] = {name = "Comandante", additional_info = nil}
-MultiLanguageSpellData['it'][243232] = {name = "Vilmeteorite", additional_info = "[q0][Item Effect]Istantaneo\n[q]Lancia l'utilizzatore in lontananza come una vilmeteora. Utilizzabile solo sulle Isole Disperse e su Argus."}
+MultiLanguageSpellData['it'][243232] = {name = "Vilmeteorite", additional_info = "[q0][Item Effect]Istantaneo\n[q]Lancia l'utilizzatore in lontananza come una vilmeteora. Utilizzabile solo sulle Isole Disperse."}
 MultiLanguageSpellData['it'][243233] = {name = "Vilfulmine", additional_info = "Portata di 100 m\n2 s di lancio\n[q]Travolge il bersaglio con un arco di energia vile, infliggendo 31 danni da fuoco."}
 MultiLanguageSpellData['it'][243234] = {name = "Selva Tonante", additional_info = "Istantaneo\n[q]Mentre Aspetto della Selva è attivo, anche Hati e il tuo famiglio attivano un effetto di Selva Tonante a ogni attacco automatico, infliggendo [([10.5% of Attack Power]) * ( 1 * 0.96 * 1.06)] danni da natura."}
 MultiLanguageSpellData['it'][243235] = {name = "Cannone dell'Ira", additional_info = "Portata di 200 m\nIstantaneo\n[q]Lancia un esplosivo ad alto potenziale, infliggendo danni da fuoco."}
@@ -19765,14 +19762,14 @@ MultiLanguageSpellData['it'][246116] = {name = "Rabbia Bestiale", additional_inf
 MultiLanguageSpellData['it'][246117] = {name = "Aura di Prevenzione", additional_info = nil}
 MultiLanguageSpellData['it'][246118] = {name = "Ansia da Separazione", additional_info = nil}
 MultiLanguageSpellData['it'][246119] = {name = "Borsellino del Combattente: Eroe Cieco", additional_info = "Istantaneo"}
-MultiLanguageSpellData['it'][246120] = {name = "Assalto Cieco", additional_info = "3 s di lancio\n[q]Infligge 6000 danni fisici."}
-MultiLanguageSpellData['it'][246121] = {name = "Assalto Rapido", additional_info = "0.5 s di lancio\n[q]Infligge 2000 danni fisici."}
+MultiLanguageSpellData['it'][246120] = {name = "Assalto Cieco", additional_info = "2.5 s di lancio\n[q]Infligge 6000 danni fisici."}
+MultiLanguageSpellData['it'][246121] = {name = "Assalto Rapido", additional_info = "2 s di lancio\n[q]Infligge 4500 danni fisici."}
 MultiLanguageSpellData['it'][246122] = {name = "Vagabondaggio", additional_info = nil}
 MultiLanguageSpellData['it'][246123] = {name = "Carica", additional_info = nil}
 MultiLanguageSpellData['it'][246124] = {name = "Carica", additional_info = nil}
 MultiLanguageSpellData['it'][246125] = {name = "Carica", additional_info = "Istantaneo\n(8s di recupero)"}
 MultiLanguageSpellData['it'][246126] = {name = "Item - Hunter T20 Beast Mastery 2P Bonus Driver", additional_info = "Istantaneo\n[q]Tiro del Cobra, Tiro Multiplo e Ordine di Morte aumentano il bonus ai danni fornito da Ira Bestiale del 1.5% per la durata restante."}
-MultiLanguageSpellData['it'][246127] = {name = "Fendente Cieco", additional_info = "2.5 s di lancio\n[q]Infligge 150761 danni fisici."}
+MultiLanguageSpellData['it'][246127] = {name = "Turbinio Letale", additional_info = "3 s di lancio\n[q]Infligge 7000 danni fisici."}
 MultiLanguageSpellData['it'][246130] = {name = "Raggio Divino", additional_info = nil}
 MultiLanguageSpellData['it'][246131] = {name = "Riduzione", additional_info = nil}
 MultiLanguageSpellData['it'][246132] = {name = "Riduzione", additional_info = nil}
@@ -19913,7 +19910,7 @@ MultiLanguageSpellData['it'][246291] = {name = "Vuoto Entropico", additional_inf
 MultiLanguageSpellData['it'][246292] = {name = "Busta Migliorata", additional_info = "Portata di 10 m\n{Istantaneo} {8 s di recupero}\n[q]Contiene sempre una carta Leggendaria!"}
 MultiLanguageSpellData['it'][246293] = {name = "Dispiegamento Tabellone", additional_info = "Portata di 10 m\n{Istantaneo} {10 s di recupero}\n[q]Prepari il tabellone di gioco per permettere a un altro personaggio di giocare una partita con te."}
 MultiLanguageSpellData['it'][246294] = {name = "Inscatolamento", additional_info = "Portata di 10 m\n{Istantaneo} {1 s di recupero}\n[q]Inscatoli la tua Hearthstation."}
-MultiLanguageSpellData['it'][246295] = {name = "Vuoto Entropico", additional_info = "Portata illimitata\nIstantaneo\n[q]Ogni 2 s, il bersaglio marchia la propria posizione. Dopo 2 s, le posizioni marchiate esplodono, infliggendo 71 danni da ombra a tutti i personaggi entro 5 m."}
+MultiLanguageSpellData['it'][246295] = {name = "Vuoto Entropico", additional_info = "Portata illimitata\nIstantaneo\n[q]Ogni 2 s, il bersaglio marchia la propria posizione. Dopo 2 s, le posizioni marchiate esplodono, infliggendo 10068 danni da ombra a tutti i personaggi entro 5 m."}
 MultiLanguageSpellData['it'][246296] = {name = "Vilcollera", additional_info = nil}
 MultiLanguageSpellData['it'][246297] = {name = "Vilcollera", additional_info = nil}
 MultiLanguageSpellData['it'][246298] = {name = "Siamo Sotto Attacco!", additional_info = nil}
@@ -19921,7 +19918,7 @@ MultiLanguageSpellData['it'][246299] = {name = "Vuoto Entropico", additional_inf
 MultiLanguageSpellData['it'][246300] = {name = "Siamo Sotto Attacco!", additional_info = nil}
 MultiLanguageSpellData['it'][246301] = {name = "Modalità Artiglieria", additional_info = "Portata illimitata\nCanalizzato (0 s di lancio)\n[q]Il Distruttore lancia periodicamente un missile di energia vile contro l'Essenza di Eonar. Attaccarlo in mischia fa terminare l'effetto."}
 MultiLanguageSpellData['it'][246305] = {name = "Attacco d'Artiglieria", additional_info = "Portata illimitata\n{2 s di lancio} {4 s di recupero}\n[q]Il Distruttore lancia un missile di energia vile contro l'Essenza di Eonar, infliggendo leggeri danni da fuoco."}
-MultiLanguageSpellData['it'][246306] = {name = "Vuoto Entropico", additional_info = "Portata illimitata\nIstantaneo\n[q]Ogni 2 s, il bersaglio marchia la propria posizione. Dopo 2 s, le posizioni marchiate esplodono, infliggendo 71 danni da ombra a tutti i personaggi entro 5 m."}
+MultiLanguageSpellData['it'][246306] = {name = "Vuoto Entropico", additional_info = "Portata illimitata\nIstantaneo\n[q]Ogni 2 s, il bersaglio marchia la propria posizione. Dopo 2 s, le posizioni marchiate esplodono, infliggendo 10068 danni da ombra a tutti i personaggi entro 5 m."}
 MultiLanguageSpellData['it'][246307] = {name = "Paura", additional_info = nil}
 MultiLanguageSpellData['it'][246308] = {name = "Gioca Partita", additional_info = "Portata di 10 m\n{1.5 s di lancio} {10 s di recupero}\n[q]Inscatoli la tua Hearthstation."}
 MultiLanguageSpellData['it'][246309] = {name = "Ferito", additional_info = nil}
@@ -34252,13 +34249,13 @@ MultiLanguageSpellData['it'][263893] = {name = "Falciata Frenetica", additional_
 MultiLanguageSpellData['it'][263894] = {name = "Trattenuta", additional_info = nil}
 MultiLanguageSpellData['it'][263895] = {name = "Purificazione Infezione", additional_info = nil}
 MultiLanguageSpellData['it'][263897] = {name = "Spezzaselce", additional_info = nil}
-MultiLanguageSpellData['it'][263899] = {name = "Unghiata Frastagliata", additional_info = "{Portata di mischi}a}\nIstantaneo\n[q]Graffia il bersaglio con unghie scheggiate, infliggendo 10823712 danni fisici."}
+MultiLanguageSpellData['it'][263899] = {name = "Unghiata Frastagliata", additional_info = "{Portata di mischi}a}\nIstantaneo\n[q]Graffia il bersaglio con unghie scheggiate, infliggendo 45 danni fisici."}
 MultiLanguageSpellData['it'][263900] = {name = "Morso Squarciante", additional_info = "Portata di 15 m\n{1.5 s di lancio} {3 s di recupero}\n[q]Morde il bersaglio, infliggendo danni fisici istantaneamente e danni fisici aggiuntivi ogni 2 s per 8 s."}
 MultiLanguageSpellData['it'][263901] = {name = "Battito d'Ali", additional_info = "Portata di 30 m\n{4 s di lancio} {3 s di recupero}\n[q]Alaspinosa sbatte le ali, infliggendo danni fisici e respingendo indietro i nemici."}
 MultiLanguageSpellData['it'][263902] = {name = "Destabilizzazione", additional_info = "{Portata di mischi}a}\n2 s di lancio\n[q]Destabilizza il rituale di potenziamento dei Naga."}
 MultiLanguageSpellData['it'][263903] = {name = "Trasporto Cassa", additional_info = nil}
 MultiLanguageSpellData['it'][263904] = {name = "Rapidità del Serpente", additional_info = "{Istantaneo} {1.5 min di recupero}\n[q]Il tuo famiglio assume una postura difensiva, aumentando la probabilità di schivata del 30% per 20 s."}
-MultiLanguageSpellData['it'][263905] = {name = "Fendente Marchiante", additional_info = "1.5 s di lancio\n[q]Disegna un ampio arco con una lama runica, infliggendo 3636674 danni da ombra istantaneamente e 1212225 danni da ombra aggiuntivi ogni 2 s per 6 s a tutti i nemici in un cono frontale."}
+MultiLanguageSpellData['it'][263905] = {name = "Fendente Marchiante", additional_info = "1.5 s di lancio\n[q]Disegna un ampio arco con una lama runica, infliggendo 15 danni da ombra istantaneamente e 5 danni da ombra aggiuntivi ogni 2 s per 6 s a tutti i nemici in un cono frontale."}
 MultiLanguageSpellData['it'][263906] = {name = "Terrore delle Gallerie", additional_info = nil}
 MultiLanguageSpellData['it'][263907] = {name = "Cosmetic - ChannelCastDirected Breakable", additional_info = nil}
 MultiLanguageSpellData['it'][263908] = {name = "Trasporto Cassa", additional_info = nil}
@@ -34425,8 +34422,8 @@ MultiLanguageSpellData['it'][264105] = {name = "Marchio Runico", additional_info
 MultiLanguageSpellData['it'][264106] = {name = "Dardo Mortale", additional_info = "3 frammenti d'anima Portata di 40 m\n{1 s di lancio} {30 s di recupero}\n[q]Lancia un dardo mortale contro il bersaglio, accumulando il 50% dei danni restanti dai tuoi incantesimi sul bersaglio e infliggendoglieli in 3 s. [ Corruzione Totale : Considera fino a 14 s dei danni inflitti da un tuo effetto di Corruzione ]"}
 MultiLanguageSpellData['it'][264107] = {name = "Feticcio Potenziato della Bruciatura", additional_info = "Portata di 5 m\n{Istantaneo} {20 s di recupero}\n[q]Scatena il mojo del fuoco contenuto in questo feticcio per incendiare la pece intorno a Zulajin. Potrebbe tornare utile sulla punta di una freccia, un giorno."}
 MultiLanguageSpellData['it'][264108] = {name = "Aspirazione del Sangue", additional_info = "[q0][Azerite Power][q]Aumenta l'indice di maestria di 25 e l'indice di ritorno vitale di 13 ."}
-MultiLanguageSpellData['it'][264110] = {name = "Lama Oscurata", additional_info = "Istantaneo\n[q]Infonde l'arma dell'incantatore con una serie di rune d'ombra, così che i suoi attacchi in mischia infliggano 1454670 danni da ombra aggiuntivi.\n(3s di recupero)"}
-MultiLanguageSpellData['it'][264111] = {name = "Lama Oscurata", additional_info = "Portata di 8 m\nIstantaneo\n[q]Infonde l'arma dell'incantatore con una serie di rune d'ombra, così che i suoi attacchi in mischia infliggano 1454670 danni da ombra aggiuntivi."}
+MultiLanguageSpellData['it'][264110] = {name = "Lama Oscurata", additional_info = "Istantaneo\n[q]Infonde l'arma dell'incantatore con una serie di rune d'ombra, così che i suoi attacchi in mischia infliggano 6 danni da ombra aggiuntivi.\n(3s di recupero)"}
+MultiLanguageSpellData['it'][264111] = {name = "Lama Oscurata", additional_info = "Portata di 8 m\nIstantaneo\n[q]Infonde l'arma dell'incantatore con una serie di rune d'ombra, così che i suoi attacchi in mischia infliggano 6 danni da ombra aggiuntivi."}
 MultiLanguageSpellData['it'][264112] = {name = "Scudo del Virtuoso", additional_info = "{Portata di mischi}a}\n{Istantaneo} {6 s di recupero}\n[q]Un colpo di scudo frontale che infligge 3 danni da sacro al bersaglio e aumenta la tua armatura del 125% per 4 s."}
 MultiLanguageSpellData['it'][264113] = {name = "Fiamme degli Antenati", additional_info = "[q0][Azerite Power][q]Aumenta i danni inflitti da Getto di Lava di 304 e fa sì che l'abilità fornisca 5 maelstrom aggiuntivo.\n\nElementale/Rigenerazione"}
 MultiLanguageSpellData['it'][264114] = {name = "Asce Rotanti", additional_info = "Portata di 40 m\n{Istantaneo} {3 s di recupero}\n[q]Lancia un set di asce rotanti contro la posizione di un bersaglio, infliggendo danni fisici e respingendo indietro tutti i personaggi con cui entrano in contatto."}
@@ -34685,7 +34682,7 @@ MultiLanguageSpellData['it'][264452] = {name = "Armature di Platino", additional
 MultiLanguageSpellData['it'][264453] = {name = "Armi di Platino", additional_info = "Portata illimitata\nIstantaneo\n[q]Aumenta i danni inflitti del 30%."}
 MultiLanguageSpellData['it'][264454] = {name = "Aumento Valuta: Lascia il Segno", additional_info = "Istantaneo\n[q]Aumenta la quantità massima di Mana Antico che si può trasportare di 1200."}
 MultiLanguageSpellData['it'][264455] = {name = "Incantamento", additional_info = "Istantaneo\n[q]Permette a un incantatore di incantare oggetti di base. Puoi salire di competenza fino a un massimo di 300. Richiede polveri ed essenze che si trovano disincantando oggetti magici."}
-MultiLanguageSpellData['it'][264456] = {name = "Esplosivo di Tracciamento", additional_info = "Portata di 60 m\n2 s di lancio\n[q]Spara un esplosivo di tracciamento contro il bersaglio, infliggendo 2400205 danni da fuoco all'impatto a tutti i nemici entro 4 m dal bersaglio."}
+MultiLanguageSpellData['it'][264456] = {name = "Esplosivo di Tracciamento", additional_info = "Portata di 60 m\n2 s di lancio\n[q]Spara un esplosivo di tracciamento contro il bersaglio, infliggendo 10 danni da fuoco all'impatto a tutti i nemici entro 4 m dal bersaglio."}
 MultiLanguageSpellData['it'][264457] = {name = "Incantamento", additional_info = "Portata di 100 m\nIstantaneo\n[q]Permette a un incantatore di incantare oggetti di base. Puoi salire di competenza fino a un massimo di 300. Richiede polveri ed essenze che si trovano disincantando oggetti magici."}
 MultiLanguageSpellData['it'][264458] = {name = "Barriera di Ghiaccio", additional_info = "{Istantaneo} {25 s di recupero}\n[q]Protegge l'incantatore per 1 min, assorbendo i danni subiti."}
 MultiLanguageSpellData['it'][264459] = {name = "Spinta", additional_info = nil}
@@ -34705,7 +34702,7 @@ MultiLanguageSpellData['it'][264472] = {name = "Incantamento di Legion", additio
 MultiLanguageSpellData['it'][264473] = {name = "Incantamento di Kul Tiras", additional_info = "Istantaneo\nFazione: Alleanza\n[q]Permette a un incantatore di incantare equipaggiamenti comuni. Puoi salire di competenza fino a un massimo di 175."}
 MultiLanguageSpellData['it'][264474] = {name = "Incantamento di Kul Tiras", additional_info = "Portata di 100 m\nIstantaneo\n[q]Permette a un incantatore di incantare equipaggiamenti comuni. Puoi salire di competenza fino a un massimo di 175."}
 MultiLanguageSpellData['it'][264475] = {name = "Ingegneria", additional_info = "Istantaneo\n[q]Permette a un ingegnere di creare aggeggi di base. Puoi salire di competenza fino a un massimo di 300. Richiede pietre e metalli che si trovano grazie alla competenza in Estrazione."}
-MultiLanguageSpellData['it'][264476] = {name = "Esplosivo di Tracciamento", additional_info = "Portata di 100 m\nIstantaneo\n[q]Spara un esplosivo di tracciamento contro il bersaglio, infliggendo 2400205 danni da fuoco all'impatto a tutti i nemici entro 4 m dal bersaglio."}
+MultiLanguageSpellData['it'][264476] = {name = "Esplosivo di Tracciamento", additional_info = "Portata di 100 m\nIstantaneo\n[q]Spara un esplosivo di tracciamento contro il bersaglio, infliggendo 10 danni da fuoco all'impatto a tutti i nemici entro 4 m dal bersaglio."}
 MultiLanguageSpellData['it'][264477] = {name = "Presa dagli Abissi", additional_info = "1.5 s di lancio\n[q]Tentacoli colpiscono il terreno, immobilizzando un personaggio sul posto e infliggendo 1320 danni da ombrogelo ogni 2 s per 20 s."}
 MultiLanguageSpellData['it'][264478] = {name = "Ingegneria", additional_info = "Portata di 100 m\nIstantaneo\n[q]Permette a un ingegnere di creare aggeggi di base. Puoi salire di competenza fino a un massimo di 300. Richiede pietre e metalli che si trovano grazie alla competenza in Estrazione."}
 MultiLanguageSpellData['it'][264479] = {name = "Ingegneria delle Terre Esterne", additional_info = "Istantaneo\n[q]Permette a un ingegnere di creare aggeggi di base. Puoi salire di competenza fino a un massimo di 75. Richiede pietre e metalli che si trovano grazie alla competenza in Estrazione."}
@@ -42197,7 +42194,7 @@ MultiLanguageSpellData['it'][273648] = {name = "Conversation", additional_info =
 MultiLanguageSpellData['it'][273649] = {name = "Conversation", additional_info = nil}
 MultiLanguageSpellData['it'][273650] = {name = "Spruzzo di Spine", additional_info = nil}
 MultiLanguageSpellData['it'][273652] = {name = "Sangue Instabile", additional_info = "Istantaneo\n[q]Quando viene ucciso, l'incantatore esplode con una detonazione di sangue, infliggendo 750 danni da ombra a tutti i nemici entro 5 m."}
-MultiLanguageSpellData['it'][273653] = {name = "Artiglio d'Ombra", additional_info = "{Portata di mischi}a}\n1.5 s di lancio\n[q]Attacca il nemico con artigli infusi d'ombra, infliggendo 2081482 danni da ombra."}
+MultiLanguageSpellData['it'][273653] = {name = "Artiglio d'Ombra", additional_info = "{Portata di mischi}a}\n1.5 s di lancio\n[q]Attacca il nemico con artigli infusi d'ombra, infliggendo 9 danni da ombra."}
 MultiLanguageSpellData['it'][273654] = {name = "Balzo Sismico", additional_info = "Portata di 8 - 30 m\nIstantaneo\n[q]Balza in aria e si abbatte sui nemici entro 8 m dall'area bersaglio, infliggendo 22 danni fisici e provocando un terremoto. Il terremoto infligge 7 danni da natura ogni 1 s e riduce la velocità di movimento dei bersagli del 50%."}
 MultiLanguageSpellData['it'][273655] = {name = "Cadavere", additional_info = "Istantaneo\n[q]Morto."}
 MultiLanguageSpellData['it'][273656] = {name = "Balzo Sismico", additional_info = "Portata illimitata\nIstantaneo\n[q]Balza in aria e si abbatte sui nemici entro 8 m dall'area bersaglio, infliggendo 22 danni fisici e provocando un terremoto. Il terremoto infligge 7 danni da natura ogni 1 s e riduce la velocità di movimento dei bersagli del 50%."}
@@ -48231,13 +48228,13 @@ MultiLanguageSpellData['it'][280416] = {name = "Retaggio dei Mag'har", additiona
 MultiLanguageSpellData['it'][280417] = {name = "Retaggio dei Ferroscuro", additional_info = "Istantaneo\n[q]Ottieni gli aspetti dell'equipaggiamento Retaggio dei Ferroscuro."}
 MultiLanguageSpellData['it'][280418] = {name = "Salva d'Azerite", additional_info = "Portata illimitata\nIstantaneo\n[q]Scatena una salva di razzi d'Azerite, infliggendo danni da arcano ai nemici entro 15 m."}
 MultiLanguageSpellData['it'][280420] = {name = "Riparazione Incudine Nera", additional_info = nil}
-MultiLanguageSpellData['it'][280421] = {name = "Frantumazione", additional_info = "Istantaneo\n[q]Frantuma il terreno, infliggendo 4848899 danni ai nemici vicini."}
+MultiLanguageSpellData['it'][280421] = {name = "Frantumazione", additional_info = "Istantaneo\n[q]Frantuma il terreno, infliggendo 20 danni ai nemici vicini."}
 MultiLanguageSpellData['it'][280422] = {name = "Terrore Schiacciante", additional_info = "{2 s di lancio} {3 s di recupero}\n[q]L'incantatore scatena un'ondata di distruzione, infliggendo danni da ombra istantaneamente e danni da ombra aggiuntivi ogni 1 s per 5 s."}
-MultiLanguageSpellData['it'][280423] = {name = "Soffio di Lava", additional_info = "2 s di lancio\n[q]Infligge 5081962 danni da fuoco ai nemici frontali."}
+MultiLanguageSpellData['it'][280423] = {name = "Soffio di Lava", additional_info = "2 s di lancio\n[q]Infligge 21 danni da fuoco ai nemici frontali."}
 MultiLanguageSpellData['it'][280424] = {name = "Potenziamento Cuore", additional_info = nil}
 MultiLanguageSpellData['it'][280425] = {name = "Calore Indebolente", additional_info = "Istantaneo\n[q]Riduce la salute massima di un nemico del 35% per 1 min."}
 MultiLanguageSpellData['it'][280426] = {name = "Banchetto di Sangue", additional_info = "Portata illimitata\nIstantaneo\n[q]I tentacoli della corruzione di G'huun immobilizzano un bersaglio per 6 s .\n\n Dopo 6 s , gli accumuli di Sangue Putrido sui personaggi entro 8.5 m dal bersaglio si dissolvono e compare un Orrore Farfugliante."}
-MultiLanguageSpellData['it'][280427] = {name = "Morso Selvaggio", additional_info = "{Portata di mischi}a}\nIstantaneo\n[q]Morde un nemico, infliggendo danni fisici. La vittima sanguina, subendo 2909339 danni fisici aggiuntivi in 9 s."}
+MultiLanguageSpellData['it'][280427] = {name = "Morso Selvaggio", additional_info = "{Portata di mischi}a}\nIstantaneo\n[q]Morde un nemico, infliggendo danni fisici. La vittima sanguina, subendo 12 danni fisici aggiuntivi in 9 s."}
 MultiLanguageSpellData['it'][280428] = {name = "Mostruosità Ghoul", additional_info = "[q]I Ghoul evocati da Armata dei Morti si riuniscono per formare una Mostruosità Ghoul.\n Riduce il tempo di recupero di Armata dei Morti di 4 min."}
 MultiLanguageSpellData['it'][280429] = {name = "Sabbie Vorticanti", additional_info = "[q0][Azerite Power][q]Gli incantesimi e le abilità hanno una probabilità di evocare delle Sabbie Vorticanti, aumentando il tuo indice di critico di 191 per 12 s. I tuoi colpi critici estendono la durata delle sabbie di 1 s, fino a una durata massima di 18 s."}
 MultiLanguageSpellData['it'][280430] = {name = "Assorbimento Missile d'Azerite", additional_info = nil}
@@ -48519,9 +48516,6 @@ MultiLanguageSpellData['it'][280728] = {name = "Ser Taglietto", additional_info 
 MultiLanguageSpellData['it'][280729] = {name = "Vilartiglio Furioso", additional_info = "1.5 s di lancio\n[q]Evoca e congeda un Vilartiglio Furioso cavalcabile.\n[q]\"La Legione ha condotto numerosi esperimenti di corruzione su vari tipi di fauna, come questa specie di selvaggi uccelli provenienti da un mondo di lava.\"\nImpresa:\nUna bolgia di cavalcature\nCategoria:\nCalvacature"}
 MultiLanguageSpellData['it'][280730] = {name = "Corsiero Cuore Puro", additional_info = "1.5 s di lancio\n[q]Evoca e congeda un Corsiero Cuore Puro.\n[q]\"Questi destrieri sono noti da tempo, ma assistono solo coloro che hanno dimostrato di dare molta importanza all'amicizia.\"\nImpresa\nOsannato da 100 fazioni\nCategoria:\nReputazioni"}
 MultiLanguageSpellData['it'][280731] = {name = "Inesorabile", additional_info = "[q]Durante Avventatezza, gli effetti di Furia aumentano del 50%."}
-MultiLanguageSpellData['it'][280732] = {name = "Attenuatore Magico d'Intrusioni", additional_info = "2 s di lancio\nReagenti:\nMinerale di Monelite (12), Minerale di Argento della Tempesta (5), Bobina Isolata (10)\n[q]Crea un Attenuatore Magico d'Intrusioni.\nIstruttore delle Professioni:\nIngegneria di Battle for Azeroth (25)\nCosto:\n28\n\n[q2]Usa: Ti rende immune ad alcuni fastidi. L'effetto persiste oltre la morte. Dura 12 ore.\n[q]\"I fastidi risolti includono Balzo della Fede, abilità che reindirizzano la minaccia, e gli effetti di alcuni marchingegni, come i Fulminatori a Scambio.\""}
-MultiLanguageSpellData['it'][280733] = {name = "Attenuatore Magico d'Intrusioni", additional_info = "2 s di lancio\nReagenti:\nMinerale di Monelite (10), Minerale di Argento della Tempesta (5), Bobina Isolata (8)\n[q]Riduce i materiali necessari per creare un Attenuatore Magico d'Intrusioni.\nIstruttore delle Professioni:\nIngegneria di Battle for Azeroth (50)\nCosto:\n50\n\n[q2]Usa: Ti rende immune ad alcuni fastidi. L'effetto persiste oltre la morte. Dura 12 ore.\n[q]\"I fastidi risolti includono Balzo della Fede, abilità che reindirizzano la minaccia, e gli effetti di alcuni marchingegni, come i Fulminatori a Scambio.\""}
-MultiLanguageSpellData['it'][280734] = {name = "Attenuatore Magico d'Intrusioni", additional_info = "2 s di lancio\nReagenti:\nMinerale di Monelite (8), Minerale di Argento della Tempesta (4), Bobina Isolata (6)\n[q]Riduce significativamente i materiali necessari per creare un Attenuatore Magico d'Intrusioni.\nIstruttore delle Professioni:\nIngegneria di Battle for Azeroth (85)\nCosto:\n65\n\n[q2]Usa: Ti rende immune ad alcuni fastidi. L'effetto persiste oltre la morte. Dura 12 ore.\n[q]\"I fastidi risolti includono Balzo della Fede, abilità che reindirizzano la minaccia, e gli effetti di alcuni marchingegni, come i Fulminatori a Scambio.\""}
 MultiLanguageSpellData['it'][280735] = {name = "Esecuzione", additional_info = "{20 a 40 rabbia} Portata di mis{chia}\n{Istantaneo} {4.5 s di recupero}\nRichiede Arma da mischia\n[q]Tenta di uccidere un bersaglio ferito, infliggendo [([321.057% of Attack Power]) + ([321.057% of Attack Power])] danni fisici. Utilizzabile solo su nemici con meno del 35% della salute massima.\n\nGenera 0 rabbia."}
 MultiLanguageSpellData['it'][280744] = {name = "Calpestamento Demoniaco", additional_info = "{Istantaneo} {45 s di recupero}\n[q]Attivare Metamorfosi Demoniaca aumenta la velocità di movimento del 200% per 5 s, facendo cadere tutti i nemici sulla traiettoria e infliggendo ([10.7% of Attack Power]) danni fisici.\n\n Durante Calpestamento Demoniaco, si è immuni da effetti di rallentamento ma non si possono lanciare incantesimi o usare gli attacchi normali."}
 MultiLanguageSpellData['it'][280745] = {name = "Barbaro", additional_info = "[q]Per 3 s dopo aver lanciato Balzo Eroico, è possibile lanciarlo nuovamente a dispetto del tempo di recupero.\n\n Aumenta i danni inflitti da Balzo Eroico del 200%.\n(4s di recupero)"}
@@ -48674,3 +48668,5 @@ MultiLanguageSpellData['it'][280921] = {name = "Entrata Trivella", additional_in
 MultiLanguageSpellData['it'][280922] = {name = "Entrata Trivella", additional_info = nil}
 MultiLanguageSpellData['it'][280923] = {name = "Entrata Trivella", additional_info = nil}
 MultiLanguageSpellData['it'][280924] = {name = "Entrata Trivella", additional_info = nil}
+MultiLanguageSpellData['it'][280925] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['it'][280926] = {name = "Tocco del Vudù", additional_info = "Portata di 40 m\nIstantaneo\n[q]Cura il bersaglio di 0 ogni 5.2 s. Si accumula fino a 0 volte. Le cure inizialmente sono ridotte ma aumentano nel tempo."}

@@ -370,7 +370,7 @@ MultiLanguageNpcData['it'][121404] = {name = "Completamento Obiettivo", subname 
 MultiLanguageNpcData['it'][121405] = {name = "Completamento Obiettivo", subname = nil}
 MultiLanguageNpcData['it'][121406] = {name = "Completamento Obiettivo", subname = nil}
 MultiLanguageNpcData['it'][121407] = {name = "Completamento Obiettivo", subname = nil}
-MultiLanguageNpcData['it'][121408] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][121408] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][121409] = {name = "Cavaliere della Morte d'Ebano", subname = nil}
 MultiLanguageNpcData['it'][121410] = {name = "Vendicatore Boros", subname = nil}
 MultiLanguageNpcData['it'][121411] = {name = "Mirmidone Malaspira", subname = nil}
@@ -635,7 +635,7 @@ MultiLanguageNpcData['it'][121744] = {name = "Troll del Sangue", subname = nil}
 MultiLanguageNpcData['it'][121752] = {name = "Viscido", subname = "Servitore del Re dei Lich"}
 MultiLanguageNpcData['it'][121753] = {name = "Gran Ammiraglio Jes-Tereth", subname = nil}
 MultiLanguageNpcData['it'][121754] = {name = "Vereesa Ventolesto", subname = "Generale dei Guardaboschi del Patto d'Argento"}
-MultiLanguageNpcData['it'][121755] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][121755] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][121756] = {name = "Vendicatore Boros", subname = "Mano di Argus"}
 MultiLanguageNpcData['it'][121757] = {name = "Milite della VII Legione", subname = nil}
 MultiLanguageNpcData['it'][121758] = {name = "Cannoniere della VII Legione", subname = nil}
@@ -6191,7 +6191,7 @@ MultiLanguageNpcData['it'][128779] = {name = "Aethas il Predatore del Sole", sub
 MultiLanguageNpcData['it'][128780] = {name = "Crog da Battaglia", subname = nil}
 MultiLanguageNpcData['it'][128781] = {name = "Dama Liadrin", subname = "Matriarca dei Cavalieri del Sangue"}
 MultiLanguageNpcData['it'][128782] = {name = "Vendicatore Boros", subname = "Mano di Argus"}
-MultiLanguageNpcData['it'][128783] = {name = "Arator il Redentore", subname = nil}
+MultiLanguageNpcData['it'][128783] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['it'][128784] = {name = "Vereesa Ventolesto", subname = "Generale dei Guardaboschi del Patto d'Argento"}
 MultiLanguageNpcData['it'][128785] = {name = "Vendicatore Boros", subname = "Mano di Argus"}
 MultiLanguageNpcData['it'][128786] = {name = "Robba Klobba", subname = nil}
@@ -6643,7 +6643,7 @@ MultiLanguageNpcData['it'][129318] = {name = "Granchio Saltasabbia", subname = n
 MultiLanguageNpcData['it'][129319] = {name = "Guardia di Spade Tarkaj", subname = nil}
 MultiLanguageNpcData['it'][129320] = {name = "Pearl Channel Chicken (Storm)", subname = nil}
 MultiLanguageNpcData['it'][129321] = {name = "Pearl Channel Chicken (Current)", subname = nil}
-MultiLanguageNpcData['it'][129322] = {name = "Riarrangiatore Stilistico Portatile", subname = nil}
+MultiLanguageNpcData['it'][129322] = {name = "Riarrangiatore Stilistico Portatile", subname = "Trasmogrificatore"}
 MultiLanguageNpcData['it'][129323] = {name = "Imperatrice Lamazanna", subname = nil}
 MultiLanguageNpcData['it'][129329] = {name = "Servitore dello Zocalo", subname = nil}
 MultiLanguageNpcData['it'][129330] = {name = "Guardia di Spade Tarkaj", subname = nil}
@@ -33626,7 +33626,7 @@ MultiLanguageNpcData['it'][160776] = {name = "Rynhild", subname = "Ghermitore de
 MultiLanguageNpcData['it'][160777] = {name = "Karija", subname = "Le Ali della Morte"}
 MultiLanguageNpcData['it'][160778] = {name = "Guardingo del Profondo Famelico", subname = nil}
 MultiLanguageNpcData['it'][160779] = {name = "Succhiavita Ammantato", subname = nil}
-MultiLanguageNpcData['it'][160780] = {name = "Trematerra Fosco", subname = nil}
+MultiLanguageNpcData['it'][160780] = {name = "Mangiatore di Anime Furtivo", subname = nil}
 MultiLanguageNpcData['it'][160781] = {name = "Mangiatore di Anime Depredatore", subname = nil}
 MultiLanguageNpcData['it'][160782] = {name = "Malakas", subname = "L'Ombra Infinita"}
 MultiLanguageNpcData['it'][160783] = {name = "Valioc", subname = nil}
